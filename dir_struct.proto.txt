@@ -1,0 +1,5393 @@
+sticker_set {
+  key: 380528158190862337
+  value {
+    id: 380528158190862337
+    hash: -1692599546
+    short_name: "capoo_sp_animated"
+    title: "CAPOO #SP"
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFO5Sz820uAnS3mjFRwrhQQlAACuQADWOhHBeqYGfk-IGx2HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFO5Sz820uAnS3mjFRwrhQQlAACuQADWOhHBeqYGfk-IGx2HgQ"
+        doc_id: 380528158190862521
+        emoticon: "\360\237\230\207"
+        extension: ".tgs"
+        original_size: 50935
+        gif_size: 256470
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFO85Qw6vQY8uKN6PreBtL34gACqwADWOhHBQeu4VuWVZkcHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFO85Qw6vQY8uKN6PreBtL34gACqwADWOhHBQeu4VuWVZkcHgQ"
+        doc_id: 380528158190862507
+        emoticon: "\360\237\230\206"
+        extension: ".tgs"
+        original_size: 61858
+        gif_size: 218589
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOD2GkDrsegCIW6thGr3PCNAACrAADWOhHBWj257KBAlv2HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOD2GkDrsegCIW6thGr3PCNAACrAADWOhHBWj257KBAlv2HgQ"
+        doc_id: 380528158190862508
+        emoticon: "\360\237\221\217"
+        extension: ".tgs"
+        original_size: 32849
+        gif_size: 263375
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOHJHbboYM3MHBXhNA30R2NQACsAADWOhHBRKrEfBCn7DsHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOHJHbboYM3MHBXhNA30R2NQACsAADWOhHBRKrEfBCn7DsHgQ"
+        doc_id: 380528158190862512
+        emoticon: "\360\237\222\273"
+        extension: ".tgs"
+        original_size: 39175
+        gif_size: 100340
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOIMhEcNXddS55LTt8iBRzgwACtAADWOhHBXhA6UG1ubrwHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOIMhEcNXddS55LTt8iBRzgwACtAADWOhHBXhA6UG1ubrwHgQ"
+        doc_id: 380528158190862516
+        emoticon: "\360\237\221\215"
+        extension: ".tgs"
+        original_size: 64155
+        gif_size: 222114
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOLk799ykZWSr02fh7GXMKxgACugADWOhHBZmo9BoFuQ2VHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOLk799ykZWSr02fh7GXMKxgACugADWOhHBZmo9BoFuQ2VHgQ"
+        doc_id: 380528158190862522
+        emoticon: "\360\237\221\213"
+        extension: ".tgs"
+        original_size: 28806
+        gif_size: 221574
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOS2VlIkm3n3z93FKdcW7nTgACuAADWOhHBW-6SsdkNpyEHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOS2VlIkm3n3z93FKdcW7nTgACuAADWOhHBW-6SsdkNpyEHgQ"
+        doc_id: 380528158190862520
+        emoticon: "\342\217\260"
+        extension: ".tgs"
+        original_size: 65069
+        gif_size: 418150
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOZ7K_G19mRZDEF3rCPpWiBAACsQADWOhHBaYrDozY9dLCHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOZ7K_G19mRZDEF3rCPpWiBAACsQADWOhHBaYrDozY9dLCHgQ"
+        doc_id: 380528158190862513
+        emoticon: "\360\237\244\252"
+        extension: ".tgs"
+        original_size: 47603
+        gif_size: 275114
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOZnvKf_Zzl31fg0Ft_1ZNLgACbgEAAljoRwVk7etQZZfpNR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOZnvKf_Zzl31fg0Ft_1ZNLgACbgEAAljoRwVk7etQZZfpNR4E"
+        doc_id: 380528158190862702
+        emoticon: "\360\237\230\265"
+        extension: ".tgs"
+        original_size: 38816
+        gif_size: 253837
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFObzS-LIaRLkytmXZSgkilTAACrgADWOhHBVJEkGsn4F4RHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFObzS-LIaRLkytmXZSgkilTAACrgADWOhHBVJEkGsn4F4RHgQ"
+        doc_id: 380528158190862510
+        emoticon: "\360\237\222\223"
+        extension: ".tgs"
+        original_size: 54872
+        gif_size: 86422
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOddr9DFRcHaULIZgr5azzlQACqgADWOhHBeHNezRlc6H2HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOddr9DFRcHaULIZgr5azzlQACqgADWOhHBeHNezRlc6H2HgQ"
+        doc_id: 380528158190862506
+        emoticon: "\360\237\230\233"
+        extension: ".tgs"
+        original_size: 56047
+        gif_size: 211305
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOf5pkWkEkni6Ww1oYCVF0ugACtQADWOhHBY2IpXDKadpxHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOf5pkWkEkni6Ww1oYCVF0ugACtQADWOhHBY2IpXDKadpxHgQ"
+        doc_id: 380528158190862517
+        emoticon: "\360\237\244\252"
+        extension: ".tgs"
+        original_size: 59874
+        gif_size: 209685
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOg4WSbqworlhtJBEj3Q1MlAACsgADWOhHBSx5f61DjihnHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOg4WSbqworlhtJBEj3Q1MlAACsgADWOhHBSx5f61DjihnHgQ"
+        doc_id: 380528158190862514
+        emoticon: "\360\237\230\235"
+        extension: ".tgs"
+        original_size: 64094
+        gif_size: 455578
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOnEG8Oe7qFsclaWavSoSfngACswADWOhHBZ5i4s-3s_LsHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOnEG8Oe7qFsclaWavSoSfngACswADWOhHBZ5i4s-3s_LsHgQ"
+        doc_id: 380528158190862515
+        emoticon: "\360\237\244\254"
+        extension: ".tgs"
+        original_size: 47113
+        gif_size: 413847
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOnx_QTtT7Jixg7YYAAXk1MuQAAq0AA1joRwUFMcUqVg52MR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOnx_QTtT7Jixg7YYAAXk1MuQAAq0AA1joRwUFMcUqVg52MR4E"
+        doc_id: 380528158190862509
+        emoticon: "\360\237\214\210"
+        extension: ".tgs"
+        original_size: 29818
+        gif_size: 116654
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOq67P-WF-AvWK1RFAhMRWUwACtwADWOhHBb5I8zuyPcAXHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOq67P-WF-AvWK1RFAhMRWUwACtwADWOhHBb5I8zuyPcAXHgQ"
+        doc_id: 380528158190862519
+        emoticon: "\360\237\230\206"
+        extension: ".tgs"
+        original_size: 35439
+        gif_size: 507511
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOr3a-PB17Ed2H6G9bPNgXLQACtgADWOhHBavdFqEQ5nzGHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOr3a-PB17Ed2H6G9bPNgXLQACtgADWOhHBavdFqEQ5nzGHgQ"
+        doc_id: 380528158190862518
+        emoticon: "\360\237\230\215"
+        extension: ".tgs"
+        original_size: 54663
+        gif_size: 294660
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfAAFOz25OyWzwBlTOssAU-Nv6EgACrwADWOhHBWJHYQ08PgMCHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfAAFOz25OyWzwBlTOssAU-Nv6EgACrwADWOhHBWJHYQ08PgMCHgQ"
+        doc_id: 380528158190862511
+        emoticon: "\360\237\221\273"
+        extension: ".tgs"
+        original_size: 42804
+        gif_size: 729955
+      }
+    }
+    update_timestamp: 1662947279.0
+  }
+}
+sticker_set {
+  key: 438439731978567681
+  value {
+    id: 438439731978567681
+    hash: 1814703995
+    short_name: "Gakki"
+    title: "AragakiYui"
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQP0IfIvTQBdATuP6ea7KjDAAItAAOdphUGiNTTg_BkMpoeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQP0IfIvTQBdATuP6ea7KjDAAItAAOdphUGiNTTg_BkMpoeBA"
+        doc_id: 438439731978567725
+        emoticon: "\360\237\231\212"
+        extension: ".webp"
+        original_size: 19082
+        gif_size: 91543
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQRqjWd9xr-HMZXXY4fLtXCAAIsAAOdphUGiEHSA0t-KlUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQRqjWd9xr-HMZXXY4fLtXCAAIsAAOdphUGiEHSA0t-KlUeBA"
+        doc_id: 438439731978567724
+        emoticon: "\360\237\230\243"
+        extension: ".webp"
+        original_size: 12180
+        gif_size: 51231
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQRyJ0uBpLIrJJjxtJBgxpcAAI4AAOdphUGT2kdTtfK9VYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQRyJ0uBpLIrJJjxtJBgxpcAAI4AAOdphUGT2kdTtfK9VYeBA"
+        doc_id: 438439731978567736
+        emoticon: "\360\237\231\215"
+        extension: ".webp"
+        original_size: 18292
+        gif_size: 66528
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQZux-DGRpZYfN94g8zpasuAAIKAAOdphUG-Wt5igywYfkeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQZux-DGRpZYfN94g8zpasuAAIKAAOdphUG-Wt5igywYfkeBA"
+        doc_id: 438439731978567690
+        emoticon: "\360\237\244\224"
+        extension: ".webp"
+        original_size: 23916
+        gif_size: 86225
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQfkZw-qf9IomVhMQsOCGQ2AAIuAAOdphUGewNqi_JojxgeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQfkZw-qf9IomVhMQsOCGQ2AAIuAAOdphUGewNqi_JojxgeBA"
+        doc_id: 438439731978567726
+        emoticon: "\360\237\230\261"
+        extension: ".webp"
+        original_size: 36402
+        gif_size: 121066
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQllu0IXs30A7o6pHoaoZrOAAI6AAOdphUG7-G8yj4rh-4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQllu0IXs30A7o6pHoaoZrOAAI6AAOdphUG7-G8yj4rh-4eBA"
+        doc_id: 438439731978567738
+        emoticon: "\360\237\244\224"
+        extension: ".webp"
+        original_size: 22332
+        gif_size: 74271
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQp-d7G1a3hdCXp3lLxcUwlAAI0AAOdphUGQMIG_ppUJQMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQp-d7G1a3hdCXp3lLxcUwlAAI0AAOdphUGQMIG_ppUJQMeBA"
+        doc_id: 438439731978567732
+        emoticon: "\360\237\231\217"
+        extension: ".webp"
+        original_size: 31216
+        gif_size: 113072
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQr215cYR1QbPN3oJfrlMxXAAIUAAOdphUGt_dAEveh6mQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQr215cYR1QbPN3oJfrlMxXAAIUAAOdphUGt_dAEveh6mQeBA"
+        doc_id: 438439731978567700
+        emoticon: "\360\237\230\222"
+        extension: ".webp"
+        original_size: 19460
+        gif_size: 81052
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQr2W3TzleEc4HpApDSQzCrAAIgAAOdphUGNAOYifjBD3geBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQr2W3TzleEc4HpApDSQzCrAAIgAAOdphUGNAOYifjBD3geBA"
+        doc_id: 438439731978567712
+        emoticon: "\360\237\221\215"
+        extension: ".webp"
+        original_size: 20080
+        gif_size: 75825
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKQrfxafLTJj69s9Pq6bfIkyAAIzAAOdphUGnlNISAqkEcIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKQrfxafLTJj69s9Pq6bfIkyAAIzAAOdphUGnlNISAqkEcIeBA"
+        doc_id: 438439731978567731
+        emoticon: "\342\235\244"
+        extension: ".webp"
+        original_size: 19380
+        gif_size: 66242
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKR5A7MibdA4E6Fbsb-RbR83AAIkAAOdphUGDO86T9byp5UeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKR5A7MibdA4E6Fbsb-RbR83AAIkAAOdphUGDO86T9byp5UeBA"
+        doc_id: 438439731978567716
+        emoticon: "\342\234\214"
+        extension: ".webp"
+        original_size: 33200
+        gif_size: 91355
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKRB9ne9E4b6oR7Z5YZl-h3SAAI5AAOdphUGdW870KyTIE0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKRB9ne9E4b6oR7Z5YZl-h3SAAI5AAOdphUGdW870KyTIE0eBA"
+        doc_id: 438439731978567737
+        emoticon: "\360\237\244\244"
+        extension: ".webp"
+        original_size: 17466
+        gif_size: 65547
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKRNb4BtAvK-ov1lqG_0L0M0AAI7AAOdphUGqn2tUcVejBYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKRNb4BtAvK-ov1lqG_0L0M0AAI7AAOdphUGqn2tUcVejBYeBA"
+        doc_id: 438439731978567739
+        emoticon: "\360\237\230\237"
+        extension: ".webp"
+        original_size: 18776
+        gif_size: 102317
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKRhBn1kf6Pq9xL85WbaSeBvAAIMAAOdphUGvGRIwdje26geBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKRhBn1kf6Pq9xL85WbaSeBvAAIMAAOdphUGvGRIwdje26geBA"
+        doc_id: 438439731978567692
+        emoticon: "\360\237\230\236"
+        extension: ".webp"
+        original_size: 24634
+        gif_size: 78354
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKRomiEh2ZdFEc7SrMw0zl2MAAIyAAOdphUGbOS5qDKPEhAeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKRomiEh2ZdFEc7SrMw0zl2MAAIyAAOdphUGbOS5qDKPEhAeBA"
+        doc_id: 438439731978567730
+        emoticon: "\360\237\230\220"
+        extension: ".webp"
+        original_size: 25296
+        gif_size: 108655
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKRonqw5JBbIPiOOjhT7xn2YAAIvAAOdphUG9bgC-xbCg-IeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKRonqw5JBbIPiOOjhT7xn2YAAIvAAOdphUG9bgC-xbCg-IeBA"
+        doc_id: 438439731978567727
+        emoticon: "\360\237\226\225"
+        extension: ".webp"
+        original_size: 22376
+        gif_size: 87610
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKRpitaiRFWeaSQUsksyrOS-AAI2AAOdphUG2hP2LCP363ceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKRpitaiRFWeaSQUsksyrOS-AAI2AAOdphUG2hP2LCP363ceBA"
+        doc_id: 438439731978567734
+        emoticon: "\360\237\244\246"
+        extension: ".webp"
+        original_size: 13816
+        gif_size: 94693
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKSCQx3YzeFAxzHbxYMC3ta3AAImAAOdphUG3tvdN8wuboUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKSCQx3YzeFAxzHbxYMC3ta3AAImAAOdphUG3tvdN8wuboUeBA"
+        doc_id: 438439731978567718
+        emoticon: "\360\237\230\205"
+        extension: ".webp"
+        original_size: 26604
+        gif_size: 78197
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKSMy4Nt3VEfsYlcEHwlPvYCAAI1AAOdphUGgvB_n8r20SgeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKSMy4Nt3VEfsYlcEHwlPvYCAAI1AAOdphUGgvB_n8r20SgeBA"
+        doc_id: 438439731978567733
+        emoticon: "\360\237\230\253"
+        extension: ".webp"
+        original_size: 12982
+        gif_size: 58676
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKSQy8rrLFiAwgqvljB80NUmAAIcAAOdphUGJG0W2Mreh60eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKSQy8rrLFiAwgqvljB80NUmAAIcAAOdphUGJG0W2Mreh60eBA"
+        doc_id: 438439731978567708
+        emoticon: "\360\237\221\214"
+        extension: ".webp"
+        original_size: 20766
+        gif_size: 99960
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKSeUlSz4cU0KutlUX19GFqlAAI3AAOdphUGSsRNERQ_CyEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKSeUlSz4cU0KutlUX19GFqlAAI3AAOdphUGSsRNERQ_CyEeBA"
+        doc_id: 438439731978567735
+        emoticon: "\360\237\230\250"
+        extension: ".webp"
+        original_size: 29134
+        gif_size: 95334
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTCPmKny1-7nimmgNS0FzKrAAIQAAOdphUGvNGI5T_63sEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTCPmKny1-7nimmgNS0FzKrAAIQAAOdphUGvNGI5T_63sEeBA"
+        doc_id: 438439731978567696
+        emoticon: "\360\237\230\242"
+        extension: ".webp"
+        original_size: 12860
+        gif_size: 62169
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTECvWuaQOmo7wnKZGmdLZoAAIYAAOdphUGJpp2hmPFlM0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTECvWuaQOmo7wnKZGmdLZoAAIYAAOdphUGJpp2hmPFlM0eBA"
+        doc_id: 438439731978567704
+        emoticon: "\360\237\230\227"
+        extension: ".webp"
+        original_size: 16386
+        gif_size: 71898
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTHJWEO83D_uRfLmLnQYsjWAAIqAAOdphUGfLr4gNjtmroeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTHJWEO83D_uRfLmLnQYsjWAAIqAAOdphUGfLr4gNjtmroeBA"
+        doc_id: 438439731978567722
+        emoticon: "\360\237\222\252"
+        extension: ".webp"
+        original_size: 21674
+        gif_size: 83341
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTLrQ-afb6IV6-n8UJHFMCKAAIwAAOdphUGksfK9f5ka4YeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTLrQ-afb6IV6-n8UJHFMCKAAIwAAOdphUGksfK9f5ka4YeBA"
+        doc_id: 438439731978567728
+        emoticon: "\360\237\222\201"
+        extension: ".webp"
+        original_size: 29760
+        gif_size: 96045
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTNs8_LlCy1JDCb9PUmBGNKAAIxAAOdphUGLN6UgnDA63MeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTNs8_LlCy1JDCb9PUmBGNKAAIxAAOdphUGLN6UgnDA63MeBA"
+        doc_id: 438439731978567729
+        emoticon: "\360\237\245\203"
+        extension: ".webp"
+        original_size: 37390
+        gif_size: 113677
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTQ2yX6yiSpNrkn9PWlfhpuAAIaAAOdphUGis9l3U8SsYEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTQ2yX6yiSpNrkn9PWlfhpuAAIaAAOdphUGis9l3U8SsYEeBA"
+        doc_id: 438439731978567706
+        emoticon: "\360\237\230\217"
+        extension: ".webp"
+        original_size: 24694
+        gif_size: 79317
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTRLVsFHMN13QjTd9azzKCmAAISAAOdphUGKaQ9eetGl_QeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTRLVsFHMN13QjTd9azzKCmAAISAAOdphUGKaQ9eetGl_QeBA"
+        doc_id: 438439731978567698
+        emoticon: "\360\237\230\240"
+        extension: ".webp"
+        original_size: 21086
+        gif_size: 85180
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTUbXduKe3lYbG8BuRniKEPAAIIAAOdphUGZqv_JkG7ilceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTUbXduKe3lYbG8BuRniKEPAAIIAAOdphUGZqv_JkG7ilceBA"
+        doc_id: 438439731978567688
+        emoticon: "\360\237\230\224"
+        extension: ".webp"
+        original_size: 22390
+        gif_size: 83065
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTZzRCUZKbHUDr_lRvbjDldAAIoAAOdphUG4ZbJ4xqEQ6geBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTZzRCUZKbHUDr_lRvbjDldAAIoAAOdphUG4ZbJ4xqEQ6geBA"
+        doc_id: 438439731978567720
+        emoticon: "\360\237\230\247"
+        extension: ".webp"
+        original_size: 30840
+        gif_size: 80094
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTb8HlKlPVt9MzSqrVEN0JsAAIiAAOdphUGHZe6MaV2BAYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTb8HlKlPVt9MzSqrVEN0JsAAIiAAOdphUGHZe6MaV2BAYeBA"
+        doc_id: 438439731978567714
+        emoticon: "\360\237\230\232"
+        extension: ".webp"
+        original_size: 30086
+        gif_size: 101627
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTcD8gcCjhfg4x-9N2OeOy3AAIWAAOdphUGDq6PkFbqfHYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTcD8gcCjhfg4x-9N2OeOy3AAIWAAOdphUGDq6PkFbqfHYeBA"
+        doc_id: 438439731978567702
+        emoticon: "\360\237\231\210"
+        extension: ".webp"
+        original_size: 19262
+        gif_size: 67018
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTehZ3F7oTqB1FfPeTXPQsNAAI8AAOdphUG-QejxzLCX0ceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTehZ3F7oTqB1FfPeTXPQsNAAI8AAOdphUG-QejxzLCX0ceBA"
+        doc_id: 438439731978567740
+        emoticon: "\360\237\230\214"
+        extension: ".webp"
+        original_size: 38212
+        gif_size: 102594
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKTgG5dmW17dl0gwmeVkQdLRAAIOAAOdphUGvwQMMdcI9eYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKTgG5dmW17dl0gwmeVkQdLRAAIOAAOdphUGvwQMMdcI9eYeBA"
+        doc_id: 438439731978567694
+        emoticon: "\360\237\231\204"
+        extension: ".webp"
+        original_size: 16272
+        gif_size: 70160
+      }
+    }
+    update_timestamp: 1662949414.0
+  }
+}
+sticker_set {
+  key: 513939725124370439
+  value {
+    id: 513939725124370439
+    hash: -1402544800
+    short_name: "Majsoul_Rebuild_3"
+    title: "\351\233\200\351\255\202 Majsoul 3"
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU5TXiwQof5dT4NQycV-BGmAAJHAwACdeEhB5eFGe31dGSWHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU5TXiwQof5dT4NQycV-BGmAAJHAwACdeEhB5eFGe31dGSWHgQ"
+        doc_id: 513939725124371271
+        emoticon: "\360\237\230\266"
+        extension: ".webp"
+        original_size: 33968
+        gif_size: 113653
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU8_RjwC5e_cXsZih1fnlVVAAJVAwACdeEhB8SCyZAbJLr0HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU8_RjwC5e_cXsZih1fnlVVAAJVAwACdeEhB8SCyZAbJLr0HgQ"
+        doc_id: 513939725124371285
+        emoticon: "\360\237\245\265"
+        extension: ".webp"
+        original_size: 44100
+        gif_size: 100515
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU9lgfqdlb1fVaIcgnTlJ1cAAI0AwACdeEhB3m66PIWpqjdHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU9lgfqdlb1fVaIcgnTlJ1cAAI0AwACdeEhB3m66PIWpqjdHgQ"
+        doc_id: 513939725124371252
+        emoticon: "\360\237\221\215"
+        extension: ".webp"
+        original_size: 42026
+        gif_size: 123806
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUB-p_ZXy3tK1LxSl6QPN5HAAL_BAACdeEhBzOikBvZslPtHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUB-p_ZXy3tK1LxSl6QPN5HAAL_BAACdeEhBzOikBvZslPtHgQ"
+        doc_id: 513939725124371711
+        emoticon: "\360\237\230\217"
+        extension: ".webp"
+        original_size: 36416
+        gif_size: 128772
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUGQ_QvhcA7UdSm-2VZ22G6AAJnAwACdeEhBxlo-OLf8edJHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUGQ_QvhcA7UdSm-2VZ22G6AAJnAwACdeEhBxlo-OLf8edJHgQ"
+        doc_id: 513939725124371303
+        emoticon: "\360\237\230\250"
+        extension: ".webp"
+        original_size: 31458
+        gif_size: 115400
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUH6A2GXFeQzGhnX8dLcAuwAAL-BAACdeEhB8m3wRW7_HE8HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUH6A2GXFeQzGhnX8dLcAuwAAL-BAACdeEhB8m3wRW7_HE8HgQ"
+        doc_id: 513939725124371710
+        emoticon: "\360\237\215\226"
+        extension: ".webp"
+        original_size: 35414
+        gif_size: 120906
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUHMWEdJvaSr_3jcZVSSiHnAAJQBQACdeEhB8FeTFoAAWTX0x4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUHMWEdJvaSr_3jcZVSSiHnAAJQBQACdeEhB8FeTFoAAWTX0x4E"
+        doc_id: 513939725124371792
+        emoticon: "\360\237\230\265"
+        extension: ".webp"
+        original_size: 20172
+        gif_size: 99805
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUJZwkXOpgCoppbgIolW4SKAAKjAwACdeEhB-067WuHRetPHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUJZwkXOpgCoppbgIolW4SKAAKjAwACdeEhB-067WuHRetPHgQ"
+        doc_id: 513939725124371363
+        emoticon: "\360\237\221\206"
+        extension: ".webp"
+        original_size: 43416
+        gif_size: 136428
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUK_7LHgxIn53G1wNuZN7oyAAJSBQACdeEhB3yOEJciaGmSHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUK_7LHgxIn53G1wNuZN7oyAAJSBQACdeEhB3yOEJciaGmSHgQ"
+        doc_id: 513939725124371794
+        emoticon: "\360\237\233\213"
+        extension: ".webp"
+        original_size: 44358
+        gif_size: 113895
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKULb847qz30v0u4d3iL_GOkAAJiAwACdeEhB3aimdny_tWOHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKULb847qz30v0u4d3iL_GOkAAJiAwACdeEhB3aimdny_tWOHgQ"
+        doc_id: 513939725124371298
+        emoticon: "\360\237\222\252"
+        extension: ".webp"
+        original_size: 34148
+        gif_size: 114142
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUNmawfa3HKLItD41EVeAOPAAKaAwACdeEhB-swXnmYhx8CHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUNmawfa3HKLItD41EVeAOPAAKaAwACdeEhB-swXnmYhx8CHgQ"
+        doc_id: 513939725124371354
+        emoticon: "\342\235\244"
+        extension: ".webp"
+        original_size: 56128
+        gif_size: 135311
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUPkeFtlR0bcx3a7LI2qCpbAAJ0AwACdeEhB1ytZ3RGUCsXHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUPkeFtlR0bcx3a7LI2qCpbAAJ0AwACdeEhB1ytZ3RGUCsXHgQ"
+        doc_id: 513939725124371316
+        emoticon: "\360\237\245\264"
+        extension: ".webp"
+        original_size: 27082
+        gif_size: 93576
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUPrs7rfsSN9cLXDRRND1zBAAJ1AwACdeEhBx-O3dqYmV3qHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUPrs7rfsSN9cLXDRRND1zBAAJ1AwACdeEhBx-O3dqYmV3qHgQ"
+        doc_id: 513939725124371317
+        emoticon: "\342\230\225"
+        extension: ".webp"
+        original_size: 36668
+        gif_size: 106733
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUQ6im3fVCcklz8dDjgguMyAAJzAwACdeEhBzTJV1iKobJCHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUQ6im3fVCcklz8dDjgguMyAAJzAwACdeEhBzTJV1iKobJCHgQ"
+        doc_id: 513939725124371315
+        emoticon: "\360\237\230\217"
+        extension: ".webp"
+        original_size: 32102
+        gif_size: 100656
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUYH8kF_13aUsWTpH0ir6b4AAKfAwACdeEhBysJzeHoLRXZHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUYH8kF_13aUsWTpH0ir6b4AAKfAwACdeEhBysJzeHoLRXZHgQ"
+        doc_id: 513939725124371359
+        emoticon: "\360\237\230\273"
+        extension: ".webp"
+        original_size: 52500
+        gif_size: 123489
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUZqRZmeKhgO489Ax9Zhe__AAJZBQACdeEhB50IwO5TZy4JHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUZqRZmeKhgO489Ax9Zhe__AAJZBQACdeEhB50IwO5TZy4JHgQ"
+        doc_id: 513939725124371801
+        emoticon: "\360\237\230\272"
+        extension: ".webp"
+        original_size: 22232
+        gif_size: 98542
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU_JJJZ7n5MayQXzsyhnfsPAAJPBQACdeEhB2xCM-XSy3xtHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU_JJJZ7n5MayQXzsyhnfsPAAJPBQACdeEhB2xCM-XSy3xtHgQ"
+        doc_id: 513939725124371791
+        emoticon: "\360\237\215\266"
+        extension: ".webp"
+        original_size: 20386
+        gif_size: 86396
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUaUJNdq6Vvz7v-DaydIl-OAAJGBQACdeEhByM-XcQBrEk6HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUaUJNdq6Vvz7v-DaydIl-OAAJGBQACdeEhByM-XcQBrEk6HgQ"
+        doc_id: 513939725124371782
+        emoticon: "\360\237\215\254"
+        extension: ".webp"
+        original_size: 34404
+        gif_size: 112127
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUbDeOlQAUKB1DNbNaAPIRGAAJeAwACdeEhB4eK-DsIG96vHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUbDeOlQAUKB1DNbNaAPIRGAAJeAwACdeEhB4eK-DsIG96vHgQ"
+        doc_id: 513939725124371294
+        emoticon: "\360\237\230\253"
+        extension: ".webp"
+        original_size: 35450
+        gif_size: 113489
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUbgBbLm1j_1TtZbsOwjd3JAAKeAwACdeEhB8B1SzxCmsObHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUbgBbLm1j_1TtZbsOwjd3JAAKeAwACdeEhB8B1SzxCmsObHgQ"
+        doc_id: 513939725124371358
+        emoticon: "\360\237\247\250"
+        extension: ".webp"
+        original_size: 61584
+        gif_size: 132527
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUcLJsf3-N022D5dXuim4xFAAJWBQACdeEhB7FNE2krYQuUHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUcLJsf3-N022D5dXuim4xFAAJWBQACdeEhB7FNE2krYQuUHgQ"
+        doc_id: 513939725124371798
+        emoticon: "\360\237\222\200"
+        extension: ".webp"
+        original_size: 18082
+        gif_size: 69590
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUffmMr0AS-pT2ICDeGnK0wAAICBQACdeEhB_m_Mcmjsqy5HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUffmMr0AS-pT2ICDeGnK0wAAICBQACdeEhB_m_Mcmjsqy5HgQ"
+        doc_id: 513939725124371714
+        emoticon: "\342\230\271"
+        extension: ".webp"
+        original_size: 39900
+        gif_size: 117959
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUge-s0qOvjjCtyJtKu-5LYAAJIAwACdeEhBy4a5GA6oXMmHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUge-s0qOvjjCtyJtKu-5LYAAJIAwACdeEhBy4a5GA6oXMmHgQ"
+        doc_id: 513939725124371272
+        emoticon: "\360\237\230\225"
+        extension: ".webp"
+        original_size: 49012
+        gif_size: 116532
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUlK98M5WbOrRmlfdqEoEwRAAJOBQACdeEhB_Is9C-6i7WFHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUlK98M5WbOrRmlfdqEoEwRAAJOBQACdeEhB_Is9C-6i7WFHgQ"
+        doc_id: 513939725124371790
+        emoticon: "\360\237\230\250"
+        extension: ".webp"
+        original_size: 28714
+        gif_size: 68838
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUmiStN0mmEsWuy7O7wVsPHAAIrAwACdeEhB_dUYvkgITteHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUmiStN0mmEsWuy7O7wVsPHAAIrAwACdeEhB_dUYvkgITteHgQ"
+        doc_id: 513939725124371243
+        emoticon: "\360\237\224\253"
+        extension: ".webp"
+        original_size: 46154
+        gif_size: 113319
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUoENRFg9YIVUwrP3YgQgLGAAKXAwACdeEhB5wsth8ixIwsHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUoENRFg9YIVUwrP3YgQgLGAAKXAwACdeEhB5wsth8ixIwsHgQ"
+        doc_id: 513939725124371351
+        emoticon: "\360\237\216\206"
+        extension: ".webp"
+        original_size: 62462
+        gif_size: 112341
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUoSwdr1_f9iREKt2xOp3O3AAKYAwACdeEhB8kH9715PcpPHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUoSwdr1_f9iREKt2xOp3O3AAKYAwACdeEhB8kH9715PcpPHgQ"
+        doc_id: 513939725124371352
+        emoticon: "\360\237\245\237"
+        extension: ".webp"
+        original_size: 44562
+        gif_size: 116320
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUrZy5RKQAB6HKLFtOpuTzFqAACWAUAAnXhIQcHZcJgCBozjh4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUrZy5RKQAB6HKLFtOpuTzFqAACWAUAAnXhIQcHZcJgCBozjh4E"
+        doc_id: 513939725124371800
+        emoticon: "\360\237\230\236"
+        extension: ".webp"
+        original_size: 22226
+        gif_size: 117245
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUxs906MBqx7uWj2zEPIZAMAAJFBQACdeEhB5BDunL0CNh6HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUxs906MBqx7uWj2zEPIZAMAAJFBQACdeEhB5BDunL0CNh6HgQ"
+        doc_id: 513939725124371781
+        emoticon: "\360\237\230\253"
+        extension: ".webp"
+        original_size: 25136
+        gif_size: 116893
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUzVcS0W0fbDQwDUqPw52f2AAKkAwACdeEhB_ENZ80ooxsqHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUzVcS0W0fbDQwDUqPw52f2AAKkAwACdeEhB_ENZ80ooxsqHgQ"
+        doc_id: 513939725124371364
+        emoticon: "\360\237\230\256"
+        extension: ".webp"
+        original_size: 35006
+        gif_size: 122578
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV1P3SOiWkIqdGwSgABXYdFoAACSgMAAnXhIQddtvA0FmtQEB4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV1P3SOiWkIqdGwSgABXYdFoAACSgMAAnXhIQddtvA0FmtQEB4E"
+        doc_id: 513939725124371274
+        emoticon: "\360\237\230\253"
+        extension: ".webp"
+        original_size: 48424
+        gif_size: 118250
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV1yFSa1XxGK9DZzMVQNjhCAAIEBQACdeEhB7TxcBUVp8nYHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV1yFSa1XxGK9DZzMVQNjhCAAIEBQACdeEhB7TxcBUVp8nYHgQ"
+        doc_id: 513939725124371716
+        emoticon: "\360\237\230\236"
+        extension: ".webp"
+        original_size: 42614
+        gif_size: 110894
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV7E8p0fOAhuM2BDKbOpfN2AAJtAwACdeEhB7I9bmOjXMEgHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV7E8p0fOAhuM2BDKbOpfN2AAJtAwACdeEhB7I9bmOjXMEgHgQ"
+        doc_id: 513939725124371309
+        emoticon: "\342\230\271"
+        extension: ".webp"
+        original_size: 29746
+        gif_size: 100945
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV7ro_fNdt1oTN3wqKoXVHYAAJfAwACdeEhB3vkEiLtjD4hHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV7ro_fNdt1oTN3wqKoXVHYAAJfAwACdeEhB3vkEiLtjD4hHgQ"
+        doc_id: 513939725124371295
+        emoticon: "\360\237\230\262"
+        extension: ".webp"
+        original_size: 42410
+        gif_size: 114302
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVABpuA4KB-rYztVanG6udKAAJLAwACdeEhB063dDm2V90hHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVABpuA4KB-rYztVanG6udKAAJLAwACdeEhB063dDm2V90hHgQ"
+        doc_id: 513939725124371275
+        emoticon: "\360\237\222\241"
+        extension: ".webp"
+        original_size: 45084
+        gif_size: 109156
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVB2MGVb32kqqXy94z556GzAAJNAwACdeEhByRvOMQ95_qnHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVB2MGVb32kqqXy94z556GzAAJNAwACdeEhByRvOMQ95_qnHgQ"
+        doc_id: 513939725124371277
+        emoticon: "\342\235\223"
+        extension: ".webp"
+        original_size: 35322
+        gif_size: 118175
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVFsK2SzEkBLZZvltokYryTAAJmAwACdeEhBy_agKk04DhnHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVFsK2SzEkBLZZvltokYryTAAJmAwACdeEhBy_agKk04DhnHgQ"
+        doc_id: 513939725124371302
+        emoticon: "\360\237\244\224"
+        extension: ".webp"
+        original_size: 31522
+        gif_size: 110874
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVLM1TcPgPB25N-1Su4t_bsAAJgAwACdeEhB6v1B5wWvZKpHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVLM1TcPgPB25N-1Su4t_bsAAJgAwACdeEhB6v1B5wWvZKpHgQ"
+        doc_id: 513939725124371296
+        emoticon: "\360\237\230\216"
+        extension: ".webp"
+        original_size: 38030
+        gif_size: 110985
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVMmR2hJ-zcJG7rf2SSli3hAAJYAwACdeEhB0JDSgABZHlwch4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVMmR2hJ-zcJG7rf2SSli3hAAJYAwACdeEhB0JDSgABZHlwch4E"
+        doc_id: 513939725124371288
+        emoticon: "\360\237\245\265"
+        extension: ".webp"
+        original_size: 35706
+        gif_size: 121161
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVNrnx-hGiW-zDDfLDGnca0AAJXAwACdeEhB1-tgchDyBv9HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVNrnx-hGiW-zDDfLDGnca0AAJXAwACdeEhB1-tgchDyBv9HgQ"
+        doc_id: 513939725124371287
+        emoticon: "\360\237\230\206"
+        extension: ".webp"
+        original_size: 39454
+        gif_size: 98203
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVNv9J93xLBrHxPkuyZSJNaAAJPAwACdeEhBzzmiCpZpv7mHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVNv9J93xLBrHxPkuyZSJNaAAJPAwACdeEhBzzmiCpZpv7mHgQ"
+        doc_id: 513939725124371279
+        emoticon: "\360\237\230\261"
+        extension: ".webp"
+        original_size: 35572
+        gif_size: 112145
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVQUl5QZ3esYq9TPJg9KWMFAAKbAwACdeEhB7bDURdbKStOHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVQUl5QZ3esYq9TPJg9KWMFAAKbAwACdeEhB7bDURdbKStOHgQ"
+        doc_id: 513939725124371355
+        emoticon: "\360\237\231\217"
+        extension: ".webp"
+        original_size: 36222
+        gif_size: 100700
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVQycqwcu_xWERV6vheEDirAAIHBQACdeEhB4KebcvPUnhmHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVQycqwcu_xWERV6vheEDirAAIHBQACdeEhB4KebcvPUnhmHgQ"
+        doc_id: 513939725124371719
+        emoticon: "\360\237\244\252"
+        extension: ".webp"
+        original_size: 41932
+        gif_size: 128990
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVR1Dcad5rXwVSVKKPNEv7ZAAI1AwACdeEhByMsRs-wTrU7HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVR1Dcad5rXwVSVKKPNEv7ZAAI1AwACdeEhByMsRs-wTrU7HgQ"
+        doc_id: 513939725124371253
+        emoticon: "\360\237\230\242"
+        extension: ".webp"
+        original_size: 44598
+        gif_size: 110337
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVRq2snk2Tk8rk-7M8J-1C8AAKhAwACdeEhB0FFkUmvN_x6HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVRq2snk2Tk8rk-7M8J-1C8AAKhAwACdeEhB0FFkUmvN_x6HgQ"
+        doc_id: 513939725124371361
+        emoticon: "\360\237\216\206"
+        extension: ".webp"
+        original_size: 56026
+        gif_size: 116573
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVSyTOVduI9-gT2hoTgyjcvAAL9BAACdeEhB7uIIHs14fQhHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVSyTOVduI9-gT2hoTgyjcvAAL9BAACdeEhB7uIIHs14fQhHgQ"
+        doc_id: 513939725124371709
+        emoticon: "\360\237\230\276"
+        extension: ".webp"
+        original_size: 52524
+        gif_size: 136042
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVXL2ewPL-NE35TqaoC3Q1HAAJUBQACdeEhB7KjS_IGrtcVHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVXL2ewPL-NE35TqaoC3Q1HAAJUBQACdeEhB7KjS_IGrtcVHgQ"
+        doc_id: 513939725124371796
+        emoticon: "\360\237\230\260"
+        extension: ".webp"
+        original_size: 19376
+        gif_size: 105226
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVXOdve0TYghXmNe0xkQfKXAAJuAwACdeEhB9TmBS0a9Q8GHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVXOdve0TYghXmNe0xkQfKXAAJuAwACdeEhB9TmBS0a9Q8GHgQ"
+        doc_id: 513939725124371310
+        emoticon: "\360\237\244\251"
+        extension: ".webp"
+        original_size: 27456
+        gif_size: 97302
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVZOy9ip-yy60Sl9NIs8A4kAAIsAwACdeEhB0gXJjuf3rtzHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVZOy9ip-yy60Sl9NIs8A4kAAIsAwACdeEhB0gXJjuf3rtzHgQ"
+        doc_id: 513939725124371244
+        emoticon: "\360\237\230\217"
+        extension: ".webp"
+        original_size: 37112
+        gif_size: 126143
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVZtbc-tn5oqmpd8KB4EZkKAAJkAwACdeEhB4Q_MK7vOTvdHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVZtbc-tn5oqmpd8KB4EZkKAAJkAwACdeEhB4Q_MK7vOTvdHgQ"
+        doc_id: 513939725124371300
+        emoticon: "\360\237\222\200"
+        extension: ".webp"
+        original_size: 18700
+        gif_size: 107894
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVb436DByqiUCfYCaVBbGUkAAJUAwACdeEhB9PzNdQLPjp9HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVb436DByqiUCfYCaVBbGUkAAJUAwACdeEhB9PzNdQLPjp9HgQ"
+        doc_id: 513939725124371284
+        emoticon: "\360\237\222\260"
+        extension: ".webp"
+        original_size: 57522
+        gif_size: 124437
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVhLgoz-70VUWvfvaSrthUFAAKUAwACdeEhB2F4sux8GNp7HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVhLgoz-70VUWvfvaSrthUFAAKUAwACdeEhB2F4sux8GNp7HgQ"
+        doc_id: 513939725124371348
+        emoticon: "\342\235\244"
+        extension: ".webp"
+        original_size: 48890
+        gif_size: 145721
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVhO2eKqGG9BnTSbyd3zjpaAAJZAwACdeEhB6d_rzwjxQM_HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVhO2eKqGG9BnTSbyd3zjpaAAJZAwACdeEhB6d_rzwjxQM_HgQ"
+        doc_id: 513939725124371289
+        emoticon: "\360\237\244\252"
+        extension: ".webp"
+        original_size: 53708
+        gif_size: 107535
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVhTiCX4X96oIT2gG7A9w3DAAKVAwACdeEhBzdbORNgDyI3HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVhTiCX4X96oIT2gG7A9w3DAAKVAwACdeEhBzdbORNgDyI3HgQ"
+        doc_id: 513939725124371349
+        emoticon: "\360\237\225\266"
+        extension: ".webp"
+        original_size: 44626
+        gif_size: 142410
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVlzVaVjH2REwP8oQABiGyFmgACbAMAAnXhIQdI-QrmiGnSQB4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVlzVaVjH2REwP8oQABiGyFmgACbAMAAnXhIQdI-QrmiGnSQB4E"
+        doc_id: 513939725124371308
+        emoticon: "\360\237\230\244"
+        extension: ".webp"
+        original_size: 43194
+        gif_size: 110786
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVpC_JvbQp9Qje38BeiwB5yAAJXBQACdeEhB1y4yk4-5UYIHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVpC_JvbQp9Qje38BeiwB5yAAJXBQACdeEhB1y4yk4-5UYIHgQ"
+        doc_id: 513939725124371799
+        emoticon: "\342\230\272"
+        extension: ".webp"
+        original_size: 22390
+        gif_size: 103955
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVtcVWZ_DuDQJlYivR39Pl-AAMFAAJ14SEH-9GbY2JoAAExHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVtcVWZ_DuDQJlYivR39Pl-AAMFAAJ14SEH-9GbY2JoAAExHgQ"
+        doc_id: 513939725124371712
+        emoticon: "\360\237\215\271"
+        extension: ".webp"
+        original_size: 43092
+        gif_size: 130984
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVv-aNVwohRagABOPPEHfrmzgACTAUAAnXhIQehTIcvSjUYEx4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVv-aNVwohRagABOPPEHfrmzgACTAUAAnXhIQehTIcvSjUYEx4E"
+        doc_id: 513939725124371788
+        emoticon: "\360\237\230\240"
+        extension: ".webp"
+        original_size: 27114
+        gif_size: 111989
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVwSVFGaF-WONyQZabzR7ArAAJyAwACdeEhB4Ac9ou1LrpJHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVwSVFGaF-WONyQZabzR7ArAAJyAwACdeEhB4Ac9ou1LrpJHgQ"
+        doc_id: 513939725124371314
+        emoticon: "\360\237\230\222"
+        extension: ".webp"
+        original_size: 33412
+        gif_size: 99390
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVyNG6ineWovi6xL6FGftaUAAIxAwACdeEhBw2sICV6QjvVHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVyNG6ineWovi6xL6FGftaUAAIxAwACdeEhBw2sICV6QjvVHgQ"
+        doc_id: 513939725124371249
+        emoticon: "\360\237\230\263"
+        extension: ".webp"
+        original_size: 45764
+        gif_size: 110050
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKW3sSz_F6GsmczTpvt8XG1qAAIvAwACdeEhB7-YK0fPwuKXHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKW3sSz_F6GsmczTpvt8XG1qAAIvAwACdeEhB7-YK0fPwuKXHgQ"
+        doc_id: 513939725124371247
+        emoticon: "\360\237\230\212"
+        extension: ".webp"
+        original_size: 65540
+        gif_size: 150902
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWAFNjTHVNW5GZP1dckh4QuAAIBBQACdeEhB5fNzbv0rjrtHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWAFNjTHVNW5GZP1dckh4QuAAIBBQACdeEhB5fNzbv0rjrtHgQ"
+        doc_id: 513939725124371713
+        emoticon: "\360\237\222\252"
+        extension: ".webp"
+        original_size: 56058
+        gif_size: 116046
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWAGmPk0QljBqFXVT9VhqdvAAKWAwACdeEhBwc4BYtitIifHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWAGmPk0QljBqFXVT9VhqdvAAKWAwACdeEhBwc4BYtitIifHgQ"
+        doc_id: 513939725124371350
+        emoticon: "\360\237\247\250"
+        extension: ".webp"
+        original_size: 46426
+        gif_size: 158473
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWEa9PLGRjg97kL4lwFpEEqAAJLBQACdeEhB2qHT8ak4LaDHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWEa9PLGRjg97kL4lwFpEEqAAJLBQACdeEhB2qHT8ak4LaDHgQ"
+        doc_id: 513939725124371787
+        emoticon: "\360\237\230\241"
+        extension: ".webp"
+        original_size: 36142
+        gif_size: 116198
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWEei5_nRxjeExLPR9aEu0gAAKQAwACdeEhBzCVo-fMV6A-HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWEei5_nRxjeExLPR9aEu0gAAKQAwACdeEhBzCVo-fMV6A-HgQ"
+        doc_id: 513939725124371344
+        emoticon: "\360\237\216\216"
+        extension: ".webp"
+        original_size: 51256
+        gif_size: 129300
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWGQw4pQd1u1scQNqZheOEpAAJKBQACdeEhB_5lZTbPDt5kHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWGQw4pQd1u1scQNqZheOEpAAJKBQACdeEhB_5lZTbPDt5kHgQ"
+        doc_id: 513939725124371786
+        emoticon: "\360\237\230\265"
+        extension: ".webp"
+        original_size: 19936
+        gif_size: 123231
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWHIivMhgwjDG0p3qBpAYMdAAJRBQACdeEhB3-1GPDKTJYAAR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWHIivMhgwjDG0p3qBpAYMdAAJRBQACdeEhB3-1GPDKTJYAAR4E"
+        doc_id: 513939725124371793
+        emoticon: "\360\237\245\244"
+        extension: ".webp"
+        original_size: 25964
+        gif_size: 112597
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWHmD__6SInZLI3zAN9fAvnAAJSAwACdeEhB4ZM3nd0FsiAHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWHmD__6SInZLI3zAN9fAvnAAJSAwACdeEhB4ZM3nd0FsiAHgQ"
+        doc_id: 513939725124371282
+        emoticon: "\360\237\230\262"
+        extension: ".webp"
+        original_size: 46070
+        gif_size: 114632
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWLlB6ab_1OO6xsKgABjBGLFAACUwUAAnXhIQc3MRuG_oh5Uh4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWLlB6ab_1OO6xsKgABjBGLFAACUwUAAnXhIQc3MRuG_oh5Uh4E"
+        doc_id: 513939725124371795
+        emoticon: "\360\237\244\224"
+        extension: ".webp"
+        original_size: 24006
+        gif_size: 111413
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWMPO1Pma0jqa7-909te3GFAAKOAwACdeEhB-cRYp0AAQhyYh4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWMPO1Pma0jqa7-909te3GFAAKOAwACdeEhB-cRYp0AAQhyYh4E"
+        doc_id: 513939725124371342
+        emoticon: "\360\237\217\256"
+        extension: ".webp"
+        original_size: 46420
+        gif_size: 139248
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWMdWdgsQABrial9z30fJp5VwACLQMAAnXhIQdzzHwsjpNVKB4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWMdWdgsQABrial9z30fJp5VwACLQMAAnXhIQdzzHwsjpNVKB4E"
+        doc_id: 513939725124371245
+        emoticon: "\360\237\230\230"
+        extension: ".webp"
+        original_size: 54704
+        gif_size: 137667
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWNK03WcWEJxYetV0QyQXR6AAL8BAACdeEhBxsE1XUaf4iUHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWNK03WcWEJxYetV0QyQXR6AAL8BAACdeEhBxsE1XUaf4iUHgQ"
+        doc_id: 513939725124371708
+        emoticon: "\360\237\230\250"
+        extension: ".webp"
+        original_size: 35662
+        gif_size: 132131
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWRY5XWQJ2Ga3HJVeaVbVopAAJHBQACdeEhB0I9ENSedkh3HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWRY5XWQJ2Ga3HJVeaVbVopAAJHBQACdeEhB0I9ENSedkh3HgQ"
+        doc_id: 513939725124371783
+        emoticon: "\360\237\244\252"
+        extension: ".webp"
+        original_size: 20870
+        gif_size: 99420
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWRzmfzbZbVmu37nqrFywUsAAJOAwACdeEhB8Z7a0_qQMGjHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWRzmfzbZbVmu37nqrFywUsAAJOAwACdeEhB8Z7a0_qQMGjHgQ"
+        doc_id: 513939725124371278
+        emoticon: "\360\237\230\276"
+        extension: ".webp"
+        original_size: 44806
+        gif_size: 102682
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWTb5nYmnaB15kZIWr0hjjFAAJhAwACdeEhB1WyG5tO5B2WHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWTb5nYmnaB15kZIWr0hjjFAAJhAwACdeEhB1WyG5tO5B2WHgQ"
+        doc_id: 513939725124371297
+        emoticon: "\342\234\214"
+        extension: ".webp"
+        original_size: 37484
+        gif_size: 113611
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWUFKxDZeEsi2qdYO1wysdrAAJrAwACdeEhB_Q1cmsEsK6HHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWUFKxDZeEsi2qdYO1wysdrAAJrAwACdeEhB_Q1cmsEsK6HHgQ"
+        doc_id: 513939725124371307
+        emoticon: "\342\234\213"
+        extension: ".webp"
+        original_size: 33892
+        gif_size: 106290
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWX9K8cF8kgRscojhdAyvhdAAJ2AwACdeEhB6kXlL2tNZMgHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWX9K8cF8kgRscojhdAyvhdAAJ2AwACdeEhB6kXlL2tNZMgHgQ"
+        doc_id: 513939725124371318
+        emoticon: "\360\237\245\264"
+        extension: ".webp"
+        original_size: 34682
+        gif_size: 93870
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWc_ldeSKEUgeBs8dQ3kPW5AAJvAwACdeEhB_AZJpyndIlTHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWc_ldeSKEUgeBs8dQ3kPW5AAJvAwACdeEhB_AZJpyndIlTHgQ"
+        doc_id: 513939725124371311
+        emoticon: "\360\237\221\211"
+        extension: ".webp"
+        original_size: 34210
+        gif_size: 103264
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWf-PA7xklu2AaDUiMxY3hxAAJGAwACdeEhB_EFpRdkuNmkHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWf-PA7xklu2AaDUiMxY3hxAAJGAwACdeEhB_EFpRdkuNmkHgQ"
+        doc_id: 513939725124371270
+        emoticon: "\360\237\220\261"
+        extension: ".webp"
+        original_size: 57040
+        gif_size: 145606
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWgbhjr3FAOBjC-GetQCtDLAAJNBQACdeEhB8dIfVsk4V50HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWgbhjr3FAOBjC-GetQCtDLAAJNBQACdeEhB8dIfVsk4V50HgQ"
+        doc_id: 513939725124371789
+        emoticon: "\360\237\244\224"
+        extension: ".webp"
+        original_size: 22504
+        gif_size: 102148
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWjbK6Fj7xVD1fvqYBGkWaTAAKcAwACdeEhB39DPvqgfkU3HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWjbK6Fj7xVD1fvqYBGkWaTAAKcAwACdeEhB39DPvqgfkU3HgQ"
+        doc_id: 513939725124371356
+        emoticon: "\360\237\215\273"
+        extension: ".webp"
+        original_size: 37338
+        gif_size: 107484
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWknb672CEvEM9YxKCBKuQpAAJpAwACdeEhB89gr6dj8ojjHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWknb672CEvEM9YxKCBKuQpAAJpAwACdeEhB89gr6dj8ojjHgQ"
+        doc_id: 513939725124371305
+        emoticon: "\342\234\212"
+        extension: ".webp"
+        original_size: 32828
+        gif_size: 101194
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWm-s7SBVrbg2MQOOUeAAHG8QACWgMAAnXhIQeufuISRwTOtB4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWm-s7SBVrbg2MQOOUeAAHG8QACWgMAAnXhIQeufuISRwTOtB4E"
+        doc_id: 513939725124371290
+        emoticon: "\360\237\230\266"
+        extension: ".webp"
+        original_size: 34642
+        gif_size: 111810
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWrfDvj6AjzX6qOfxeWD4u-AAKTAwACdeEhB4Iazzwq_k5HHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWrfDvj6AjzX6qOfxeWD4u-AAKTAwACdeEhB4Iazzwq_k5HHgQ"
+        doc_id: 513939725124371347
+        emoticon: "\360\237\220\267"
+        extension: ".webp"
+        original_size: 44766
+        gif_size: 113977
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWt85-I__4Cxbj8b0yC5qrFAAJoAwACdeEhB8yWjITufcWEHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWt85-I__4Cxbj8b0yC5qrFAAJoAwACdeEhB8yWjITufcWEHgQ"
+        doc_id: 513939725124371304
+        emoticon: "\360\237\220\246"
+        extension: ".webp"
+        original_size: 34374
+        gif_size: 91786
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWvIX3zK60yl0hV7GeE6qB-AAIGBQACdeEhB_SVl5sDRDAOHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWvIX3zK60yl0hV7GeE6qB-AAIGBQACdeEhB_SVl5sDRDAOHgQ"
+        doc_id: 513939725124371718
+        emoticon: "\360\237\230\225"
+        extension: ".webp"
+        original_size: 39424
+        gif_size: 119582
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWwBmZJapLr9-_1bHMHqs-2AAJlAwACdeEhB_ccbhJBPFxrHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWwBmZJapLr9-_1bHMHqs-2AAJlAwACdeEhB_ccbhJBPFxrHgQ"
+        doc_id: 513939725124371301
+        emoticon: "\360\237\232\254"
+        extension: ".webp"
+        original_size: 33646
+        gif_size: 99141
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWxGeLpQ2Ww5J2HDepwFM-KAAJcAwACdeEhB1W8BM9EXe6CHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWxGeLpQ2Ww5J2HDepwFM-KAAJcAwACdeEhB1W8BM9EXe6CHgQ"
+        doc_id: 513939725124371292
+        emoticon: "\342\230\272"
+        extension: ".webp"
+        original_size: 35830
+        gif_size: 113930
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWyLjQO26YCyuRiKhi_AqVVAAIuAwACdeEhB5mjVqdBsI_xHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWyLjQO26YCyuRiKhi_AqVVAAIuAwACdeEhB5mjVqdBsI_xHgQ"
+        doc_id: 513939725124371246
+        emoticon: "\360\237\230\266"
+        extension: ".webp"
+        original_size: 47282
+        gif_size: 121939
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWydmfvf8hcM1axBu_cEzCSAAJWAwACdeEhB1fz1pVr4ODlHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWydmfvf8hcM1axBu_cEzCSAAJWAwACdeEhB1fz1pVr4ODlHgQ"
+        doc_id: 513939725124371286
+        emoticon: "\360\237\230\255"
+        extension: ".webp"
+        original_size: 29444
+        gif_size: 88579
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX-KbEWu91L44YWeISXJlFLAAKMAwACdeEhB_VV4wdeHo7jHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX-KbEWu91L44YWeISXJlFLAAKMAwACdeEhB_VV4wdeHo7jHgQ"
+        doc_id: 513939725124371340
+        emoticon: "\360\237\245\237"
+        extension: ".webp"
+        original_size: 44802
+        gif_size: 119820
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX6zM1-H9H71IFdknfMgpUTAAIyAwACdeEhB89EpBH7v48zHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX6zM1-H9H71IFdknfMgpUTAAIyAwACdeEhB89EpBH7v48zHgQ"
+        doc_id: 513939725124371250
+        emoticon: "\360\237\221\273"
+        extension: ".webp"
+        original_size: 49690
+        gif_size: 137594
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX7V0ydiGq29c3Rg8S8sIZjAAJJBQACdeEhB7N5McR6OBXwHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX7V0ydiGq29c3Rg8S8sIZjAAJJBQACdeEhB7N5McR6OBXwHgQ"
+        doc_id: 513939725124371785
+        emoticon: "\360\237\221\210"
+        extension: ".webp"
+        original_size: 28326
+        gif_size: 109360
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXC_Q6DAAGzsn64zob73wOnwwACSQMAAnXhIQezJKiN3v_3zB4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXC_Q6DAAGzsn64zob73wOnwwACSQMAAnXhIQezJKiN3v_3zB4E"
+        doc_id: 513939725124371273
+        emoticon: "\360\237\244\252"
+        extension: ".webp"
+        original_size: 38330
+        gif_size: 104456
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXCtFtVmREi6q4NR5AMxvlZAAKRAwACdeEhBw_JSa01hfnuHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXCtFtVmREi6q4NR5AMxvlZAAKRAwACdeEhBw_JSa01hfnuHgQ"
+        doc_id: 513939725124371345
+        emoticon: "\360\237\215\272"
+        extension: ".webp"
+        original_size: 43830
+        gif_size: 131327
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXDKCdR5TS3lqUW1WjnccUyAAKiAwACdeEhBwtmvvvacP-UHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXDKCdR5TS3lqUW1WjnccUyAAKiAwACdeEhBwtmvvvacP-UHgQ"
+        doc_id: 513939725124371362
+        emoticon: "\360\237\244\265"
+        extension: ".webp"
+        original_size: 40242
+        gif_size: 122145
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXFtt9VtV8dRrrdHBQ_dc8-AAKNAwACdeEhB9foxoWiWF0VHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXFtt9VtV8dRrrdHBQ_dc8-AAKNAwACdeEhB9foxoWiWF0VHgQ"
+        doc_id: 513939725124371341
+        emoticon: "\360\237\217\256"
+        extension: ".webp"
+        original_size: 42136
+        gif_size: 133256
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXKQ3rAamiYZ_7KvceLk2jcAAKPAwACdeEhB0LWt90d-XqZHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXKQ3rAamiYZ_7KvceLk2jcAAKPAwACdeEhB0LWt90d-XqZHgQ"
+        doc_id: 513939725124371343
+        emoticon: "\360\237\247\247"
+        extension: ".webp"
+        original_size: 43312
+        gif_size: 124481
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXKp8EgSFoxsS-9FQABywEs1QACcQMAAnXhIQdRAvO_tAtGyx4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXKp8EgSFoxsS-9FQABywEs1QACcQMAAnXhIQdRAvO_tAtGyx4E"
+        doc_id: 513939725124371313
+        emoticon: "\360\237\247\220"
+        extension: ".webp"
+        original_size: 32920
+        gif_size: 105347
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXPXq_Bg4vbQXYwpRitT8tQAAJIBQACdeEhBzrymVRT6knzHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXPXq_Bg4vbQXYwpRitT8tQAAJIBQACdeEhBzrymVRT6knzHgQ"
+        doc_id: 513939725124371784
+        emoticon: "\342\235\223"
+        extension: ".webp"
+        original_size: 26234
+        gif_size: 99055
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXSH8tY5qUcsoYNh4dbyyb2AAJVBQACdeEhB_zB1BoTL5qWHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXSH8tY5qUcsoYNh4dbyyb2AAJVBQACdeEhB_zB1BoTL5qWHgQ"
+        doc_id: 513939725124371797
+        emoticon: "\360\237\230\251"
+        extension: ".webp"
+        original_size: 22510
+        gif_size: 99346
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXTfwV-g_l0NZVp8sAMHdTwAAJdAwACdeEhB-ufHyfPb37yHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXTfwV-g_l0NZVp8sAMHdTwAAJdAwACdeEhB-ufHyfPb37yHgQ"
+        doc_id: 513939725124371293
+        emoticon: "\360\237\244\252"
+        extension: ".webp"
+        original_size: 45124
+        gif_size: 101103
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXTyGmScZ_3WH4UCPnvvRa2AAJTAwACdeEhB7jcHfe4LmS5HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXTyGmScZ_3WH4UCPnvvRa2AAJTAwACdeEhB7jcHfe4LmS5HgQ"
+        doc_id: 513939725124371283
+        emoticon: "\360\237\244\255"
+        extension: ".webp"
+        original_size: 31424
+        gif_size: 110044
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXWW7BmKquCdPAcB55X6oqvAAIwAwACdeEhB84JUChhR_UlHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXWW7BmKquCdPAcB55X6oqvAAIwAwACdeEhB84JUChhR_UlHgQ"
+        doc_id: 513939725124371248
+        emoticon: "\360\237\215\270"
+        extension: ".webp"
+        original_size: 50032
+        gif_size: 110743
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXXHBxuWQfn37-bh3ddj5d3AAJaBQACdeEhB-wsnYuU7GatHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXXHBxuWQfn37-bh3ddj5d3AAJaBQACdeEhB-wsnYuU7GatHgQ"
+        doc_id: 513939725124371802
+        emoticon: "\360\237\230\236"
+        extension: ".webp"
+        original_size: 32802
+        gif_size: 115775
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXXK2kMThBzXpA5gEXQQii4AAIzAwACdeEhBzlxugamHUIeHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXXK2kMThBzXpA5gEXQQii4AAIzAwACdeEhBzlxugamHUIeHgQ"
+        doc_id: 513939725124371251
+        emoticon: "\360\237\247\233\342\200\215\342\231\202"
+        extension: ".webp"
+        original_size: 36494
+        gif_size: 102523
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX_5WofNjO90ZI-q6P-LgLCAAKgAwACdeEhB1jkppT7jpiUHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX_5WofNjO90ZI-q6P-LgLCAAKgAwACdeEhB1jkppT7jpiUHgQ"
+        doc_id: 513939725124371360
+        emoticon: "\360\237\216\206"
+        extension: ".webp"
+        original_size: 66430
+        gif_size: 107432
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXb0oFrt-UqL3jM4HDsU83kAAIDBQACdeEhB8Yr7PUlzYLBHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXb0oFrt-UqL3jM4HDsU83kAAIDBQACdeEhB8Yr7PUlzYLBHgQ"
+        doc_id: 513939725124371715
+        emoticon: "\360\237\230\263"
+        extension: ".webp"
+        original_size: 32646
+        gif_size: 120472
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXcJIdxxWXxAsINdip7vd3pAAJwAwACdeEhB1SNf6d4P658HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXcJIdxxWXxAsINdip7vd3pAAJwAwACdeEhB1SNf6d4P658HgQ"
+        doc_id: 513939725124371312
+        emoticon: "\360\237\244\257"
+        extension: ".webp"
+        original_size: 27074
+        gif_size: 92383
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXcSkP4mjIQYRJVhf5Ri-XpAAIFBQACdeEhB2iv1y94M6bIHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXcSkP4mjIQYRJVhf5Ri-XpAAIFBQACdeEhB2iv1y94M6bIHgQ"
+        doc_id: 513939725124371717
+        emoticon: "\360\237\221\212"
+        extension: ".webp"
+        original_size: 44540
+        gif_size: 126433
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXib20nDEIYU1DbVueSdd56AAJbAwACdeEhB1Xwdk1RWFILHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXib20nDEIYU1DbVueSdd56AAJbAwACdeEhB1Xwdk1RWFILHgQ"
+        doc_id: 513939725124371291
+        emoticon: "\360\237\221\206"
+        extension: ".webp"
+        original_size: 40120
+        gif_size: 107445
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXkVz9muSCvMYhWLCz67SZ3AAJjAwACdeEhBx13N7Obt1GkHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXkVz9muSCvMYhWLCz67SZ3AAJjAwACdeEhBx13N7Obt1GkHgQ"
+        doc_id: 513939725124371299
+        emoticon: "\360\237\230\210"
+        extension: ".webp"
+        original_size: 30772
+        gif_size: 87099
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXnARBN6HBpzqkHFg65tXL7AAJMAwACdeEhB0RYVMhh36z5HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXnARBN6HBpzqkHFg65tXL7AAJMAwACdeEhB0RYVMhh36z5HgQ"
+        doc_id: 513939725124371276
+        emoticon: "\360\237\230\276"
+        extension: ".webp"
+        original_size: 35388
+        gif_size: 100289
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXokTEcvnsg_97LbBU7j58yAAKdAwACdeEhB8g2JNeYb0pMHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXokTEcvnsg_97LbBU7j58yAAKdAwACdeEhB8g2JNeYb0pMHgQ"
+        doc_id: 513939725124371357
+        emoticon: "\360\237\215\234"
+        extension: ".webp"
+        original_size: 39416
+        gif_size: 109677
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXot9iUhysiJ5AFvBR8dFSCAAKSAwACdeEhB-2dkjFkcYBIHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXot9iUhysiJ5AFvBR8dFSCAAKSAwACdeEhB-2dkjFkcYBIHgQ"
+        doc_id: 513939725124371346
+        emoticon: "\360\237\245\242"
+        extension: ".webp"
+        original_size: 44644
+        gif_size: 132544
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXpkIsOz0ioqb9jaTHAitCkAAJ3AwACdeEhB1NWZP2wUypCHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXpkIsOz0ioqb9jaTHAitCkAAJ3AwACdeEhB1NWZP2wUypCHgQ"
+        doc_id: 513939725124371319
+        emoticon: "\360\237\246\201"
+        extension: ".webp"
+        original_size: 58248
+        gif_size: 152207
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXqMoIXmEth9eqtBMhYGN93AAJqAwACdeEhB5couOlvcpLzHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXqMoIXmEth9eqtBMhYGN93AAJqAwACdeEhB5couOlvcpLzHgQ"
+        doc_id: 513939725124371306
+        emoticon: "\360\237\221\216"
+        extension: ".webp"
+        original_size: 33930
+        gif_size: 107820
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXsh-_YYpfI3fBL-dmSQVnxAAKZAwACdeEhB9PTswovS6L8HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXsh-_YYpfI3fBL-dmSQVnxAAKZAwACdeEhB9PTswovS6L8HgQ"
+        doc_id: 513939725124371353
+        emoticon: "\360\237\247\247"
+        extension: ".webp"
+        original_size: 54192
+        gif_size: 131635
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXsqVh1WHqkFiez_HrZQ-M-AAJQAwACdeEhBzIjFdZNyh0dHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXsqVh1WHqkFiez_HrZQ-M-AAJQAwACdeEhBzIjFdZNyh0dHgQ"
+        doc_id: 513939725124371280
+        emoticon: "\360\237\230\274"
+        extension: ".webp"
+        original_size: 41902
+        gif_size: 115072
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXwum6V-IBGniMcl-NDYpJRAAJRAwACdeEhB_ro9AZeGgP2HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXwum6V-IBGniMcl-NDYpJRAAJRAwACdeEhB_ro9AZeGgP2HgQ"
+        doc_id: 513939725124371281
+        emoticon: "\360\237\230\274"
+        extension: ".webp"
+        original_size: 43118
+        gif_size: 127893
+      }
+    }
+    update_timestamp: 1662949649.0
+  }
+}
+sticker_set {
+  key: 1033889561194790914
+  value {
+    id: 1033889561194790914
+    hash: 383128259
+    short_name: "BrotherJie"
+    title: "\346\235\260\345\223\245\344\270\215\350\246\201\345\225\246"
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU4NXxErr_RxsESHiG4FivYAAJ0AAMUHVkOKie3d8CM93IeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU4NXxErr_RxsESHiG4FivYAAJ0AAMUHVkOKie3d8CM93IeBA"
+        doc_id: 1033889561194791028
+        emoticon: "\360\237\223\232"
+        extension: ".webp"
+        original_size: 15428
+        gif_size: 92066
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU6yz4HQ8Ado-djlXZOtk6OAAKFAAMUHVkO9k3UkMJcrYMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU6yz4HQ8Ado-djlXZOtk6OAAKFAAMUHVkO9k3UkMJcrYMeBA"
+        doc_id: 1033889561194791045
+        emoticon: "\360\237\221\200"
+        extension: ".webp"
+        original_size: 11582
+        gif_size: 95169
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU9pMPIylrRVHgVi7FylMMeAAIeAAMUHVkO3BCEXRpX5u8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU9pMPIylrRVHgVi7FylMMeAAIeAAMUHVkO3BCEXRpX5u8eBA"
+        doc_id: 1033889561194790942
+        emoticon: "\360\237\221\200"
+        extension: ".webp"
+        original_size: 8342
+        gif_size: 85430
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUAAWJ88v1gsmQDOXEP-YUqiwACSQADFB1ZDo-U_HLu7SBGHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUAAWJ88v1gsmQDOXEP-YUqiwACSQADFB1ZDo-U_HLu7SBGHgQ"
+        doc_id: 1033889561194790985
+        emoticon: "\360\237\244\254"
+        extension: ".webp"
+        original_size: 10138
+        gif_size: 116712
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUDCYMaa7rF3OmM04480It4AAJgAAMUHVkOkqeOi7YkoakeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUDCYMaa7rF3OmM04480It4AAJgAAMUHVkOkqeOi7YkoakeBA"
+        doc_id: 1033889561194791008
+        emoticon: "\360\237\223\252"
+        extension: ".webp"
+        original_size: 25462
+        gif_size: 121662
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUKlx9h9kkPB4cYtfx1kwhwAAJqAAMUHVkObWdujsZThBceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUKlx9h9kkPB4cYtfx1kwhwAAJqAAMUHVkObWdujsZThBceBA"
+        doc_id: 1033889561194791018
+        emoticon: "\360\237\232\253"
+        extension: ".webp"
+        original_size: 21850
+        gif_size: 127543
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUMxekv79XXrLl7TDg-wYQXAAJ2AAMUHVkO4csiLJ3D5m8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUMxekv79XXrLl7TDg-wYQXAAJ2AAMUHVkO4csiLJ3D5m8eBA"
+        doc_id: 1033889561194791030
+        emoticon: "5\342\203\243"
+        extension: ".webp"
+        original_size: 20648
+        gif_size: 95667
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUOuiTF5ytRmTEsoc7GLHB0AAIkAAMUHVkOepMkFsJMyLIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUOuiTF5ytRmTEsoc7GLHB0AAIkAAMUHVkOepMkFsJMyLIeBA"
+        doc_id: 1033889561194790948
+        emoticon: "\360\237\230\264"
+        extension: ".webp"
+        original_size: 20970
+        gif_size: 122075
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUP7Gvpu8Jv0wgt2gv6zb9TAAJbAAMUHVkOJw2HZrabVu8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUP7Gvpu8Jv0wgt2gv6zb9TAAJbAAMUHVkOJw2HZrabVu8eBA"
+        doc_id: 1033889561194791003
+        emoticon: "\360\237\230\253"
+        extension: ".webp"
+        original_size: 12822
+        gif_size: 149494
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUQeF4HZXGcuBWpgAkk5NIfAAIPAAMUHVkONJ46V0PeTVMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUQeF4HZXGcuBWpgAkk5NIfAAIPAAMUHVkONJ46V0PeTVMeBA"
+        doc_id: 1033889561194790927
+        emoticon: "\360\237\231\210"
+        extension: ".webp"
+        original_size: 7032
+        gif_size: 31965
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUSafmiBULKpVp_MMz6wnS9AAI5AAMUHVkOuaAe-wlWD7MeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUSafmiBULKpVp_MMz6wnS9AAI5AAMUHVkOuaAe-wlWD7MeBA"
+        doc_id: 1033889561194790969
+        emoticon: "\360\237\210\262"
+        extension: ".webp"
+        original_size: 10112
+        gif_size: 93456
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUUpw_KZ5IXxdVG8tENC2zLAAJiAAMUHVkOcUcvLmHXKgkeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUUpw_KZ5IXxdVG8tENC2zLAAJiAAMUHVkOcUcvLmHXKgkeBA"
+        doc_id: 1033889561194791010
+        emoticon: "\360\237\217\200"
+        extension: ".webp"
+        original_size: 13836
+        gif_size: 86945
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUYElzV0mfqyo8mtuxIWqvqAAJGAAMUHVkOZiFpUz5ctL4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUYElzV0mfqyo8mtuxIWqvqAAJGAAMUHVkOZiFpUz5ctL4eBA"
+        doc_id: 1033889561194790982
+        emoticon: "\360\237\245\205"
+        extension: ".webp"
+        original_size: 20974
+        gif_size: 122836
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUZr4lYmmR3a_gTf9sWaoycAAJoAAMUHVkOEYX--mfZVA4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUZr4lYmmR3a_gTf9sWaoycAAJoAAMUHVkOEYX--mfZVA4eBA"
+        doc_id: 1033889561194791016
+        emoticon: "\342\235\223"
+        extension: ".webp"
+        original_size: 17406
+        gif_size: 123127
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUcAAEqs1v8OlkRfE8hVCXDjwACewADFB1ZDu4Oo9UIfQ5fHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUcAAEqs1v8OlkRfE8hVCXDjwACewADFB1ZDu4Oo9UIfQ5fHgQ"
+        doc_id: 1033889561194791035
+        emoticon: "\360\237\244\223"
+        extension: ".webp"
+        original_size: 20150
+        gif_size: 96350
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUeMtfJWSZpSruMyOMCLRIrAAKKAAMUHVkOK5JDZwEYB3weBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUeMtfJWSZpSruMyOMCLRIrAAKKAAMUHVkOK5JDZwEYB3weBA"
+        doc_id: 1033889561194791050
+        emoticon: "\360\237\222\273"
+        extension: ".webp"
+        original_size: 11774
+        gif_size: 100455
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUho-zAHJ7wYiWZZ6shbpmeAAIyAAMUHVkOpcKV2-RN58ceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUho-zAHJ7wYiWZZ6shbpmeAAIyAAMUHVkOpcKV2-RN58ceBA"
+        doc_id: 1033889561194790962
+        emoticon: "\360\237\244\227"
+        extension: ".webp"
+        original_size: 12728
+        gif_size: 97510
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUiQWypQLvYchUNhg5jxULIAAKGAAMUHVkO5xB3sHjfXE8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUiQWypQLvYchUNhg5jxULIAAKGAAMUHVkO5xB3sHjfXE8eBA"
+        doc_id: 1033889561194791046
+        emoticon: "\360\237\215\272"
+        extension: ".webp"
+        original_size: 8434
+        gif_size: 96238
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUjWG7xhsEX_XQqgYcxnwSJAAJ1AAMUHVkOmhRg6Ck5bFgeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUjWG7xhsEX_XQqgYcxnwSJAAJ1AAMUHVkOmhRg6Ck5bFgeBA"
+        doc_id: 1033889561194791029
+        emoticon: "\360\237\225\271"
+        extension: ".webp"
+        original_size: 17688
+        gif_size: 113458
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUnrY6IhY1yqYl6rkMff36oAAIbAAMUHVkOv1gyWcpaAnIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUnrY6IhY1yqYl6rkMff36oAAIbAAMUHVkOv1gyWcpaAnIeBA"
+        doc_id: 1033889561194790939
+        emoticon: "\360\237\244\242"
+        extension: ".webp"
+        original_size: 15472
+        gif_size: 110394
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUrHb5R5ss0g9qJKQuSk9QRAAIjAAMUHVkO8vqsL0JIymweBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUrHb5R5ss0g9qJKQuSk9QRAAIjAAMUHVkO8vqsL0JIymweBA"
+        doc_id: 1033889561194790947
+        emoticon: "\360\237\217\232"
+        extension: ".webp"
+        original_size: 20418
+        gif_size: 122276
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUv2zErZa-l81qC_la8_GC0AAJXAAMUHVkOgrx1Tr8UvIceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUv2zErZa-l81qC_la8_GC0AAJXAAMUHVkOgrx1Tr8UvIceBA"
+        doc_id: 1033889561194790999
+        emoticon: "\360\237\214\234"
+        extension: ".webp"
+        original_size: 8660
+        gif_size: 73081
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUvxzPE1fwKRx0Uc3dFYdl3AAI1AAMUHVkOQTkl7mX3YFAeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUvxzPE1fwKRx0Uc3dFYdl3AAI1AAMUHVkOQTkl7mX3YFAeBA"
+        doc_id: 1033889561194790965
+        emoticon: "\360\237\226\262"
+        extension: ".webp"
+        original_size: 12538
+        gif_size: 99920
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV-PtOWgUP3sftuWXlTXzEeAAIzAAMUHVkOppWRhKVhHh0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV-PtOWgUP3sftuWXlTXzEeAAIzAAMUHVkOppWRhKVhHh0eBA"
+        doc_id: 1033889561194790963
+        emoticon: "\360\237\225\271"
+        extension: ".webp"
+        original_size: 11258
+        gif_size: 100614
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV0NBUtc5MbMNfdCO4uJGkeAAJDAAMUHVkOWsEyWituX70eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV0NBUtc5MbMNfdCO4uJGkeAAJDAAMUHVkOWsEyWituX70eBA"
+        doc_id: 1033889561194790979
+        emoticon: "\360\237\230\200"
+        extension: ".webp"
+        original_size: 16986
+        gif_size: 112482
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV2JoZQqVwvbDO96WxqSiv4AAJyAAMUHVkOWc8cx_KqOCUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV2JoZQqVwvbDO96WxqSiv4AAJyAAMUHVkOWc8cx_KqOCUeBA"
+        doc_id: 1033889561194791026
+        emoticon: "\360\237\230\253"
+        extension: ".webp"
+        original_size: 16356
+        gif_size: 108873
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV5DO57s2avmYEMRB4CdBSXAAJAAAMUHVkOvDzF_Zg22PceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV5DO57s2avmYEMRB4CdBSXAAJAAAMUHVkOvDzF_Zg22PceBA"
+        doc_id: 1033889561194790976
+        emoticon: "\360\237\216\262"
+        extension: ".webp"
+        original_size: 19224
+        gif_size: 126818
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV9DJ181xN8mhYSanNU8ZSyAAIqAAMUHVkO6tFXmX0qa1geBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV9DJ181xN8mhYSanNU8ZSyAAIqAAMUHVkO6tFXmX0qa1geBA"
+        doc_id: 1033889561194790954
+        emoticon: "\360\237\230\262"
+        extension: ".webp"
+        original_size: 19050
+        gif_size: 106754
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVJtn-Sser9LN4C4BcHQWZAAAIdAAMUHVkOkjr-GzjwRyMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVJtn-Sser9LN4C4BcHQWZAAAIdAAMUHVkOkjr-GzjwRyMeBA"
+        doc_id: 1033889561194790941
+        emoticon: "\360\237\232\231"
+        extension: ".webp"
+        original_size: 19746
+        gif_size: 107221
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVKgxSlpqbHWgFqBBRbe4UiAAJ_AAMUHVkOmxi6R__n4pYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVKgxSlpqbHWgFqBBRbe4UiAAJ_AAMUHVkOmxi6R__n4pYeBA"
+        doc_id: 1033889561194791039
+        emoticon: "\342\255\225"
+        extension: ".webp"
+        original_size: 17414
+        gif_size: 96091
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVMEi1VC0_S3jqxN-FmUS8VAAI_AAMUHVkOUgcyoUOPG88eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVMEi1VC0_S3jqxN-FmUS8VAAI_AAMUHVkOUgcyoUOPG88eBA"
+        doc_id: 1033889561194790975
+        emoticon: "\360\237\231\217"
+        extension: ".webp"
+        original_size: 19518
+        gif_size: 98335
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVNxPcIRHpAB6wAATWYmjRP8AACNAADFB1ZDnv4PlQ7vq3AHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVNxPcIRHpAB6wAATWYmjRP8AACNAADFB1ZDnv4PlQ7vq3AHgQ"
+        doc_id: 1033889561194790964
+        emoticon: "\360\237\226\245"
+        extension: ".webp"
+        original_size: 12078
+        gif_size: 89751
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVROAABVhvLm0u5GpwWpZF35AACbQADFB1ZDtMQAhGoJ7Z3HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVROAABVhvLm0u5GpwWpZF35AACbQADFB1ZDtMQAhGoJ7Z3HgQ"
+        doc_id: 1033889561194791021
+        emoticon: "\342\201\211"
+        extension: ".webp"
+        original_size: 21218
+        gif_size: 131575
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVS8p6PwcmPZ0u1d8HE7SW2AAIQAAMUHVkOcwUS4FMPHLMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVS8p6PwcmPZ0u1d8HE7SW2AAIQAAMUHVkOcwUS4FMPHLMeBA"
+        doc_id: 1033889561194790928
+        emoticon: "\360\237\223\200"
+        extension: ".webp"
+        original_size: 20258
+        gif_size: 96158
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVTB4iMlcijsscuPFyLFLf2AAIvAAMUHVkOQ64sh_dDBlkeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVTB4iMlcijsscuPFyLFLf2AAIvAAMUHVkOQ64sh_dDBlkeBA"
+        doc_id: 1033889561194790959
+        emoticon: "\360\237\230\240"
+        extension: ".webp"
+        original_size: 13806
+        gif_size: 91422
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVVJpSNJ7i0ttwUulUT-NR3AAJVAAMUHVkOTcNeq6anIpIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVVJpSNJ7i0ttwUulUT-NR3AAJVAAMUHVkOTcNeq6anIpIeBA"
+        doc_id: 1033889561194790997
+        emoticon: "\360\237\214\232"
+        extension: ".webp"
+        original_size: 12408
+        gif_size: 99757
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVVwaaB_l2raRvPAlwC0aObAAI7AAMUHVkO6DJ0wBnmNYceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVVwaaB_l2raRvPAlwC0aObAAI7AAMUHVkO6DJ0wBnmNYceBA"
+        doc_id: 1033889561194790971
+        emoticon: "\360\237\230\211"
+        extension: ".webp"
+        original_size: 11388
+        gif_size: 97302
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVb3pvaYpiV3Qf43zoim5Q0AAJuAAMUHVkOXkfHoqM-LTQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVb3pvaYpiV3Qf43zoim5Q0AAJuAAMUHVkOXkfHoqM-LTQeBA"
+        doc_id: 1033889561194791022
+        emoticon: "\342\235\214"
+        extension: ".webp"
+        original_size: 10898
+        gif_size: 110297
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVbmCdnYDBmS53h8tF1Z2LrAAItAAMUHVkOjc0in88yQpYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVbmCdnYDBmS53h8tF1Z2LrAAItAAMUHVkOjc0in88yQpYeBA"
+        doc_id: 1033889561194790957
+        emoticon: "\360\237\244\231"
+        extension: ".webp"
+        original_size: 14950
+        gif_size: 103055
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVcCDCqUcaWKTUc-LO_XLZbAAKDAAMUHVkO7ZB0x-E5HKIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVcCDCqUcaWKTUc-LO_XLZbAAKDAAMUHVkO7ZB0x-E5HKIeBA"
+        doc_id: 1033889561194791043
+        emoticon: "\360\237\244\233"
+        extension: ".webp"
+        original_size: 8386
+        gif_size: 78078
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVcidYP2KH7HExK1YifwYWjAAIsAAMUHVkOkAT_SGaKVs4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVcidYP2KH7HExK1YifwYWjAAIsAAMUHVkOkAT_SGaKVs4eBA"
+        doc_id: 1033889561194790956
+        emoticon: "\360\237\226\220"
+        extension: ".webp"
+        original_size: 16244
+        gif_size: 100371
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVciiVwDORiklIcYHrvg1OsAAJ4AAMUHVkOFlzuuTuy2j4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVciiVwDORiklIcYHrvg1OsAAJ4AAMUHVkOFlzuuTuy2j4eBA"
+        doc_id: 1033889561194791032
+        emoticon: "\360\237\215\263"
+        extension: ".webp"
+        original_size: 20540
+        gif_size: 102284
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVdYdPazi0zXQyifRFcKqLwAAJeAAMUHVkOfEACoNYvi_ceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVdYdPazi0zXQyifRFcKqLwAAJeAAMUHVkOfEACoNYvi_ceBA"
+        doc_id: 1033889561194791006
+        emoticon: "\360\237\227\243"
+        extension: ".webp"
+        original_size: 13540
+        gif_size: 111499
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVddfeA3tf73g7E8kJw8EzeAAIaAAMUHVkOYKRU96ZIodUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVddfeA3tf73g7E8kJw8EzeAAIaAAMUHVkOYKRU96ZIodUeBA"
+        doc_id: 1033889561194790938
+        emoticon: "\360\237\247\220"
+        extension: ".webp"
+        original_size: 12152
+        gif_size: 99640
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVekO36_Ltk4WQscPQgB1jVAAImAAMUHVkOmT9ibSN9zqceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVekO36_Ltk4WQscPQgB1jVAAImAAMUHVkOmT9ibSN9zqceBA"
+        doc_id: 1033889561194790950
+        emoticon: "\360\237\221\251\342\200\215\360\237\246\262"
+        extension: ".webp"
+        original_size: 11040
+        gif_size: 100701
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVfsr2XhZ2pUd1DBt3ABWrhAAJCAAMUHVkOZqbV8xpa2TweBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVfsr2XhZ2pUd1DBt3ABWrhAAJCAAMUHVkOZqbV8xpa2TweBA"
+        doc_id: 1033889561194790978
+        emoticon: "\360\237\231\203"
+        extension: ".webp"
+        original_size: 31182
+        gif_size: 128879
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVkpmHNAzq4fzTe9Ysq06w3AAInAAMUHVkOMW5bTHsEemoeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVkpmHNAzq4fzTe9Ysq06w3AAInAAMUHVkOMW5bTHsEemoeBA"
+        doc_id: 1033889561194790951
+        emoticon: "\360\237\232\266\342\200\215\342\231\200"
+        extension: ".webp"
+        original_size: 11722
+        gif_size: 89346
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVnedH1JokMKCWDxsyoa7r0AAJ9AAMUHVkOfWal72A3aGMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVnedH1JokMKCWDxsyoa7r0AAJ9AAMUHVkOfWal72A3aGMeBA"
+        doc_id: 1033889561194791037
+        emoticon: "\360\237\221\245"
+        extension: ".webp"
+        original_size: 19372
+        gif_size: 112001
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVog60MZUyW23C6Y38NnC6dAAIXAAMUHVkOMzzI6I_wCmEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVog60MZUyW23C6Y38NnC6dAAIXAAMUHVkOMzzI6I_wCmEeBA"
+        doc_id: 1033889561194790935
+        emoticon: "\360\237\230\244"
+        extension: ".webp"
+        original_size: 13612
+        gif_size: 103245
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVp7E6aZdM1I1KGjZfkGAE0AAIuAAMUHVkOqgTwd4XPjwMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVp7E6aZdM1I1KGjZfkGAE0AAIuAAMUHVkOqgTwd4XPjwMeBA"
+        doc_id: 1033889561194790958
+        emoticon: "\360\237\230\243"
+        extension: ".webp"
+        original_size: 10494
+        gif_size: 99958
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVsu4smtcqHl9_ra_ixNPjfAAKCAAMUHVkOep3-Ze_AOH8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVsu4smtcqHl9_ra_ixNPjfAAKCAAMUHVkOep3-Ze_AOH8eBA"
+        doc_id: 1033889561194791042
+        emoticon: "\342\217\263"
+        extension: ".webp"
+        original_size: 13124
+        gif_size: 94241
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVuNCG-iMTvxMDW8PvcTXy7AAKNAAMUHVkONF9beIRO1IkeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVuNCG-iMTvxMDW8PvcTXy7AAKNAAMUHVkONF9beIRO1IkeBA"
+        doc_id: 1033889561194791053
+        emoticon: "\360\237\231\204"
+        extension: ".webp"
+        original_size: 17368
+        gif_size: 111110
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVvBukWoIhDw9fByfLiq0rtAAI2AAMUHVkOHq3EPpEWf64eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVvBukWoIhDw9fByfLiq0rtAAI2AAMUHVkOHq3EPpEWf64eBA"
+        doc_id: 1033889561194790966
+        emoticon: "\360\237\223\200"
+        extension: ".webp"
+        original_size: 15810
+        gif_size: 112672
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVwpBMC3hKlys8boCOVCIkLAAJnAAMUHVkO6fD7t1xX9-oeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVwpBMC3hKlys8boCOVCIkLAAJnAAMUHVkO6fD7t1xX9-oeBA"
+        doc_id: 1033889561194791015
+        emoticon: "\360\237\232\273"
+        extension: ".webp"
+        original_size: 6874
+        gif_size: 96779
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVx17mW53h2ZqZf2RTXNxRsAAJZAAMUHVkOj1OLa1sswVceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVx17mW53h2ZqZf2RTXNxRsAAJZAAMUHVkOj1OLa1sswVceBA"
+        doc_id: 1033889561194791001
+        emoticon: "\360\237\217\252"
+        extension: ".webp"
+        original_size: 21380
+        gif_size: 108785
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVx3CqUpLnlCgAB1-N2TaP-PQACGAADFB1ZDi3WLGqZeDw4HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVx3CqUpLnlCgAB1-N2TaP-PQACGAADFB1ZDi3WLGqZeDw4HgQ"
+        doc_id: 1033889561194790936
+        emoticon: "\360\237\225\271"
+        extension: ".webp"
+        original_size: 16910
+        gif_size: 132087
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVzr1ZrFK4yeDuLa0S0ylQEAAKJAAMUHVkOJiR6wkKqheMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVzr1ZrFK4yeDuLa0S0ylQEAAKJAAMUHVkOJiR6wkKqheMeBA"
+        doc_id: 1033889561194791049
+        emoticon: "\360\237\217\253"
+        extension: ".webp"
+        original_size: 15068
+        gif_size: 113224
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKW-z_DASVQ8oTIeoF4u9F88AAJIAAMUHVkOdnRaHSIVaZIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKW-z_DASVQ8oTIeoF4u9F88AAJIAAMUHVkOdnRaHSIVaZIeBA"
+        doc_id: 1033889561194790984
+        emoticon: "\360\237\216\261"
+        extension: ".webp"
+        original_size: 14854
+        gif_size: 67349
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKW1-A6dEWnZCC3xs_xPDcnlAAJfAAMUHVkO8bxG4lwahZseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKW1-A6dEWnZCC3xs_xPDcnlAAJfAAMUHVkO8bxG4lwahZseBA"
+        doc_id: 1033889561194791007
+        emoticon: "\360\237\226\274"
+        extension: ".webp"
+        original_size: 22472
+        gif_size: 109379
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKW1DefQ-JKPwqmbdzPyNggQAAKBAAMUHVkOwZiaBL5glBAeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKW1DefQ-JKPwqmbdzPyNggQAAKBAAMUHVkOwZiaBL5glBAeBA"
+        doc_id: 1033889561194791041
+        emoticon: "\360\237\215\273"
+        extension: ".webp"
+        original_size: 27938
+        gif_size: 106867
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWBzuzufp_4xjKMjPgGnBHhAAJMAAMUHVkObbJhOGdP9O4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWBzuzufp_4xjKMjPgGnBHhAAJMAAMUHVkObbJhOGdP9O4eBA"
+        doc_id: 1033889561194790988
+        emoticon: "\342\255\220"
+        extension: ".webp"
+        original_size: 12266
+        gif_size: 92566
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWC9SYJQJYQxd_CuDD0zDxPAAIWAAMUHVkOUZPnT9IEuEEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWC9SYJQJYQxd_CuDD0zDxPAAIWAAMUHVkOUZPnT9IEuEEeBA"
+        doc_id: 1033889561194790934
+        emoticon: "\360\237\221\273"
+        extension: ".webp"
+        original_size: 14246
+        gif_size: 113927
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWDF7zDft0ZoWqrA7UUrVDZAAJTAAMUHVkO1W55Ldr8A6UeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWDF7zDft0ZoWqrA7UUrVDZAAJTAAMUHVkO1W55Ldr8A6UeBA"
+        doc_id: 1033889561194790995
+        emoticon: "\360\237\215\244"
+        extension: ".webp"
+        original_size: 15450
+        gif_size: 104661
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWEON20dtM1LFHAIjIp8tdzAAIiAAMUHVkO8ImXjMPcOs8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWEON20dtM1LFHAIjIp8tdzAAIiAAMUHVkO8ImXjMPcOs8eBA"
+        doc_id: 1033889561194790946
+        emoticon: "\360\237\222\252"
+        extension: ".webp"
+        original_size: 15782
+        gif_size: 108769
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWETMdhR2TwbHdhloIHrhRKAAIcAAMUHVkOdoJVYTy6as8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWETMdhR2TwbHdhloIHrhRKAAIcAAMUHVkOdoJVYTy6as8eBA"
+        doc_id: 1033889561194790940
+        emoticon: "\360\237\245\264"
+        extension: ".webp"
+        original_size: 22114
+        gif_size: 140693
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWK9jReENL-rLWVphFMpxcpAAI4AAMUHVkOkcK_5UcU26ceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWK9jReENL-rLWVphFMpxcpAAI4AAMUHVkOkcK_5UcU26ceBA"
+        doc_id: 1033889561194790968
+        emoticon: "\360\237\244\227"
+        extension: ".webp"
+        original_size: 14850
+        gif_size: 119149
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWNiXaMjUNjI48ry7afm3bfAAJjAAMUHVkODQcTcJ8mGEseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWNiXaMjUNjI48ry7afm3bfAAJjAAMUHVkODQcTcJ8mGEseBA"
+        doc_id: 1033889561194791011
+        emoticon: "\342\235\244"
+        extension: ".webp"
+        original_size: 15086
+        gif_size: 67181
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWPOTTIX3RaCxc1cBA5KOTLAAISAAMUHVkOIVPn_s7Q2-geBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWPOTTIX3RaCxc1cBA5KOTLAAISAAMUHVkOIVPn_s7Q2-geBA"
+        doc_id: 1033889561194790930
+        emoticon: "\360\237\245\265"
+        extension: ".webp"
+        original_size: 25180
+        gif_size: 107872
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWPe4-_Ky75LzDCoL9SC2RCAAI-AAMUHVkO0wsQrslqHpceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWPe4-_Ky75LzDCoL9SC2RCAAI-AAMUHVkO0wsQrslqHpceBA"
+        doc_id: 1033889561194790974
+        emoticon: "\360\237\230\276"
+        extension: ".webp"
+        original_size: 16836
+        gif_size: 131670
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWRubs4xfjjdvfyauQaYJMAA4gAAxQdWQ5a1GIPVrvfGh4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWRubs4xfjjdvfyauQaYJMAA4gAAxQdWQ5a1GIPVrvfGh4E"
+        doc_id: 1033889561194791048
+        emoticon: "\360\237\217\253"
+        extension: ".webp"
+        original_size: 14780
+        gif_size: 98721
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWTPMhIBjXr9izaZR3Wxoh1AAJkAAMUHVkOT0xC_DznoMUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWTPMhIBjXr9izaZR3Wxoh1AAJkAAMUHVkOT0xC_DznoMUeBA"
+        doc_id: 1033889561194791012
+        emoticon: "\342\235\214"
+        extension: ".webp"
+        original_size: 6470
+        gif_size: 74187
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWTxNRkoloS9MmEVq8WWit7AAIpAAMUHVkONwaiC3YV42EeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWTxNRkoloS9MmEVq8WWit7AAIpAAMUHVkONwaiC3YV42EeBA"
+        doc_id: 1033889561194790953
+        emoticon: "\360\237\244\252"
+        extension: ".webp"
+        original_size: 19054
+        gif_size: 91942
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWYIs5yOTZ3xZGnilO2SZlKAAITAAMUHVkOdg_ZDzGGCtIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWYIs5yOTZ3xZGnilO2SZlKAAITAAMUHVkOdg_ZDzGGCtIeBA"
+        doc_id: 1033889561194790931
+        emoticon: "\360\237\230\261"
+        extension: ".webp"
+        original_size: 21732
+        gif_size: 106721
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKW_csjwx1iFF2YFUa1DpA9CAAJwAAMUHVkOP-0BmdjH1J0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKW_csjwx1iFF2YFUa1DpA9CAAJwAAMUHVkOP-0BmdjH1J0eBA"
+        doc_id: 1033889561194791024
+        emoticon: "\360\237\224\231"
+        extension: ".webp"
+        original_size: 11614
+        gif_size: 110417
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWeTIeZkY_d11lOhkK3K503AAIwAAMUHVkOTFi3Olx3EsEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWeTIeZkY_d11lOhkK3K503AAIwAAMUHVkOTFi3Olx3EsEeBA"
+        doc_id: 1033889561194790960
+        emoticon: "\360\237\230\221"
+        extension: ".webp"
+        original_size: 10684
+        gif_size: 87566
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWj3MMAAZZiLo_rFj4DevDkTQAChwADFB1ZDviD1MuXB1sYHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWj3MMAAZZiLo_rFj4DevDkTQAChwADFB1ZDviD1MuXB1sYHgQ"
+        doc_id: 1033889561194791047
+        emoticon: "\360\237\216\275"
+        extension: ".webp"
+        original_size: 16836
+        gif_size: 106543
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWjE-2q5bpIiNPNtKNvJjssAAJcAAMUHVkOaoRTAlbaPKQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWjE-2q5bpIiNPNtKNvJjssAAJcAAMUHVkOaoRTAlbaPKQeBA"
+        doc_id: 1033889561194791004
+        emoticon: "\360\237\230\203"
+        extension: ".webp"
+        original_size: 20434
+        gif_size: 120759
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWjqziIxWGez5kej6R9OV11AAIgAAMUHVkOx5M1fyBnsVQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWjqziIxWGez5kej6R9OV11AAIgAAMUHVkOx5M1fyBnsVQeBA"
+        doc_id: 1033889561194790944
+        emoticon: "\360\237\244\235"
+        extension: ".webp"
+        original_size: 21888
+        gif_size: 109549
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWm4OW2Gi4eR04E_2sLmOiNAAI6AAMUHVkORir3PjXLGrkeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWm4OW2Gi4eR04E_2sLmOiNAAI6AAMUHVkORir3PjXLGrkeBA"
+        doc_id: 1033889561194790970
+        emoticon: "\360\237\222\212"
+        extension: ".webp"
+        original_size: 11636
+        gif_size: 91518
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWmIJOwMnplo2Q7ecC1prwqAAIrAAMUHVkOUgM9EI4DRLMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWmIJOwMnplo2Q7ecC1prwqAAIrAAMUHVkOUgM9EI4DRLMeBA"
+        doc_id: 1033889561194790955
+        emoticon: "\360\237\221\215"
+        extension: ".webp"
+        original_size: 23544
+        gif_size: 121276
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWmfwenNdaZlpEXGa3ceQE_AAJzAAMUHVkOClAos7ynUJseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWmfwenNdaZlpEXGa3ceQE_AAJzAAMUHVkOClAos7ynUJseBA"
+        doc_id: 1033889561194791027
+        emoticon: "\360\237\245\264"
+        extension: ".webp"
+        original_size: 17212
+        gif_size: 110556
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWo01jAzExqGind220_59XZAAJWAAMUHVkOcHChrDzJzbceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWo01jAzExqGind220_59XZAAJWAAMUHVkOcHChrDzJzbceBA"
+        doc_id: 1033889561194790998
+        emoticon: "\360\237\214\235"
+        extension: ".webp"
+        original_size: 22452
+        gif_size: 100883
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWo8QY3La5wVsccpolfFFAhAAIUAAMUHVkO4H98VZ_Ur6UeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWo8QY3La5wVsccpolfFFAhAAIUAAMUHVkO4H98VZ_Ur6UeBA"
+        doc_id: 1033889561194790932
+        emoticon: "\360\237\230\233"
+        extension: ".webp"
+        original_size: 9894
+        gif_size: 132784
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWqf97ct1eab7etzODgfTxsAAKMAAMUHVkOClUzzPWZXY8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWqf97ct1eab7etzODgfTxsAAKMAAMUHVkOClUzzPWZXY8eBA"
+        doc_id: 1033889561194791052
+        emoticon: "\360\237\245\272"
+        extension: ".webp"
+        original_size: 27242
+        gif_size: 144261
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWrNXWegmqG2S5u-TUVYpbmAAIlAAMUHVkO0uwgtIfCPRYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWrNXWegmqG2S5u-TUVYpbmAAIlAAMUHVkO0uwgtIfCPRYeBA"
+        doc_id: 1033889561194790949
+        emoticon: "\360\237\221\251\342\200\215\360\237\246\263"
+        extension: ".webp"
+        original_size: 18274
+        gif_size: 109429
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWrmuG7vNst52mFcKqjoaMsAAIhAAMUHVkOTwoXD0vfx9seBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWrmuG7vNst52mFcKqjoaMsAAIhAAMUHVkOTwoXD0vfx9seBA"
+        doc_id: 1033889561194790945
+        emoticon: "\360\237\221\264"
+        extension: ".webp"
+        original_size: 18462
+        gif_size: 118010
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX1pNYZpUvvfe3kdGLv_j1QAAJxAAMUHVkOS1ygwC-40rgeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX1pNYZpUvvfe3kdGLv_j1QAAJxAAMUHVkOS1ygwC-40rgeBA"
+        doc_id: 1033889561194791025
+        emoticon: "\360\237\221\266"
+        extension: ".webp"
+        original_size: 15976
+        gif_size: 124743
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX6LBV0g9mbbkI7fOXrjtGhAAJ3AAMUHVkO-Khu-xFMlsEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX6LBV0g9mbbkI7fOXrjtGhAAJ3AAMUHVkO-Khu-xFMlsEeBA"
+        doc_id: 1033889561194791031
+        emoticon: "\360\237\232\253"
+        extension: ".webp"
+        original_size: 23148
+        gif_size: 98290
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX7vFKRb18z8ntkYKi77G6qAAJrAAMUHVkOdc_Fu8lxqT4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX7vFKRb18z8ntkYKi77G6qAAJrAAMUHVkOdc_Fu8lxqT4eBA"
+        doc_id: 1033889561194791019
+        emoticon: "\360\237\216\241"
+        extension: ".webp"
+        original_size: 16516
+        gif_size: 112636
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX83H5e3N6ANyqmpGV-CvmpAAJYAAMUHVkOt0ADDJqy4ogeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX83H5e3N6ANyqmpGV-CvmpAAJYAAMUHVkOt0ADDJqy4ogeBA"
+        doc_id: 1033889561194791000
+        emoticon: "\360\237\222\246"
+        extension: ".webp"
+        original_size: 26016
+        gif_size: 109344
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX84PEdZLhq30VFhnHZqAv2AAJBAAMUHVkO8TQmvtnIRl8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX84PEdZLhq30VFhnHZqAv2AAJBAAMUHVkO8TQmvtnIRl8eBA"
+        doc_id: 1033889561194790977
+        emoticon: "\360\237\216\260"
+        extension: ".webp"
+        original_size: 19948
+        gif_size: 115622
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX93WL0l-56FDAkkY7nqfHeAAKLAAMUHVkOUxrN8H36Ty4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX93WL0l-56FDAkkY7nqfHeAAKLAAMUHVkOUxrN8H36Ty4eBA"
+        doc_id: 1033889561194791051
+        emoticon: "\360\237\244\227"
+        extension: ".webp"
+        original_size: 16334
+        gif_size: 131889
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXAc--y73w7n91XUAo54cdGAAJ-AAMUHVkO4FFLvWNmT3YeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXAc--y73w7n91XUAo54cdGAAJ-AAMUHVkO4FFLvWNmT3YeBA"
+        doc_id: 1033889561194791038
+        emoticon: "\360\237\217\252"
+        extension: ".webp"
+        original_size: 23666
+        gif_size: 119295
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXCCLlf4yAL0bNqP0BY0wmuAAI1AwAD9XFUUPOVXDPiNQUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXCCLlf4yAL0bNqP0BY0wmuAAI1AwAD9XFUUPOVXDPiNQUeBA"
+        doc_id: 6084913951903056693
+        emoticon: "\360\237\221\212"
+        extension: ".webp"
+        original_size: 14566
+        gif_size: 108659
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXDd0ETUCU1HnFR2bySDXdtAAJUAAMUHVkOezXFiA4XWbEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXDd0ETUCU1HnFR2bySDXdtAAJUAAMUHVkOezXFiA4XWbEeBA"
+        doc_id: 1033889561194790996
+        emoticon: "\360\237\220\266"
+        extension: ".webp"
+        original_size: 23448
+        gif_size: 104935
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXIOAweDz9Y-g7UzmXP41iJAAIZAAMUHVkOz4b35lVfFtseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXIOAweDz9Y-g7UzmXP41iJAAIZAAMUHVkOz4b35lVfFtseBA"
+        doc_id: 1033889561194790937
+        emoticon: "\360\237\223\225"
+        extension: ".webp"
+        original_size: 15862
+        gif_size: 103197
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXLqbGO5jq1pSm_AmsimgTIAAIVAAMUHVkOqXO5CxBu2EceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXLqbGO5jq1pSm_AmsimgTIAAIVAAMUHVkOqXO5CxBu2EceBA"
+        doc_id: 1033889561194790933
+        emoticon: "\360\237\230\257"
+        extension: ".webp"
+        original_size: 11624
+        gif_size: 123246
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXMkXpwLCHq-9lfrvj4-h14AAJSAAMUHVkOuSIb6M_wEXEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXMkXpwLCHq-9lfrvj4-h14AAJSAAMUHVkOuSIb6M_wEXEeBA"
+        doc_id: 1033889561194790994
+        emoticon: "\360\237\215\236"
+        extension: ".webp"
+        original_size: 23044
+        gif_size: 107409
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXNTa1O3U4prFTmn-WovzArAAIxAAMUHVkOHqidqI8hB-seBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXNTa1O3U4prFTmn-WovzArAAIxAAMUHVkOHqidqI8hB-seBA"
+        doc_id: 1033889561194790961
+        emoticon: "\360\237\230\262"
+        extension: ".webp"
+        original_size: 10108
+        gif_size: 100113
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXO8MlfKOuW3xbwJYwbzeH0AAJ5AAMUHVkOkWMFT1lA19QeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXO8MlfKOuW3xbwJYwbzeH0AAJ5AAMUHVkOkWMFT1lA19QeBA"
+        doc_id: 1033889561194791033
+        emoticon: "\360\237\244\274\342\200\215\342\231\202"
+        extension: ".webp"
+        original_size: 19618
+        gif_size: 92251
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXPKOnNI-OBGe8FPmc08YciAAJKAAMUHVkOxgVP81MohGweBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXPKOnNI-OBGe8FPmc08YciAAJKAAMUHVkOxgVP81MohGweBA"
+        doc_id: 1033889561194790986
+        emoticon: "\360\237\244\242"
+        extension: ".webp"
+        original_size: 13744
+        gif_size: 118979
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXUZn37y9ymIoLCkGKBLx39AAJlAAMUHVkO0wzGM6rUy2UeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXUZn37y9ymIoLCkGKBLx39AAJlAAMUHVkO0wzGM6rUy2UeBA"
+        doc_id: 1033889561194791013
+        emoticon: "\360\237\224\236"
+        extension: ".webp"
+        original_size: 4682
+        gif_size: 69793
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXVXTz4brGF5MgRr7z_briAAAJvAAMUHVkO1aUNQ5Any7UeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXVXTz4brGF5MgRr7z_briAAAJvAAMUHVkO1aUNQ5Any7UeBA"
+        doc_id: 1033889561194791023
+        emoticon: "\360\237\221\257\342\200\215\342\231\202"
+        extension: ".webp"
+        original_size: 14746
+        gif_size: 129499
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXXW4B1URoT2yr-Pjc60ka6AAIRAAMUHVkOvIJE8oLwl2keBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXXW4B1URoT2yr-Pjc60ka6AAIRAAMUHVkOvIJE8oLwl2keBA"
+        doc_id: 1033889561194790929
+        emoticon: "\360\237\216\227"
+        extension: ".webp"
+        original_size: 14938
+        gif_size: 121857
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXXkoa2azy7q-Ji3sgUunPEAAJEAAMUHVkO3AgxPyKfo9EeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXXkoa2azy7q-Ji3sgUunPEAAJEAAMUHVkO3AgxPyKfo9EeBA"
+        doc_id: 1033889561194790980
+        emoticon: "\360\237\225\272"
+        extension: ".webp"
+        original_size: 24358
+        gif_size: 98365
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXaNoW8E7MlCxs5mkRrYbmEAAJaAAMUHVkObZ_qLqDYs4oeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXaNoW8E7MlCxs5mkRrYbmEAAJaAAMUHVkObZ_qLqDYs4oeBA"
+        doc_id: 1033889561194791002
+        emoticon: "\360\237\222\212"
+        extension: ".webp"
+        original_size: 13784
+        gif_size: 88558
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXa_qZ2e_2tlVgdyeGGZBHAAAJdAAMUHVkOlSEY9hXqOq8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXa_qZ2e_2tlVgdyeGGZBHAAAJdAAMUHVkOlSEY9hXqOq8eBA"
+        doc_id: 1033889561194791005
+        emoticon: "\360\237\221\266"
+        extension: ".webp"
+        original_size: 15528
+        gif_size: 140585
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXcR6iaZiG2Rm1XkwG6KbYWAAI9AAMUHVkOC4XhAAHyewhMHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXcR6iaZiG2Rm1XkwG6KbYWAAI9AAMUHVkOC4XhAAHyewhMHgQ"
+        doc_id: 1033889561194790973
+        emoticon: "\360\237\244\262"
+        extension: ".webp"
+        original_size: 13826
+        gif_size: 103417
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXd3Nl_hCghswKQMfZqMAmHAAKAAAMUHVkOvkbuseBUgNMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXd3Nl_hCghswKQMfZqMAmHAAKAAAMUHVkOvkbuseBUgNMeBA"
+        doc_id: 1033889561194791040
+        emoticon: "\360\237\215\241"
+        extension: ".webp"
+        original_size: 22508
+        gif_size: 110769
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXdcKwJmgbf3W2pQgk0OoouAAJ8AAMUHVkOWKXEgH5hIakeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXdcKwJmgbf3W2pQgk0OoouAAJ8AAMUHVkOWKXEgH5hIakeBA"
+        doc_id: 1033889561194791036
+        emoticon: "\360\237\227\243"
+        extension: ".webp"
+        original_size: 19534
+        gif_size: 116322
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXjr2WF05CK1NCs0-6XeAeDAAKEAAMUHVkOK9xOLQdWZ18eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXjr2WF05CK1NCs0-6XeAeDAAKEAAMUHVkOK9xOLQdWZ18eBA"
+        doc_id: 1033889561194791044
+        emoticon: "\342\234\212"
+        extension: ".webp"
+        original_size: 12788
+        gif_size: 96021
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXl1oiOGRCf2QM5caxTWkiTAAI3AAMUHVkOmY8_25UFVp0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXl1oiOGRCf2QM5caxTWkiTAAI3AAMUHVkOmY8_25UFVp0eBA"
+        doc_id: 1033889561194790967
+        emoticon: "\360\237\230\241"
+        extension: ".webp"
+        original_size: 10446
+        gif_size: 100457
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXpp3dsqX2wtYeFLWzFigdQAAJFAAMUHVkOD2Ou7PHcGNYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXpp3dsqX2wtYeFLWzFigdQAAJFAAMUHVkOD2Ou7PHcGNYeBA"
+        doc_id: 1033889561194790981
+        emoticon: "\360\237\215\272"
+        extension: ".webp"
+        original_size: 27776
+        gif_size: 125005
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXq8DxajvRh0A7Vfg0rjGKfAAIoAAMUHVkOBEF9g_tES7IeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXq8DxajvRh0A7Vfg0rjGKfAAIoAAMUHVkOBEF9g_tES7IeBA"
+        doc_id: 1033889561194790952
+        emoticon: "\360\237\217\242"
+        extension: ".webp"
+        original_size: 4838
+        gif_size: 77716
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXr7WmRQF6IE-cszMlDTsToAAIfAAMUHVkOovH5c5QtB1EeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXr7WmRQF6IE-cszMlDTsToAAIfAAMUHVkOovH5c5QtB1EeBA"
+        doc_id: 1033889561194790943
+        emoticon: "\360\237\221\272"
+        extension: ".webp"
+        original_size: 17842
+        gif_size: 125348
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXs44Fd9PWnlThdBOHnuxvXAAJpAAMUHVkOti3NLvWF3ioeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXs44Fd9PWnlThdBOHnuxvXAAJpAAMUHVkOti3NLvWF3ioeBA"
+        doc_id: 1033889561194791017
+        emoticon: "\360\237\222\232"
+        extension: ".webp"
+        original_size: 10416
+        gif_size: 92966
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXuK3AkgfrW7tTv5G1iSNDsAAJhAAMUHVkOZe-7Par4548eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXuK3AkgfrW7tTv5G1iSNDsAAJhAAMUHVkOZe-7Par4548eBA"
+        doc_id: 1033889561194791009
+        emoticon: "\360\237\247\250"
+        extension: ".webp"
+        original_size: 11896
+        gif_size: 94461
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXudkrN7u2Ij4JNhnouhr7PAAJmAAMUHVkO4PLB-IoUzG8eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXudkrN7u2Ij4JNhnouhr7PAAJmAAMUHVkO4PLB-IoUzG8eBA"
+        doc_id: 1033889561194791014
+        emoticon: "\360\237\230\241"
+        extension: ".webp"
+        original_size: 9382
+        gif_size: 64999
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXz7FjUAo3d5h7e5HmgwyrvAAJ6AAMUHVkOEwj0x04prhQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXz7FjUAo3d5h7e5HmgwyrvAAJ6AAMUHVkOEwj0x04prhQeBA"
+        doc_id: 1033889561194791034
+        emoticon: "\360\237\230\232"
+        extension: ".webp"
+        original_size: 16602
+        gif_size: 93783
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXzAAH6QRerH1CQMHP-kSaisgACbAADFB1ZDpBbffGGalclHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXzAAH6QRerH1CQMHP-kSaisgACbAADFB1ZDpBbffGGalclHgQ"
+        doc_id: 1033889561194791020
+        emoticon: "\360\237\232\273"
+        extension: ".webp"
+        original_size: 9130
+        gif_size: 111031
+      }
+    }
+    update_timestamp: 1662949883.0
+  }
+}
+sticker_set {
+  key: 1360886329340068024
+  value {
+    id: 1360886329340068024
+    hash: 1612082560
+    short_name: "Animated_Round_Pretty_Cat"
+    title: "Round Pretty Cat @IMG2D"
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKU1JFL1e2RL-s-RxKKidta3AAKLEgAC6NbiEonVGX9cRtXgHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKU1JFL1e2RL-s-RxKKidta3AAKLEgAC6NbiEonVGX9cRtXgHgQ"
+        doc_id: 1360886329340072587
+        emoticon: "\360\237\221\200"
+        extension: ".tgs"
+        original_size: 25914
+        gif_size: 64544
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKURGeX84ZNLbFjF50DcPlAbAAKMEgAC6NbiEiyjhqLdURc2HgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKURGeX84ZNLbFjF50DcPlAbAAKMEgAC6NbiEiyjhqLdURc2HgQ"
+        doc_id: 1360886329340072588
+        emoticon: "\360\237\230\272"
+        extension: ".tgs"
+        original_size: 12823
+        gif_size: 26568
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUVBOrzlNQIH7U9dmDGgz-xAAKNEgAC6NbiEiOLGubLllrRHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUVBOrzlNQIH7U9dmDGgz-xAAKNEgAC6NbiEiOLGubLllrRHgQ"
+        doc_id: 1360886329340072589
+        emoticon: "\360\237\230\223"
+        extension: ".tgs"
+        original_size: 20448
+        gif_size: 51383
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUWCE6RzCoQYUXZZ2P2zWiIAAJ-EgAC6NbiEjPMQXEhplYuHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUWCE6RzCoQYUXZZ2P2zWiIAAJ-EgAC6NbiEjPMQXEhplYuHgQ"
+        doc_id: 1360886329340072574
+        emoticon: "\360\237\230\270"
+        extension: ".tgs"
+        original_size: 14684
+        gif_size: 29739
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKV252AYPQUlo223RdWwDUrRAAKOEgAC6NbiEgrNxh9Ud7EfHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKV252AYPQUlo223RdWwDUrRAAKOEgAC6NbiEgrNxh9Ud7EfHgQ"
+        doc_id: 1360886329340072590
+        emoticon: "\360\237\230\255"
+        extension: ".tgs"
+        original_size: 22029
+        gif_size: 43379
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVMmJAQh0Lf5Sf2lZIkiEqEAAKAEgAC6NbiEmkFbHXW_oiTHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVMmJAQh0Lf5Sf2lZIkiEqEAAKAEgAC6NbiEmkFbHXW_oiTHgQ"
+        doc_id: 1360886329340072576
+        emoticon: "\360\237\217\203\342\200\215\342\231\200"
+        extension: ".tgs"
+        original_size: 20513
+        gif_size: 29416
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVQCzliSdcykbT3YUNgvA6JAAKBEgAC6NbiEryqyj9jbTaoHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVQCzliSdcykbT3YUNgvA6JAAKBEgAC6NbiEryqyj9jbTaoHgQ"
+        doc_id: 1360886329340072577
+        emoticon: "\360\237\221\215"
+        extension: ".tgs"
+        original_size: 11817
+        gif_size: 38346
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVXah8GU2OvFP5rWiGbU3oaAAKHEgAC6NbiEmCYcaKutND4HgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVXah8GU2OvFP5rWiGbU3oaAAKHEgAC6NbiEmCYcaKutND4HgQ"
+        doc_id: 1360886329340072583
+        emoticon: "\360\237\230\272"
+        extension: ".tgs"
+        original_size: 9806
+        gif_size: 30324
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVizRtIudG2dy7HCykT4eoMAAKCEgAC6NbiEp9cPiQIPPzSHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVizRtIudG2dy7HCykT4eoMAAKCEgAC6NbiEp9cPiQIPPzSHgQ"
+        doc_id: 1360886329340072578
+        emoticon: "\360\237\221\216"
+        extension: ".tgs"
+        original_size: 17934
+        gif_size: 40657
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVsXdV0_Ly8dRZBV5JuHWf6AAKFEgAC6NbiEo88YqjJ-UwEHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVsXdV0_Ly8dRZBV5JuHWf6AAKFEgAC6NbiEo88YqjJ-UwEHgQ"
+        doc_id: 1360886329340072581
+        emoticon: "\360\237\231\202"
+        extension: ".tgs"
+        original_size: 5499
+        gif_size: 14564
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWLI-g2OVQAAZptW4JmD9KXhwACjxIAAujW4hJ377IIUw7L9B4E"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWLI-g2OVQAAZptW4JmD9KXhwACjxIAAujW4hJ377IIUw7L9B4E"
+        doc_id: 1360886329340072591
+        emoticon: "\360\237\221\200"
+        extension: ".tgs"
+        original_size: 18099
+        gif_size: 41211
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWcmxep-EeSN8zbSghiNiWXAAKEEgAC6NbiEhElE9uGcQyyHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWcmxep-EeSN8zbSghiNiWXAAKEEgAC6NbiEhElE9uGcQyyHgQ"
+        doc_id: 1360886329340072580
+        emoticon: "\360\237\231\202"
+        extension: ".tgs"
+        original_size: 10652
+        gif_size: 30616
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWiOeHwnd6Ow10TykrYvPZSAAJ9EgAC6NbiEs5VlH8VL84FHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWiOeHwnd6Ow10TykrYvPZSAAJ9EgAC6NbiEs5VlH8VL84FHgQ"
+        doc_id: 1360886329340072573
+        emoticon: "\360\237\230\270"
+        extension: ".tgs"
+        original_size: 5872
+        gif_size: 15771
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWmjeQzlCA63i4VngRN6Di2AAJ_EgAC6NbiEk1axew9tbXpHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWmjeQzlCA63i4VngRN6Di2AAJ_EgAC6NbiEk1axew9tbXpHgQ"
+        doc_id: 1360886329340072575
+        emoticon: "\360\237\232\266\342\200\215\342\231\200"
+        extension: ".tgs"
+        original_size: 13164
+        gif_size: 30440
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKX1iphE76OxM1Oz51SIMRLaAAKIEgAC6NbiEn2RxD_oel6BHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKX1iphE76OxM1Oz51SIMRLaAAKIEgAC6NbiEn2RxD_oel6BHgQ"
+        doc_id: 1360886329340072584
+        emoticon: "\360\237\230\272"
+        extension: ".tgs"
+        original_size: 4785
+        gif_size: 15073
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKX2RIO0mW_293Nni2QwaAbYAAJ8EgAC6NbiEmPsH5iQpKCrHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKX2RIO0mW_293Nni2QwaAbYAAJ8EgAC6NbiEmPsH5iQpKCrHgQ"
+        doc_id: 1360886329340072572
+        emoticon: "\360\237\233\251"
+        extension: ".tgs"
+        original_size: 18041
+        gif_size: 42717
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKX6cZDMOZcu3GSIXDW-noklAAKGEgAC6NbiEop3n9e0BlTQHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKX6cZDMOZcu3GSIXDW-noklAAKGEgAC6NbiEop3n9e0BlTQHgQ"
+        doc_id: 1360886329340072582
+        emoticon: "\360\237\244\270\342\200\215\342\231\200"
+        extension: ".tgs"
+        original_size: 14678
+        gif_size: 41122
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXJz4PRmy_TG9dU2mLbXq9RAAKKEgAC6NbiEgfXCpoFlg1QHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXJz4PRmy_TG9dU2mLbXq9RAAKKEgAC6NbiEgfXCpoFlg1QHgQ"
+        doc_id: 1360886329340072586
+        emoticon: "\360\237\221\220"
+        extension: ".tgs"
+        original_size: 11465
+        gif_size: 36252
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXiM3q4yCqYYrmzVeiCXmYIAAKQEgAC6NbiEjbUiNRX3fteHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXiM3q4yCqYYrmzVeiCXmYIAAKQEgAC6NbiEjbUiNRX3fteHgQ"
+        doc_id: 1360886329340072592
+        emoticon: "\360\237\230\272"
+        extension: ".tgs"
+        original_size: 11863
+        gif_size: 27907
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXmDyaFZ-XhleaLlRL_qrpEAAKJEgAC6NbiEv7RuTATn3pdHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXmDyaFZ-XhleaLlRL_qrpEAAKJEgAC6NbiEv7RuTATn3pdHgQ"
+        doc_id: 1360886329340072585
+        emoticon: "\360\237\232\266\342\200\215\342\231\200"
+        extension: ".tgs"
+        original_size: 13262
+        gif_size: 40272
+      }
+    }
+    update_timestamp: 1662949604.0
+  }
+}
+sticker_set {
+  key: 1360886329340068073
+  value {
+    id: 1360886329340068073
+    hash: 639194592
+    short_name: "Little_Birb"
+    title: "Little Birb @IMG2D"
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUAAUv2DZ7wQem85XzbV3XlQwACihUAAujW4hI64Q2iPzeojB4E"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUAAUv2DZ7wQem85XzbV3XlQwACihUAAujW4hI64Q2iPzeojB4E"
+        doc_id: 1360886329340073354
+        emoticon: "\360\237\230\244"
+        extension: ".tgs"
+        original_size: 10533
+        gif_size: 32286
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUCWw14zBQb1NWEuW4MMHCMAAKTFQAC6NbiEgRzx-R5hw6WHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUCWw14zBQb1NWEuW4MMHCMAAKTFQAC6NbiEgRzx-R5hw6WHgQ"
+        doc_id: 1360886329340073363
+        emoticon: "\360\237\224\250"
+        extension: ".tgs"
+        original_size: 27077
+        gif_size: 49646
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUXYkrQvNtuCylmamdZtmT6AAKWFQAC6NbiEu04l2hGbuKeHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUXYkrQvNtuCylmamdZtmT6AAKWFQAC6NbiEu04l2hGbuKeHgQ"
+        doc_id: 1360886329340073366
+        emoticon: "\360\237\231\202"
+        extension: ".tgs"
+        original_size: 8571
+        gif_size: 31238
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUuI3_CbfdqaCI0juHsPmekAAKLFQAC6NbiEsewCsekgwjdHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUuI3_CbfdqaCI0juHsPmekAAKLFQAC6NbiEsewCsekgwjdHgQ"
+        doc_id: 1360886329340073355
+        emoticon: "\360\237\244\225"
+        extension: ".tgs"
+        original_size: 16557
+        gif_size: 44931
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKUwObDl2c2UlDSnqU5_MSV1AAKPFQAC6NbiEs8NDTSV2k06HgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKUwObDl2c2UlDSnqU5_MSV1AAKPFQAC6NbiEs8NDTSV2k06HgQ"
+        doc_id: 1360886329340073359
+        emoticon: "\360\237\230\221"
+        extension: ".tgs"
+        original_size: 5120
+        gif_size: 11196
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKV2cSFursDSAi2zU54SOISgAAKCFQAC6NbiEtHQul00DAjfHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKV2cSFursDSAi2zU54SOISgAAKCFQAC6NbiEtHQul00DAjfHgQ"
+        doc_id: 1360886329340073346
+        emoticon: "\360\237\230\242"
+        extension: ".tgs"
+        original_size: 16240
+        gif_size: 27981
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVEBamqaOL0FNWM-Vm_zZMtAAKIFQAC6NbiEvFWLtja1GjvHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVEBamqaOL0FNWM-Vm_zZMtAAKIFQAC6NbiEvFWLtja1GjvHgQ"
+        doc_id: 1360886329340073352
+        emoticon: "\360\237\230\261"
+        extension: ".tgs"
+        original_size: 6929
+        gif_size: 23866
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVI2EIinJ7PYfuUWHkfww2CAAKHFQAC6NbiEpFJ7pg8ncehHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVI2EIinJ7PYfuUWHkfww2CAAKHFQAC6NbiEpFJ7pg8ncehHgQ"
+        doc_id: 1360886329340073351
+        emoticon: "\360\237\226\226"
+        extension: ".tgs"
+        original_size: 9022
+        gif_size: 41971
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVibRrKi1OyLln3SV25E7nxAAKQFQAC6NbiEm2gjNGPnxXUHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVibRrKi1OyLln3SV25E7nxAAKQFQAC6NbiEm2gjNGPnxXUHgQ"
+        doc_id: 1360886329340073360
+        emoticon: "\360\237\244\252"
+        extension: ".tgs"
+        original_size: 13399
+        gif_size: 40682
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKViiOAC0Bb2WpHZKSH8cuJ1AAKUFQAC6NbiEkAT-WMJ05HcHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKViiOAC0Bb2WpHZKSH8cuJ1AAKUFQAC6NbiEkAT-WMJ05HcHgQ"
+        doc_id: 1360886329340073364
+        emoticon: "\360\237\214\270"
+        extension: ".tgs"
+        original_size: 22805
+        gif_size: 36026
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVkVKNKyDJ93cGMWvY0s_ZEAAKRFQAC6NbiEu-RQF3Ue_bKHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVkVKNKyDJ93cGMWvY0s_ZEAAKRFQAC6NbiEu-RQF3Ue_bKHgQ"
+        doc_id: 1360886329340073361
+        emoticon: "\360\237\215\255"
+        extension: ".tgs"
+        original_size: 31538
+        gif_size: 51876
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVt1lDSCNHAZTNXSFPY2iWEAAKGFQAC6NbiEti35OtcrHWNHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVt1lDSCNHAZTNXSFPY2iWEAAKGFQAC6NbiEti35OtcrHWNHgQ"
+        doc_id: 1360886329340073350
+        emoticon: "\360\237\221\216"
+        extension: ".tgs"
+        original_size: 9976
+        gif_size: 39352
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKVxIehhSSDK1DMCXqvrQFGlAAKBFQAC6NbiErn9VlXlmpEhHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKVxIehhSSDK1DMCXqvrQFGlAAKBFQAC6NbiErn9VlXlmpEhHgQ"
+        doc_id: 1360886329340073345
+        emoticon: "\342\254\207"
+        extension: ".tgs"
+        original_size: 7578
+        gif_size: 22021
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKW4Ee8Eq4DgXYmCbluVlV2hAAKOFQAC6NbiEkZ71BrVt-CnHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKW4Ee8Eq4DgXYmCbluVlV2hAAKOFQAC6NbiEkZ71BrVt-CnHgQ"
+        doc_id: 1360886329340073358
+        emoticon: "\360\237\230\225"
+        extension: ".tgs"
+        original_size: 13880
+        gif_size: 24007
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWAQfz6NGc73TEHdgSHxyzDAAJ_FQAC6NbiEkZMfVP4vhn4HgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWAQfz6NGc73TEHdgSHxyzDAAJ_FQAC6NbiEkZMfVP4vhn4HgQ"
+        doc_id: 1360886329340073343
+        emoticon: "\360\237\230\212"
+        extension: ".tgs"
+        original_size: 6090
+        gif_size: 18226
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWP0Nzz4LmNG-72s0Q5vIjRAAKVFQAC6NbiEperhP8tqIvsHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWP0Nzz4LmNG-72s0Q5vIjRAAKVFQAC6NbiEperhP8tqIvsHgQ"
+        doc_id: 1360886329340073365
+        emoticon: "\360\237\230\264"
+        extension: ".tgs"
+        original_size: 11018
+        gif_size: 34266
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKWoZNNgine0IZBmiOtwAU8DAAKMFQAC6NbiEjoDLIJrNrv6HgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKWoZNNgine0IZBmiOtwAU8DAAKMFQAC6NbiEjoDLIJrNrv6HgQ"
+        doc_id: 1360886329340073356
+        emoticon: "\342\235\224"
+        extension: ".tgs"
+        original_size: 6719
+        gif_size: 22713
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXEpQ3vtfggo2ewZO6Vk5Z_AAKSFQAC6NbiElifQBMN4iiyHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXEpQ3vtfggo2ewZO6Vk5Z_AAKSFQAC6NbiElifQBMN4iiyHgQ"
+        doc_id: 1360886329340073362
+        emoticon: "\360\237\230\205"
+        extension: ".tgs"
+        original_size: 17049
+        gif_size: 45919
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXSQKkV0i5LuKURvsnM6WbOAAKEFQAC6NbiEprCOhj0FOiYHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXSQKkV0i5LuKURvsnM6WbOAAKEFQAC6NbiEprCOhj0FOiYHgQ"
+        doc_id: 1360886329340073348
+        emoticon: "\360\237\244\252"
+        extension: ".tgs"
+        original_size: 14672
+        gif_size: 38673
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXbRAwdiQNrRdx4fjIuhO-uAAKNFQAC6NbiEimG_QJgx5zhHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXbRAwdiQNrRdx4fjIuhO-uAAKNFQAC6NbiEimG_QJgx5zhHgQ"
+        doc_id: 1360886329340073357
+        emoticon: "\360\237\230\215"
+        extension: ".tgs"
+        original_size: 22150
+        gif_size: 40566
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXgFOTR3GRPN4s1Wy2cWqKpAAKDFQAC6NbiEmRf-HXZiL0VHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXgFOTR3GRPN4s1Wy2cWqKpAAKDFQAC6NbiEmRf-HXZiL0VHgQ"
+        doc_id: 1360886329340073347
+        emoticon: "\360\237\230\226"
+        extension: ".tgs"
+        original_size: 23239
+        gif_size: 79161
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXh0sRt_Xc-kC5nhMbU4KuCAAKJFQAC6NbiEpZh2RFLUuTxHgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXh0sRt_Xc-kC5nhMbU4KuCAAKJFQAC6NbiEpZh2RFLUuTxHgQ"
+        doc_id: 1360886329340073353
+        emoticon: "\342\230\271"
+        extension: ".tgs"
+        original_size: 7355
+        gif_size: 22845
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXmiGGBpsQiP5QtMetpqI_GAAKAFQAC6NbiEvi-xxEHz680HgQ"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXmiGGBpsQiP5QtMetpqI_GAAKAFQAC6NbiEvi-xxEHz680HgQ"
+        doc_id: 1360886329340073344
+        emoticon: "\360\237\230\240"
+        extension: ".tgs"
+        original_size: 9458
+        gif_size: 28729
+      }
+    }
+    sticker {
+      key: "CAACAgIAAxUAAWMfCKXnhB4DHAziRgWkuqOhqJ0AA4UVAALo1uIST_EF9OO2SoweBA"
+      value {
+        file_id: "CAACAgIAAxUAAWMfCKXnhB4DHAziRgWkuqOhqJ0AA4UVAALo1uIST_EF9OO2SoweBA"
+        doc_id: 1360886329340073349
+        emoticon: "\360\237\221\215"
+        extension: ".tgs"
+        original_size: 9251
+        gif_size: 39722
+      }
+    }
+    update_timestamp: 1662949834.0
+  }
+}
+sticker_set {
+  key: 1472937439067635714
+  value {
+    id: 1472937439067635714
+    hash: -868833280
+    short_name: "neko_webm_v1"
+    title: "\343\201\255\343\201\223\343\201\261\343\202\211"
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYDyzVx1EoJayCV05rrgth7AAIUBAACzjvhV6PGSF3gxEpdHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYDyzVx1EoJayCV05rrgth7AAIUBAACzjvhV6PGSF3gxEpdHgQ"
+        doc_id: 6332408307008930836
+        emoticon: "\360\237\222\244"
+        extension: ".webm"
+        original_size: 108880
+        gif_size: 875608
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYEp5K7QYWzEcygGks8buZvAALeAwACxaPRV8uIs8aUoMFPHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYEp5K7QYWzEcygGks8buZvAALeAwACxaPRV8uIs8aUoMFPHgQ"
+        doc_id: 6328019017936143326
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 55598
+        gif_size: 875667
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYGQdb4_hUvxpiFc5rgNuPAAAL0BAACWRIwVF3aOPfR8BQwHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYGQdb4_hUvxpiFc5rgNuPAAAL0BAACWRIwVF3aOPfR8BQwHgQ"
+        doc_id: 6066368871529448692
+        emoticon: "\342\206\230"
+        extension: ".webm"
+        original_size: 143135
+        gif_size: 407199
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYH_TYZ7XJgCbnfyryCO1lxAAKeAwACwhoAAVTVFl9Ei44LnB4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYH_TYZ7XJgCbnfyryCO1lxAAKeAwACwhoAAVTVFl9Ei44LnB4E"
+        doc_id: 6052867319711925150
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 234562
+        gif_size: 918483
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYNgCv02JFIMEUYulNfVEY_AAI9BQACLSHJVSOfVOaN8LlWHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYNgCv02JFIMEUYulNfVEY_AAI9BQACLSHJVSOfVOaN8LlWHgQ"
+        doc_id: 6181508440699962685
+        emoticon: "\360\237\230\272"
+        extension: ".webm"
+        original_size: 116426
+        gif_size: 963678
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYNgE56uOBCJXkzHJvFIFd6AALZBgAC44vhV4bGM1MetVFBHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYNgE56uOBCJXkzHJvFIFd6AALZBgAC44vhV4bGM1MetVFBHgQ"
+        doc_id: 6332496358133466841
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 203491
+        gif_size: 453758
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYQYIu1DBjnBtMnaTNy88iCAALPBwACGPkRVOTEgM9B3EkBHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYQYIu1DBjnBtMnaTNy88iCAALPBwACGPkRVOTEgM9B3EkBHgQ"
+        doc_id: 6057896855264561103
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 135955
+        gif_size: 910159
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYS8FyBEx-lvxS-V2EgpUixAAJ3BAACyI0wVFhthx2dg-kRHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYS8FyBEx-lvxS-V2EgpUixAAJ3BAACyI0wVFhthx2dg-kRHgQ"
+        doc_id: 6066504588201034871
+        emoticon: "\360\237\232\275"
+        extension: ".webm"
+        original_size: 179370
+        gif_size: 468459
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYXs7KztpjB6ahUT9OC7zbDAAKgBAAC_n85VJLAQce_I3gfHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYXs7KztpjB6ahUT9OC7zbDAAKgBAAC_n85VJLAQce_I3gfHgQ"
+        doc_id: 6069022701756875936
+        emoticon: "\360\237\231\210"
+        extension: ".webm"
+        original_size: 184167
+        gif_size: 911448
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKY_92ZL38QdXXD46z6VfMRrAALxBQACvE4AAVQXseKVw8Mqsh4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKY_92ZL38QdXXD46z6VfMRrAALxBQACvE4AAVQXseKVw8Mqsh4E"
+        doc_id: 6052924468546766321
+        emoticon: "\360\237\230\241"
+        extension: ".webm"
+        original_size: 109362
+        gif_size: 913185
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYkYdGO1OxTGloNJwL94MZJAAL9BAAC43xAVJEpuV0lq3P5HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYkYdGO1OxTGloNJwL94MZJAAL9BAAC43xAVJEpuV0lq3P5HgQ"
+        doc_id: 6070989612094850301
+        emoticon: "\360\237\215\234"
+        extension: ".webm"
+        original_size: 120437
+        gif_size: 566104
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYkgqrgNa0tiraRC4fVsNzwAAIBBQAC3DYAAVR0AAFI7IaPNBIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYkgqrgNa0tiraRC4fVsNzwAAIBBQAC3DYAAVR0AAFI7IaPNBIeBA"
+        doc_id: 6052898217706652929
+        emoticon: "\342\234\212"
+        extension: ".webm"
+        original_size: 102981
+        gif_size: 889436
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYlZK7WhEBFwv8RXN2j8kHGAAJ8AwACaWcwVG1muTsAAe4Ugh4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYlZK7WhEBFwv8RXN2j8kHGAAJ8AwACaWcwVG1muTsAAe4Ugh4E"
+        doc_id: 6066462398737286012
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 221076
+        gif_size: 1023913
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYpAAHDEUDFeKB_Fws8O-90PgACGAYAAsEZyVXJiF7BitPbaR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYpAAHDEUDFeKB_Fws8O-90PgACGAYAAsEZyVXJiF7BitPbaR4E"
+        doc_id: 6181500280262100504
+        emoticon: "\360\237\221\211"
+        extension: ".webm"
+        original_size: 108982
+        gif_size: 940110
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYpCBCfQQvJOBIfnrwWzFc0AAJ3BQAC3O4pVEiBf3Pprjj7HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYpCBCfQQvJOBIfnrwWzFc0AAJ3BQAC3O4pVEiBf3Pprjj7HgQ"
+        doc_id: 6064641001891300727
+        emoticon: "\360\237\216\276"
+        extension: ".webm"
+        original_size: 123040
+        gif_size: 873846
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKYw2rLzt--eSTzV4KeSDSSZAAIIBAACicpQVKwmxXx-CYmEHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKYw2rLzt--eSTzV4KeSDSSZAAIIBAACicpQVKwmxXx-CYmEHgQ"
+        doc_id: 6075578587082130440
+        emoticon: "\360\237\244\255"
+        extension: ".webm"
+        original_size: 139853
+        gif_size: 889003
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZ-yCBNizN3A5yc9uEi9asjAAINBAACCqc5VAaffwW5fU45HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZ-yCBNizN3A5yc9uEi9asjAAINBAACCqc5VAaffwW5fU45HgQ"
+        doc_id: 6069065634249966605
+        emoticon: "\360\237\222\244"
+        extension: ".webm"
+        original_size: 86230
+        gif_size: 873560
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZ3TYITEJZbAr4tE8tukeLnAALzAwAC98URVPRfDA_-u5wVHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZ3TYITEJZbAr4tE8tukeLnAALzAwAC98URVPRfDA_-u5wVHgQ"
+        doc_id: 6057840638437622771
+        emoticon: "\360\237\247\242"
+        extension: ".webm"
+        original_size: 180733
+        gif_size: 978122
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZ4NgEQW2hYV3qqnX1LubEXAAJ4BAACpar5V46bRI21N2p_HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZ4NgEQW2hYV3qqnX1LubEXAAJ4BAACpar5V46bRI21N2p_HgQ"
+        doc_id: 6339285576147010680
+        emoticon: "\360\237\230\213"
+        extension: ".webm"
+        original_size: 178376
+        gif_size: 978092
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZ58FTS0WjpuosI7hLip9-qAAIOBgACgnLBVUoB5IeTbjRtHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZ58FTS0WjpuosI7hLip9-qAAIOBgACgnLBVUoB5IeTbjRtHgQ"
+        doc_id: 6179346066400347662
+        emoticon: "\360\237\222\252"
+        extension: ".webm"
+        original_size: 68998
+        gif_size: 877041
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZ6if3sOzOc2zVINi_26wTtAAJ6BAACkPRAVMvUoEni8xh_HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZ6if3sOzOc2zVINi_26wTtAAJ6BAACkPRAVMvUoEni8xh_HgQ"
+        doc_id: 6071121197007897722
+        emoticon: "\360\237\230\277"
+        extension: ".webm"
+        original_size: 245325
+        gif_size: 390910
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZEX27QOmA8FexbXmnAb2kqAAIkAwACARMwVKE_yr5PCAkEHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZEX27QOmA8FexbXmnAb2kqAAIkAwACARMwVKE_yr5PCAkEHgQ"
+        doc_id: 6066369593083953956
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 138927
+        gif_size: 979313
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZFy3ZMkk95731ISJERXWrEAAIZBAACwGQxVCOi53IMssGOHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZFy3ZMkk95731ISJERXWrEAAIZBAACwGQxVCOi53IMssGOHgQ"
+        doc_id: 6066740948841268249
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 151952
+        gif_size: 963154
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZG9Pma_CKJvffV9UopvK1GAAKWBAACnEFJVIEWE_pgjeOyHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZG9Pma_CKJvffV9UopvK1GAAKWBAACnEFJVIEWE_pgjeOyHgQ"
+        doc_id: 6073457710756529302
+        emoticon: "\360\237\230\246"
+        extension: ".webm"
+        original_size: 88533
+        gif_size: 865033
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZOdY2NLHnDFWnZQqjzU44JAAJzCAACvQ0wVEPznwhxpj60HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZOdY2NLHnDFWnZQqjzU44JAAJzCAACvQ0wVEPznwhxpj60HgQ"
+        doc_id: 6066363803468040307
+        emoticon: "\360\237\245\212"
+        extension: ".webm"
+        original_size: 122657
+        gif_size: 882211
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZUmihQKE3xaidbse_RGKU_AAKeBQAC-YBAVMgjxWBZCwIVHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZUmihQKE3xaidbse_RGKU_AAKeBQAC-YBAVMgjxWBZCwIVHgQ"
+        doc_id: 6070994104630642078
+        emoticon: "\360\237\230\276"
+        extension: ".webm"
+        original_size: 216338
+        gif_size: 967180
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZllWKoOEpAoxiLv3UcjPYLAAIFBQACW7dBVIsosh_2ZTxCHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZllWKoOEpAoxiLv3UcjPYLAAIFBQACW7dBVIsosh_2ZTxCHgQ"
+        doc_id: 6071335374142047493
+        emoticon: "\360\237\230\210"
+        extension: ".webm"
+        original_size: 178207
+        gif_size: 900676
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZn9Aq1KfYOnVqlC8yvjWiZAAKvBwACii0hVBoMAcwmRUUvHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZn9Aq1KfYOnVqlC8yvjWiZAAKvBwACii0hVBoMAcwmRUUvHgQ"
+        doc_id: 6062176644146137007
+        emoticon: "\360\237\221\222"
+        extension: ".webm"
+        original_size: 100746
+        gif_size: 865642
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZuTjyecPj0v3bogj-qFcjVAAJ8BQADq8BVZ0fb-COZbkEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZuTjyecPj0v3bogj-qFcjVAAJ8BQADq8BVZ0fb-COZbkEeBA"
+        doc_id: 6179126705240671612
+        emoticon: "\360\237\230\211"
+        extension: ".webm"
+        original_size: 140748
+        gif_size: 914743
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKZxrHMsi1a2IHbgF4R17GOqAALZBwACljXBVawN0aYaTL6QHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKZxrHMsi1a2IHbgF4R17GOqAALZBwACljXBVawN0aYaTL6QHgQ"
+        doc_id: 6179279082090399705
+        emoticon: "\360\237\245\261"
+        extension: ".webm"
+        original_size: 169145
+        gif_size: 954651
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKa0okEYFP5iM4XDR2iDev9TAAIZBAAC2-4IVFrjvyCvcIw9HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKa0okEYFP5iM4XDR2iDev9TAAIZBAAC2-4IVFrjvyCvcIw9HgQ"
+        doc_id: 6055352323364881433
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 232935
+        gif_size: 931401
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKaKSdASTqujQR4xW6Y1RuSxAAKIAwACBscwVHcPKIOobEw-HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKaKSdASTqujQR4xW6Y1RuSxAAKIAwACBscwVHcPKIOobEw-HgQ"
+        doc_id: 6066567526651790216
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 117254
+        gif_size: 402354
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKaLjJ0Y5OtuXSkQeX9OgKnHAAIqBQACkLcRVDx8JUcWYxkaHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKaLjJ0Y5OtuXSkQeX9OgKnHAAIqBQACkLcRVDx8JUcWYxkaHgQ"
+        doc_id: 6057824802893202730
+        emoticon: "\360\237\216\205"
+        extension: ".webm"
+        original_size: 174391
+        gif_size: 967534
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKaN601Lhj9aZQeEKLo6WKg9AAJvBQACcCrQV5o-7f92RPNAHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKaN601Lhj9aZQeEKLo6WKg9AAJvBQACcCrQV5o-7f92RPNAHgQ"
+        doc_id: 6327604136980252015
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 44625
+        gif_size: 855420
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKaOTjJTUGfScWaAI1vAKGkzAALsAwAC-mnZV0tlhPkdFrzLHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKaOTjJTUGfScWaAI1vAKGkzAALsAwAC-mnZV0tlhPkdFrzLHgQ"
+        doc_id: 6330207273708684268
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 180226
+        gif_size: 891065
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKab0tuBQwcs0IPaefW8aYrXAALZAwAC6xcxVDovDGsW5mawHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKab0tuBQwcs0IPaefW8aYrXAALZAwAC6xcxVDovDGsW5mawHgQ"
+        doc_id: 6066656471129523161
+        emoticon: "\360\237\247\273"
+        extension: ".webm"
+        original_size: 195306
+        gif_size: 981978
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKamCDlWTT2Guz5aEsMs5higAAKiBAACzJkBVPFayVYQbcdzHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKamCDlWTT2Guz5aEsMs5higAAKiBAACzJkBVPFayVYQbcdzHgQ"
+        doc_id: 6053288475615036578
+        emoticon: "\360\237\244\254"
+        extension: ".webm"
+        original_size: 139046
+        gif_size: 923390
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKandEZ0eSg4RitfopVRIf6WAAI-BQAC2CY5VMArKOh40JU_HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKandEZ0eSg4RitfopVRIf6WAAI-BQAC2CY5VMArKOh40JU_HgQ"
+        doc_id: 6068924682013246782
+        emoticon: "\360\237\230\263"
+        extension: ".webm"
+        original_size: 166460
+        gif_size: 879489
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKazq5cIe5J4EU-TlltOH1URAAJmAwACauURVCwCtTqM2XVzHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKazq5cIe5J4EU-TlltOH1URAAJmAwACauURVCwCtTqM2XVzHgQ"
+        doc_id: 6057875217219322726
+        emoticon: "\360\237\215\241"
+        extension: ".webm"
+        original_size: 155188
+        gif_size: 883633
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbEpZLl3poDsue1cCl5YIDHAALjBQACUVYxVEWDQvPeuh57HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbEpZLl3poDsue1cCl5YIDHAALjBQACUVYxVEWDQvPeuh57HgQ"
+        doc_id: 6066725078937109987
+        emoticon: "\360\237\230\210"
+        extension: ".webm"
+        original_size: 160499
+        gif_size: 876481
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbF9pagVZdbFfVw2SPwViawAAIVBgACi8DJVQ6G6anLAAFckR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbF9pagVZdbFfVw2SPwViawAAIVBgACi8DJVQ6G6anLAAFckR4E"
+        doc_id: 6181683666775705109
+        emoticon: "\360\237\230\275"
+        extension: ".webm"
+        original_size: 74968
+        gif_size: 874740
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbFYMImznBYQZ1InoJ1SRLCAAKxBQAC5QbYV-QYJ_5cNZlkHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbFYMImznBYQZ1InoJ1SRLCAAKxBQAC5QbYV-QYJ_5cNZlkHgQ"
+        doc_id: 6329816856886511025
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 105310
+        gif_size: 899903
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbHcNGYlh08I-TxQ7NO9NkdAALHBQACnw8oVHqP_FXjyGCDHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbHcNGYlh08I-TxQ7NO9NkdAALHBQACnw8oVHqP_FXjyGCDHgQ"
+        doc_id: 6064114073828591047
+        emoticon: "\360\237\244\232"
+        extension: ".webm"
+        original_size: 183321
+        gif_size: 883562
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbN3zv9v-G7_AABOSh1ZQfr5wACBQUAAomC4Vd3XJ1TozXlFx4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbN3zv9v-G7_AABOSh1ZQfr5wACBQUAAomC4Vd3XJ1TozXlFx4E"
+        doc_id: 6332486075981759749
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 236457
+        gif_size: 615411
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbSrkbbPcvQ2t4vu0chg6IJAAIrBAACWTnQV1SUDRUCb9T7HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbSrkbbPcvQ2t4vu0chg6IJAAIrBAACWTnQV1SUDRUCb9T7HgQ"
+        doc_id: 6327620530870420523
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 19521
+        gif_size: 381936
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbV12XDJcemo5IISh_k7vbJAALzBwACi2khVKP6PTXo0_NYHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbV12XDJcemo5IISh_k7vbJAALzBwACi2khVKP6PTXo0_NYHgQ"
+        doc_id: 6062242619138770931
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 47167
+        gif_size: 602688
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbai4gaBsi2E50gJZD7jNMgAALcBgACEUoZVDPwLCAIFZpiHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbai4gaBsi2E50gJZD7jNMgAALcBgACEUoZVDPwLCAIFZpiHgQ"
+        doc_id: 6059956210478614236
+        emoticon: "\360\237\246\216"
+        extension: ".webm"
+        original_size: 154931
+        gif_size: 884278
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbd0t2-V0hPqNYyxW1GVloFAALZAwACXjIxVHFfgnbhQExnHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbd0t2-V0hPqNYyxW1GVloFAALZAwACXjIxVHFfgnbhQExnHgQ"
+        doc_id: 6066685552353084377
+        emoticon: "\342\244\264"
+        extension: ".webm"
+        original_size: 68989
+        gif_size: 846484
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbeMHWimKk-aKtSFBIuUq5_AAIXBAACbHIxVH4aVGOrqSH7HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbeMHWimKk-aKtSFBIuUq5_AAIXBAACbHIxVH4aVGOrqSH7HgQ"
+        doc_id: 6066755981226804247
+        emoticon: "\360\237\214\200"
+        extension: ".webm"
+        original_size: 212049
+        gif_size: 856273
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKbuCPjWWEYGP2k5kikBbC2mAAIUBQAC5BPgV3UoKp0M1AWQHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKbuCPjWWEYGP2k5kikBbC2mAAIUBQAC5BPgV3UoKp0M1AWQHgQ"
+        doc_id: 6332082946056389908
+        emoticon: "\360\237\220\261"
+        extension: ".webm"
+        original_size: 57781
+        gif_size: 848317
+      }
+    }
+    update_timestamp: 1662950036.0
+  }
+}
+sticker_set {
+  key: 2643337197121437699
+  value {
+    id: 2643337197121437699
+    hash: 149432039
+    short_name: "HyperCapoo"
+    title: "HyperCapoo"
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKU2dxBnGWylZqIFS5_Y_wIqAAIxAAMtBa8kKTaQqUOBRbIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKU2dxBnGWylZqIFS5_Y_wIqAAIxAAMtBa8kKTaQqUOBRbIeBA"
+        doc_id: 2643337197121437745
+        emoticon: "\360\237\247\220"
+        extension: ".tgs"
+        original_size: 34259
+        gif_size: 107038
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUVamMSHyF9ElypcVPev5OHAAI9AAMtBa8kkXtkVC_U0iseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUVamMSHyF9ElypcVPev5OHAAI9AAMtBa8kkXtkVC_U0iseBA"
+        doc_id: 2643337197121437757
+        emoticon: "\360\237\244\267\342\200\215\342\231\202"
+        extension: ".tgs"
+        original_size: 57406
+        gif_size: 240444
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUWQjKm8O20iMFflSjlHT8hAAIzAAMtBa8k5ifREpimllEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUWQjKm8O20iMFflSjlHT8hAAIzAAMtBa8k5ifREpimllEeBA"
+        doc_id: 2643337197121437747
+        emoticon: "\360\237\221\213"
+        extension: ".tgs"
+        original_size: 37140
+        gif_size: 51767
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUZiOCCKaYaHhVH1wfXI_lnAAIrAAMtBa8ky4hDUgEgqK0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUZiOCCKaYaHhVH1wfXI_lnAAIrAAMtBa8ky4hDUgEgqK0eBA"
+        doc_id: 2643337197121437739
+        emoticon: "\360\237\245\261"
+        extension: ".tgs"
+        original_size: 65362
+        gif_size: 152787
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUaxMoF9XCvTAJ5lSmUh-N6AAI3AAMtBa8kv4YGrBtyBlEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUaxMoF9XCvTAJ5lSmUh-N6AAI3AAMtBa8kv4YGrBtyBlEeBA"
+        doc_id: 2643337197121437751
+        emoticon: "\360\237\231\205\342\200\215\342\231\202"
+        extension: ".tgs"
+        original_size: 33760
+        gif_size: 252492
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUcDT2nbRXapaUy_KCmaihPAAIaAAMtBa8kz2arRKEcGsMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUcDT2nbRXapaUy_KCmaihPAAIaAAMtBa8kz2arRKEcGsMeBA"
+        doc_id: 2643337197121437722
+        emoticon: "\360\237\221\217"
+        extension: ".tgs"
+        original_size: 35104
+        gif_size: 71262
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUe4uCtPl2VHAoX6Kv27Z-cAAIuAAMtBa8ktN5spFptvpweBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUe4uCtPl2VHAoX6Kv27Z-cAAIuAAMtBa8ktN5spFptvpweBA"
+        doc_id: 2643337197121437742
+        emoticon: "\360\237\245\272"
+        extension: ".tgs"
+        original_size: 43499
+        gif_size: 383486
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUfafSOkuT7AAEGwDnVbHu-TgACHgADLQWvJG99gaAU7n-DHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUfafSOkuT7AAEGwDnVbHu-TgACHgADLQWvJG99gaAU7n-DHgQ"
+        doc_id: 2643337197121437726
+        emoticon: "\360\237\221\275"
+        extension: ".tgs"
+        original_size: 55642
+        gif_size: 87669
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUgWEtL_bWWaBDQpwwXFiZmAAIVAAMtBa8kZAzCLaSRDFMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUgWEtL_bWWaBDQpwwXFiZmAAIVAAMtBa8kZAzCLaSRDFMeBA"
+        doc_id: 2643337197121437717
+        emoticon: "\360\237\221\215"
+        extension: ".tgs"
+        original_size: 32957
+        gif_size: 48754
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUi3qK325OPaxs1CkgEP0rtAAIdAAMtBa8kflWpzXiwcGMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUi3qK325OPaxs1CkgEP0rtAAIdAAMtBa8kflWpzXiwcGMeBA"
+        doc_id: 2643337197121437725
+        emoticon: "\360\237\244\257"
+        extension: ".tgs"
+        original_size: 59475
+        gif_size: 83367
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUi6TTMduw6ewlNOd8X-FmkAAI2AAMtBa8kXsvXS26LhzYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUi6TTMduw6ewlNOd8X-FmkAAI2AAMtBa8kXsvXS26LhzYeBA"
+        doc_id: 2643337197121437750
+        emoticon: "\360\237\231\206\342\200\215\342\231\202"
+        extension: ".tgs"
+        original_size: 55663
+        gif_size: 159639
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUoeZI2z3pAfupn9HlSsaPtAAI1AAMtBa8kdp36VNEoS_UeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUoeZI2z3pAfupn9HlSsaPtAAI1AAMtBa8kdp36VNEoS_UeBA"
+        doc_id: 2643337197121437749
+        emoticon: "\360\237\221\215"
+        extension: ".tgs"
+        original_size: 35653
+        gif_size: 194901
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUp0MGXter5rlnTAQAB760SkAACOwADLQWvJIt1oDspMRHzHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUp0MGXter5rlnTAQAB760SkAACOwADLQWvJIt1oDspMRHzHgQ"
+        doc_id: 2643337197121437755
+        emoticon: "\360\237\244\243"
+        extension: ".tgs"
+        original_size: 64696
+        gif_size: 278273
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUtiQmOuPAqMN7ciHYM5lzRAAIyAAMtBa8kWj_m7cJo1mEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUtiQmOuPAqMN7ciHYM5lzRAAIyAAMtBa8kWj_m7cJo1mEeBA"
+        doc_id: 2643337197121437746
+        emoticon: "\360\237\244\267\342\200\215\342\231\202"
+        extension: ".tgs"
+        original_size: 42207
+        gif_size: 259495
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUw8G-mBWw2E2_TROkZZdpAAAI4AAMtBa8ku7Qwu_ofPPMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUw8G-mBWw2E2_TROkZZdpAAAI4AAMtBa8ku7Qwu_ofPPMeBA"
+        doc_id: 2643337197121437752
+        emoticon: "\360\237\217\203\342\200\215\342\231\202"
+        extension: ".tgs"
+        original_size: 51785
+        gif_size: 120692
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUzD7q9gw8Lmo9UWbBt_iOqAAI8AAMtBa8k7BNK3vcQOAoeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUzD7q9gw8Lmo9UWbBt_iOqAAI8AAMtBa8k7BNK3vcQOAoeBA"
+        doc_id: 2643337197121437756
+        emoticon: "\360\237\245\264"
+        extension: ".tgs"
+        original_size: 65307
+        gif_size: 158026
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKUzwzdLTm0_HrUILZDdlm1aAAIwAAMtBa8kKQ18oMoQWyEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKUzwzdLTm0_HrUILZDdlm1aAAIwAAMtBa8kKQ18oMoQWyEeBA"
+        doc_id: 2643337197121437744
+        emoticon: "\360\237\230\246"
+        extension: ".tgs"
+        original_size: 29712
+        gif_size: 199918
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV5Y_vaoWwnS-AyKb4PLiAhAAIQAAMtBa8k5b0PTQpoNu4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV5Y_vaoWwnS-AyKb4PLiAhAAIQAAMtBa8k5b0PTQpoNu4eBA"
+        doc_id: 2643337197121437712
+        emoticon: "\360\237\230\236"
+        extension: ".tgs"
+        original_size: 36001
+        gif_size: 64118
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKV8wIyRyfmbwnZD9EtWM-pNAAI_AAMtBa8kb7NA7CxEumMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKV8wIyRyfmbwnZD9EtWM-pNAAI_AAMtBa8kb7NA7CxEumMeBA"
+        doc_id: 2643337197121437759
+        emoticon: "\360\237\230\243"
+        extension: ".tgs"
+        original_size: 21552
+        gif_size: 367186
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVGFfJB-JqsIQsnnZAY9aFiAAI-AAMtBa8kp48BZ-jRZ2MeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVGFfJB-JqsIQsnnZAY9aFiAAI-AAMtBa8kp48BZ-jRZ2MeBA"
+        doc_id: 2643337197121437758
+        emoticon: "\360\237\244\254"
+        extension: ".tgs"
+        original_size: 62786
+        gif_size: 171198
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVIhI8SoJ7wKw2nV_G659XlAAItAAMtBa8klljcftUnPAIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVIhI8SoJ7wKw2nV_G659XlAAItAAMtBa8klljcftUnPAIeBA"
+        doc_id: 2643337197121437741
+        emoticon: "\360\237\230\237"
+        extension: ".tgs"
+        original_size: 51089
+        gif_size: 234628
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVM1WwB21a-9754cUUhTK4tAAILAAMtBa8kB8RtqyxbW58eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVM1WwB21a-9754cUUhTK4tAAILAAMtBa8kB8RtqyxbW58eBA"
+        doc_id: 2643337197121437707
+        emoticon: "\360\237\230\206"
+        extension: ".tgs"
+        original_size: 43195
+        gif_size: 72955
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVVnr_adQUnuS2zQkpxK0tWAAIUAAMtBa8k2PykpxawGPIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVVnr_adQUnuS2zQkpxK0tWAAIUAAMtBa8k2PykpxawGPIeBA"
+        doc_id: 2643337197121437716
+        emoticon: "\360\237\230\202"
+        extension: ".tgs"
+        original_size: 29380
+        gif_size: 64102
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVZ0m87Cd1crM-7re0ZLj3KAAI5AAMtBa8kDANo3oMEau0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVZ0m87Cd1crM-7re0ZLj3KAAI5AAMtBa8kDANo3oMEau0eBA"
+        doc_id: 2643337197121437753
+        emoticon: "\360\237\244\252"
+        extension: ".tgs"
+        original_size: 58714
+        gif_size: 173348
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVbhYWUJj_qvBMQozj1W8nJAAIgAAMtBa8kP92bfOWkgVIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVbhYWUJj_qvBMQozj1W8nJAAIgAAMtBa8kP92bfOWkgVIeBA"
+        doc_id: 2643337197121437728
+        emoticon: "\342\230\271"
+        extension: ".tgs"
+        original_size: 49642
+        gif_size: 79590
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVqUWtlDq98MMGzpanPa7TqAAI6AAMtBa8k-zpTOOJxMIMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVqUWtlDq98MMGzpanPa7TqAAI6AAMtBa8k-zpTOOJxMIMeBA"
+        doc_id: 2643337197121437754
+        emoticon: "\360\237\230\202"
+        extension: ".tgs"
+        original_size: 43866
+        gif_size: 360315
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVr55OUW_uKXkumNNcnffkrAAIcAAMtBa8k1sWx7nAhG4keBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVr55OUW_uKXkumNNcnffkrAAIcAAMtBa8k1sWx7nAhG4keBA"
+        doc_id: 2643337197121437724
+        emoticon: "\360\237\230\215"
+        extension: ".tgs"
+        original_size: 20013
+        gif_size: 64168
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVvTDjG-8yv5sZSWmrDosrjAAINAAMtBa8khCu8Hs-10okeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVvTDjG-8yv5sZSWmrDosrjAAINAAMtBa8khCu8Hs-10okeBA"
+        doc_id: 2643337197121437709
+        emoticon: "\360\237\245\263"
+        extension: ".tgs"
+        original_size: 34091
+        gif_size: 68789
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKVzqoZ0LQsRPf3LS2bVMKmxAAIMAAMtBa8k-tEDVX3Jrn0eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKVzqoZ0LQsRPf3LS2bVMKmxAAIMAAMtBa8k-tEDVX3Jrn0eBA"
+        doc_id: 2643337197121437708
+        emoticon: "\360\237\233\217"
+        extension: ".tgs"
+        original_size: 45075
+        gif_size: 113993
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKW5dltAzMoIOrNbmhZVb6ixAAIKAAMtBa8k_0SVvgben48eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKW5dltAzMoIOrNbmhZVb6ixAAIKAAMtBa8k_0SVvgben48eBA"
+        doc_id: 2643337197121437706
+        emoticon: "\360\237\244\251"
+        extension: ".tgs"
+        original_size: 53947
+        gif_size: 113300
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWBf145c_nVksXCVBxvsHMKAAIoAAMtBa8kBN6aWKH2yYseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWBf145c_nVksXCVBxvsHMKAAIoAAMtBa8kBN6aWKH2yYseBA"
+        doc_id: 2643337197121437736
+        emoticon: "\360\237\246\231"
+        extension: ".tgs"
+        original_size: 37920
+        gif_size: 62910
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWDeV_bhNBHabRs_6aZBIMaAAIpAAMtBa8kUa_nnN3xAfIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWDeV_bhNBHabRs_6aZBIMaAAIpAAMtBa8kUa_nnN3xAfIeBA"
+        doc_id: 2643337197121437737
+        emoticon: "\360\237\230\264"
+        extension: ".tgs"
+        original_size: 50041
+        gif_size: 189514
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWISAABwzPkLd0kCeMTSnmCpwACGQADLQWvJC1kPt0JjVxVHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWISAABwzPkLd0kCeMTSnmCpwACGQADLQWvJC1kPt0JjVxVHgQ"
+        doc_id: 2643337197121437721
+        emoticon: "\360\237\230\255"
+        extension: ".tgs"
+        original_size: 24219
+        gif_size: 45516
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWJHWhX0oSgnUp6QfNGgNyMAAJBAAMtBa8kP7jjkHNrnvkeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWJHWhX0oSgnUp6QfNGgNyMAAJBAAMtBa8kP7jjkHNrnvkeBA"
+        doc_id: 2643337197121437761
+        emoticon: "\360\237\221\217"
+        extension: ".tgs"
+        original_size: 54159
+        gif_size: 356522
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWL-iLouPJkBbwG3WleNOEfAAIvAAMtBa8kzRzeXRqetlMeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWL-iLouPJkBbwG3WleNOEfAAIvAAMtBa8kzRzeXRqetlMeBA"
+        doc_id: 2643337197121437743
+        emoticon: "\360\237\230\242"
+        extension: ".tgs"
+        original_size: 51598
+        gif_size: 368258
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWTQeqzxn1SaxcrUPm47lazAAIbAAMtBa8kZ7cwuPiyhSoeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWTQeqzxn1SaxcrUPm47lazAAIbAAMtBa8kZ7cwuPiyhSoeBA"
+        doc_id: 2643337197121437723
+        emoticon: "\360\237\231\202"
+        extension: ".tgs"
+        original_size: 55267
+        gif_size: 214902
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWcrauKBa3dOW_Lv6my_EeyAAIXAAMtBa8kscI0cTo0YYAeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWcrauKBa3dOW_Lv6my_EeyAAIXAAMtBa8kscI0cTo0YYAeBA"
+        doc_id: 2643337197121437719
+        emoticon: "\342\234\213"
+        extension: ".tgs"
+        original_size: 28243
+        gif_size: 68873
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWh1PCmwFTKsGtfGAwAARkoRAACDgADLQWvJAJTDmnzXyEAAR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWh1PCmwFTKsGtfGAwAARkoRAACDgADLQWvJAJTDmnzXyEAAR4E"
+        doc_id: 2643337197121437710
+        emoticon: "\360\237\230\265"
+        extension: ".tgs"
+        original_size: 37977
+        gif_size: 59584
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWlIr4kmXlSO_eWu0nIfM7VAAIPAAMtBa8kDUY5QxijUWYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWlIr4kmXlSO_eWu0nIfM7VAAIPAAMtBa8kDUY5QxijUWYeBA"
+        doc_id: 2643337197121437711
+        emoticon: "\360\237\230\257"
+        extension: ".tgs"
+        original_size: 39907
+        gif_size: 63975
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWuFXHzJsgDR6JNZinhZ9gIAAIjAAMtBa8kUKXCEOdb33geBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWuFXHzJsgDR6JNZinhZ9gIAAIjAAMtBa8kUKXCEOdb33geBA"
+        doc_id: 2643337197121437731
+        emoticon: "\360\237\230\253"
+        extension: ".tgs"
+        original_size: 40182
+        gif_size: 70531
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKWuIuFgL2UPuooBbp3WBwLAAAIlAAMtBa8kZfukP2_cjIUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKWuIuFgL2UPuooBbp3WBwLAAAIlAAMtBa8kZfukP2_cjIUeBA"
+        doc_id: 2643337197121437733
+        emoticon: "\360\237\230\202"
+        extension: ".tgs"
+        original_size: 47851
+        gif_size: 71299
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKX4-XKbSqbGfXuWmOkQvlJVAAIfAAMtBa8kmmIn-ifnqQ4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKX4-XKbSqbGfXuWmOkQvlJVAAIfAAMtBa8kmmIn-ifnqQ4eBA"
+        doc_id: 2643337197121437727
+        emoticon: "\360\237\230\244"
+        extension: ".tgs"
+        original_size: 65344
+        gif_size: 78263
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXMmIkgU4B8iqmWQgOaqVpYAAIsAAMtBa8kg7vlmBKdrlweBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXMmIkgU4B8iqmWQgOaqVpYAAIsAAMtBa8kg7vlmBKdrlweBA"
+        doc_id: 2643337197121437740
+        emoticon: "\360\237\244\251"
+        extension: ".tgs"
+        original_size: 31514
+        gif_size: 323447
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXQfs51NBJNevQrJa277RHNAAIWAAMtBa8k-s0Y3fi8vQoeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXQfs51NBJNevQrJa277RHNAAIWAAMtBa8k-s0Y3fi8vQoeBA"
+        doc_id: 2643337197121437718
+        emoticon: "\360\237\222\252"
+        extension: ".tgs"
+        original_size: 44457
+        gif_size: 101167
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXmoWn7yYSjTSQ4fYvXTEW-AAIiAAMtBa8kUWE1hwoCuaEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXmoWn7yYSjTSQ4fYvXTEW-AAIiAAMtBa8kUWE1hwoCuaEeBA"
+        doc_id: 2643337197121437730
+        emoticon: "\360\237\231\205\342\200\215\342\231\202"
+        extension: ".tgs"
+        original_size: 34063
+        gif_size: 72314
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXmou910dGQ2TlkA3SRI_gcAAIhAAMtBa8k5aZ3lUBPtikeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXmou910dGQ2TlkA3SRI_gcAAIhAAMtBa8k5aZ3lUBPtikeBA"
+        doc_id: 2643337197121437729
+        emoticon: "\360\237\245\260"
+        extension: ".tgs"
+        original_size: 49165
+        gif_size: 81369
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXpxJiQQqStTZTkb9yGOXHUAAI0AAMtBa8kTIhRBXd9TQQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXpxJiQQqStTZTkb9yGOXHUAAI0AAMtBa8kTIhRBXd9TQQeBA"
+        doc_id: 2643337197121437748
+        emoticon: "\360\237\221\217"
+        extension: ".tgs"
+        original_size: 40412
+        gif_size: 106805
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXv54FInmUOTiV4X7w5Kn3LAAIqAAMtBa8kseME8tID5HseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXv54FInmUOTiV4X7w5Kn3LAAIqAAMtBa8kseME8tID5HseBA"
+        doc_id: 2643337197121437738
+        emoticon: "\360\237\225\272"
+        extension: ".tgs"
+        original_size: 61009
+        gif_size: 141502
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXyzYvvYM1JglpnVDmsC1o2AAJAAAMtBa8kTwd5icoM4cQeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXyzYvvYM1JglpnVDmsC1o2AAJAAAMtBa8kTwd5icoM4cQeBA"
+        doc_id: 2643337197121437760
+        emoticon: "\360\237\244\251"
+        extension: ".tgs"
+        original_size: 50601
+        gif_size: 225299
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMfCKXzX_2e8MbHEJkm8aXG_6_SAAIkAAMtBa8kYBf2rxr5-VseBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMfCKXzX_2e8MbHEJkm8aXG_6_SAAIkAAMtBa8kYBf2rxr5-VseBA"
+        doc_id: 2643337197121437732
+        emoticon: "\360\237\245\264"
+        extension: ".tgs"
+        original_size: 56946
+        gif_size: 137865
+      }
+    }
+    update_timestamp: 1662949456.0
+  }
+}
+sticker_set {
+  key: 5381664072804597766
+  value {
+    id: 5381664072804597766
+    hash: -1905825351
+    short_name: "iknowwhouare"
+    title: "\345\244\247\350\263\255 \346\264\233\342\203\253\346\234\231\342\203\253"
+    sticker {
+      key: "CAACAgEAAxUAAWMfBII6Z_Al2nmtY3m4GJStzWorAALnAgAC-c-ARHCKH8M2_drkHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBII6Z_Al2nmtY3m4GJStzWorAALnAgAC-c-ARHCKH8M2_drkHgQ"
+        doc_id: 4936173859951870695
+        emoticon: "\360\237\244\244"
+        extension: ".webm"
+        original_size: 50710
+        gif_size: 851107
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIFlJH3ErvfgDBuREN9-udXAALYAgACbp6BREoHN-P0yy4aHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIFlJH3ErvfgDBuREN9-udXAALYAgACbp6BREoHN-P0yy4aHgQ"
+        doc_id: 4936400861858366168
+        emoticon: "\360\237\221\203"
+        extension: ".webm"
+        original_size: 85581
+        gif_size: 889233
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIILCs0m5fSS74xO60-Oa1jbAALLAgACT4CwRW-QPyqOf9BFHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIILCs0m5fSS74xO60-Oa1jbAALLAgACT4CwRW-QPyqOf9BFHgQ"
+        doc_id: 5021654661308875467
+        emoticon: "\342\234\214"
+        extension: ".webm"
+        original_size: 218120
+        gif_size: 942550
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIOWf6gh8evOQrQPf5Og8dsAAJXAgACojaBRMOOco1p_xiCHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIOWf6gh8evOQrQPf5Og8dsAAJXAgACojaBRMOOco1p_xiCHgQ"
+        doc_id: 4936286735987376727
+        emoticon: "\360\237\215\270"
+        extension: ".webm"
+        original_size: 253184
+        gif_size: 970801
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIPm4CmzhKx0GanzMGY5HNvAALsAQACpzqBRFD0SQqx2gOqHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIPm4CmzhKx0GanzMGY5HNvAALsAQACpzqBRFD0SQqx2gOqHgQ"
+        doc_id: 4936291155508724204
+        emoticon: "\360\237\216\207"
+        extension: ".webm"
+        original_size: 107181
+        gif_size: 921127
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIQX_nvis76Cq18w5VQmAGUAAJWAgACvciAREzxq9d4HdRbHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIQX_nvis76Cq18w5VQmAGUAAJWAgACvciAREzxq9d4HdRbHgQ"
+        doc_id: 4936165905672438358
+        emoticon: "\360\237\220\267"
+        extension: ".webm"
+        original_size: 54002
+        gif_size: 877942
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIS9WEnsDhKorAcClh2sUY9AAJqAgAC6OKwRebaforNqv1zHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIS9WEnsDhKorAcClh2sUY9AAJqAgAC6OKwRebaforNqv1zHgQ"
+        doc_id: 5021763070578393706
+        emoticon: "\360\237\216\251"
+        extension: ".webm"
+        original_size: 98241
+        gif_size: 870159
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIUvso49zmdfzjOZyzAca6GAAL8AQACCBBxRntWXyfo6S4BHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIUvso49zmdfzjOZyzAca6GAAL8AQACCBBxRntWXyfo6S4BHgQ"
+        doc_id: 5075855881569042940
+        emoticon: "\360\237\230\263"
+        extension: ".webm"
+        original_size: 261221
+        gif_size: 843371
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIZECJD2l3Laxhljc_wvLuNAAIJAgACwbqBRAu-RnRqeorDHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIZECJD2l3Laxhljc_wvLuNAAIJAgACwbqBRAu-RnRqeorDHgQ"
+        doc_id: 4936432004666229257
+        emoticon: "\360\237\221\215"
+        extension: ".webm"
+        original_size: 101594
+        gif_size: 885570
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIgMimZ1Ep6Jam8NgsffsEnAALoAQACGHOARKm7dcEvPHpnHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIgMimZ1Ep6Jam8NgsffsEnAALoAQACGHOARKm7dcEvPHpnHgQ"
+        doc_id: 4936071738514473448
+        emoticon: "\360\237\230\234"
+        extension: ".webm"
+        original_size: 251067
+        gif_size: 1008060
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIhFFHfSsSnOoNhO1033Cs-AAK6AgACLsqBRI8fl_7DXujzHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIhFFHfSsSnOoNhO1033Cs-AAK6AgACLsqBRI8fl_7DXujzHgQ"
+        doc_id: 4936448965492081338
+        emoticon: "\360\237\215\214"
+        extension: ".webm"
+        original_size: 213940
+        gif_size: 884180
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIIzNMY0PsVOjUJleu-XrplcAAK0AgAChj-4RMuTNSjsVHiuHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIIzNMY0PsVOjUJleu-XrplcAAK0AgAChj-4RMuTNSjsVHiuHgQ"
+        doc_id: 4951777635052028596
+        emoticon: "\360\237\224\242"
+        extension: ".webm"
+        original_size: 183821
+        gif_size: 924682
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJ-_25JirT1roDVWIVHmmpGAAKdAgACk6OARMnwxS1vZpXQHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJ-_25JirT1roDVWIVHmmpGAAKdAgACk6OARMnwxS1vZpXQHgQ"
+        doc_id: 4936125043353584285
+        emoticon: "\360\237\224\252"
+        extension: ".webm"
+        original_size: 96494
+        gif_size: 919062
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJAk95RrxnLKNfMKBEGV8I6AAJWAgACJYmARNaaoTX9vuHtHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJAk95RrxnLKNfMKBEGV8I6AAJWAgACJYmARNaaoTX9vuHtHgQ"
+        doc_id: 4936095983604859478
+        emoticon: "\360\237\230\211"
+        extension: ".webm"
+        original_size: 138617
+        gif_size: 891848
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJGD7gTlL-pdpqF0zhhNIM8AAKMAgACNZyBRCmMwHu_gZYAAR4E"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJGD7gTlL-pdpqF0zhhNIM8AAKMAgACNZyBRCmMwHu_gZYAAR4E"
+        doc_id: 4936398418021974668
+        emoticon: "\360\237\230\242"
+        extension: ".webm"
+        original_size: 95455
+        gif_size: 889576
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJRuar2idPSTY247v4xhh8uAAJaAwACEAaBREuBLw2Wi8ArHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJRuar2idPSTY247v4xhh8uAAJaAwACEAaBREuBLw2Wi8ArHgQ"
+        doc_id: 4936233332364018522
+        emoticon: "\360\237\245\264"
+        extension: ".webm"
+        original_size: 220317
+        gif_size: 888982
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJWc3MS3Or15HFrY5EZDvy7AAKnAgACHLiBRIwIfgaDswysHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJWc3MS3Or15HFrY5EZDvy7AAKnAgACHLiBRIwIfgaDswysHgQ"
+        doc_id: 4936429096973370023
+        emoticon: "\360\237\230\224"
+        extension: ".webm"
+        original_size: 76560
+        gif_size: 848371
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJaInO5JGrsyINZUn_N6onXAAJfAgACDLmIRICBJ0zbdzzaHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJaInO5JGrsyINZUn_N6onXAAJfAgACDLmIRICBJ0zbdzzaHgQ"
+        doc_id: 4938400452602495583
+        emoticon: "\360\237\232\227"
+        extension: ".webm"
+        original_size: 142738
+        gif_size: 897807
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJvV6VfmF0HQ9MEIioldiLwAAK5AQACyueARIcHKrtxWVGNHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJvV6VfmF0HQ9MEIioldiLwAAK5AQACyueARIcHKrtxWVGNHgQ"
+        doc_id: 4936200046367474105
+        emoticon: "\360\237\221\213"
+        extension: ".webm"
+        original_size: 230312
+        gif_size: 905224
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJwapWPY3X0hEqCfTrlEE3uAAJLAgACgnGBRHWqe8k4TAABTh4E"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJwapWPY3X0hEqCfTrlEE3uAAJLAgACgnGBRHWqe8k4TAABTh4E"
+        doc_id: 4936351469734462027
+        emoticon: "\360\237\221\220"
+        extension: ".webm"
+        original_size: 250990
+        gif_size: 973143
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJyMQmKh5fHH9Z3nzcRBAR8AAKqBwAC9USxRTc-m3jYFuDEHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJyMQmKh5fHH9Z3nzcRBAR8AAKqBwAC9USxRTc-m3jYFuDEHgQ"
+        doc_id: 5021870878552491946
+        emoticon: "\360\237\230\266"
+        extension: ".webm"
+        original_size: 91332
+        gif_size: 873568
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIJy_r4rFcwaRoLhFAgihkFGAAJ0AgACrWqBRHbshlBXLoWpHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIJy_r4rFcwaRoLhFAgihkFGAAJ0AgACrWqBRHbshlBXLoWpHgQ"
+        doc_id: 4936343957836661364
+        emoticon: "\360\237\221\215"
+        extension: ".webm"
+        original_size: 150179
+        gif_size: 924790
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIK2eH0aQB1B82SZ3fyx5hJGAAIRAwACLc6ARBgZ64zkWmz-HgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIK2eH0aQB1B82SZ3fyx5hJGAAIRAwACLc6ARBgZ64zkWmz-HgQ"
+        doc_id: 4936171884266914577
+        emoticon: "\360\237\251\270"
+        extension: ".webm"
+        original_size: 150647
+        gif_size: 969605
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIK52MypUWhyKnZgrVsogfNgAAKKAgACkCKAREqY2-mwb-kOHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIK52MypUWhyKnZgrVsogfNgAAKKAgACkCKAREqY2-mwb-kOHgQ"
+        doc_id: 4935983193468699274
+        emoticon: "\360\237\244\250"
+        extension: ".webm"
+        original_size: 78856
+        gif_size: 860985
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKAt3SpCvF8UQtyCx_UvB-uAAKzBgACvZmxRdoh9J18-zdpHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKAt3SpCvF8UQtyCx_UvB-uAAKzBgACvZmxRdoh9J18-zdpHgQ"
+        doc_id: 5021964096522684083
+        emoticon: "\360\237\224\245"
+        extension: ".webm"
+        original_size: 219636
+        gif_size: 932489
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKDTaVZm1JRgToGEbk-WCDLAAJpAQACrC2ARLOLV8T6j0B2HgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKDTaVZm1JRgToGEbk-WCDLAAJpAQACrC2ARLOLV8T6j0B2HgQ"
+        doc_id: 4935995408355688809
+        emoticon: "\360\237\221\250"
+        extension: ".webm"
+        original_size: 154777
+        gif_size: 875403
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKIO-6q0mEWZWtPevWFccvbAAL8AQACrp2ARFS9sFrsHSuqHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKIO-6q0mEWZWtPevWFccvbAAL8AQACrp2ARFS9sFrsHSuqHgQ"
+        doc_id: 4936118562247934460
+        emoticon: "\360\237\221\217"
+        extension: ".webm"
+        original_size: 47233
+        gif_size: 865865
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKMes9wz6IdGTclYmP0xga-AAJdAgACiuKBRNDZAAGV6dDx9x4E"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKMes9wz6IdGTclYmP0xga-AAJdAgACiuKBRNDZAAGV6dDx9x4E"
+        doc_id: 4936475748908139101
+        emoticon: "\360\237\221\212"
+        extension: ".webm"
+        original_size: 224801
+        gif_size: 961784
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKNI4ITinnMoc5We8yszSOZAAJZAgAC-haJRJFifb4y1NnoHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKNI4ITinnMoc5We8yszSOZAAJZAgAC-haJRJFifb4y1NnoHgQ"
+        doc_id: 4938503729386095193
+        emoticon: "\360\237\232\254"
+        extension: ".webm"
+        original_size: 254053
+        gif_size: 949695
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKQqZQ6zB_AQVAT8p8-m7umAAILAgACFoSJRCyNZX6XpjUQHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKQqZQ6zB_AQVAT8p8-m7umAAILAgACFoSJRCyNZX6XpjUQHgQ"
+        doc_id: 4938623696412606987
+        emoticon: "\360\237\232\254"
+        extension: ".webm"
+        original_size: 235338
+        gif_size: 897446
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKTndCruO9gX5BFSj-FgwMJAAIUAgAC6KNJRgIKeLW2sds_HgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKTndCruO9gX5BFSj-FgwMJAAIUAgAC6KNJRgIKeLW2sds_HgQ"
+        doc_id: 5064759472782574100
+        emoticon: "\360\237\244\247"
+        extension: ".webm"
+        original_size: 163478
+        gif_size: 884199
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKZ1SuBbqFwcA8oPKU2FKV6AALZAwACwrXIRV4DLmec6mnBHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKZ1SuBbqFwcA8oPKU2FKV6AALZAwACwrXIRV4DLmec6mnBHgQ"
+        doc_id: 5028468828787442649
+        emoticon: "\360\237\222\260"
+        extension: ".webm"
+        original_size: 136477
+        gif_size: 889722
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKpw23wKjon3orfqFkOIhqfAAJ2AgACE895RgUDogVo1TIbHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKpw23wKjon3orfqFkOIhqfAAJ2AgACE895RgUDogVo1TIbHgQ"
+        doc_id: 5078317735348273782
+        emoticon: "\360\237\244\243"
+        extension: ".webm"
+        original_size: 239826
+        gif_size: 963149
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKq_bIAAQKc2Szzr_sYEZBUJAAC8AEAAhhagUSXWAVeEHJQwx4E"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKq_bIAAQKc2Szzr_sYEZBUJAAC8AEAAhhagUSXWAVeEHJQwx4E"
+        doc_id: 4936325725700489712
+        emoticon: "\360\237\230\235"
+        extension: ".webm"
+        original_size: 31842
+        gif_size: 762993
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKsuUcWiWZYmdxP56Yox3aNAAKAAgACM0SARJFyMgLDPS7RHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKsuUcWiWZYmdxP56Yox3aNAAKAAgACM0SARJFyMgLDPS7RHgQ"
+        doc_id: 4936020177432085120
+        emoticon: "\360\237\244\242"
+        extension: ".webm"
+        original_size: 81141
+        gif_size: 881409
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIKz7EXxdaSWgGXhYeKZfuheAAJMAgACy-OAROk23BSKc1-fHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIKz7EXxdaSWgGXhYeKZfuheAAJMAgACy-OAROk23BSKc1-fHgQ"
+        doc_id: 4936195652615930444
+        emoticon: "\360\237\221\215"
+        extension: ".webm"
+        original_size: 125804
+        gif_size: 893858
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIL2f0vCF75ZQC5LprzlPf3jAAJ0AQACBlGBRBg2dNs89FK_HgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIL2f0vCF75ZQC5LprzlPf3jAAJ0AQACBlGBRBg2dNs89FK_HgQ"
+        doc_id: 4936315752786428276
+        emoticon: "\360\237\230\242"
+        extension: ".webm"
+        original_size: 144857
+        gif_size: 899941
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBIL61Cimo-tDxTjbLHBHgMM8AALFAQACRxxxRuKGmEJsX8kBHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBIL61Cimo-tDxTjbLHBHgMM8AALFAQACRxxxRuKGmEJsX8kBHgQ"
+        doc_id: 5075869346291515845
+        emoticon: "\360\237\230\206"
+        extension: ".webm"
+        original_size: 180550
+        gif_size: 834224
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILHQeY12z4jc24hBYV3MCmPAAJXAgACUveBRIuDVHbqleXFHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILHQeY12z4jc24hBYV3MCmPAAJXAgACUveBRIuDVHbqleXFHgQ"
+        doc_id: 4936498598134153815
+        emoticon: "\360\237\246\266"
+        extension: ".webm"
+        original_size: 198721
+        gif_size: 907929
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILOuyGEGOJD8Eew3zPwRP2CAALNAgACKJqIRKENVBDNXIswHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILOuyGEGOJD8Eew3zPwRP2CAALNAgACKJqIRKENVBDNXIswHgQ"
+        doc_id: 4938366488001118925
+        emoticon: "\360\237\221\215"
+        extension: ".webm"
+        original_size: 65405
+        gif_size: 671748
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILQowSGAuyGLqDu0GDeYfEUAAK6AQAC0qmQRBaJt9_2pT4UHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILQowSGAuyGLqDu0GDeYfEUAAK6AQAC0qmQRBaJt9_2pT4UHgQ"
+        doc_id: 4940635510633660858
+        emoticon: "\360\237\230\217"
+        extension: ".webm"
+        original_size: 112112
+        gif_size: 896501
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILR33DlQ_0Qz_LVEOeYykdrAAI2AgAChIJxRs7tAi-hEjiwHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILR33DlQ_0Qz_LVEOeYykdrAAI2AgAChIJxRs7tAi-hEjiwHgQ"
+        doc_id: 5075981758470554166
+        emoticon: "\360\237\252\221"
+        extension: ".webm"
+        original_size: 89589
+        gif_size: 881515
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILc7JtAFsGtWmWdf_mkqj-cAAKsAgAC-mWxRUVujGvuhO9JHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILc7JtAFsGtWmWdf_mkqj-cAAKsAgAC-mWxRUVujGvuhO9JHgQ"
+        doc_id: 5021907183911043756
+        emoticon: "\360\237\245\201"
+        extension: ".webm"
+        original_size: 168070
+        gif_size: 920575
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILcWWas2THUv0jUCelQ3gGwAAKwAQACKjSARMIFwvPK_vYzHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILcWWas2THUv0jUCelQ3gGwAAKwAQACKjSARMIFwvPK_vYzHgQ"
+        doc_id: 4936002546591334832
+        emoticon: "\360\237\221\217"
+        extension: ".webm"
+        original_size: 88085
+        gif_size: 899568
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILwPRE-CeVxSEdm-xyc2-wwAAIZAgAC7uCQRNO_TL-9eI6iHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILwPRE-CeVxSEdm-xyc2-wwAAIZAgAC7uCQRNO_TL-9eI6iHgQ"
+        doc_id: 4940696104032272921
+        emoticon: "\360\237\230\202"
+        extension: ".webm"
+        original_size: 32624
+        gif_size: 805054
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMfBILwPqMNaamTBSy-rji2VyivAALyAQACrtyJRKBoXZFtfWzXHgQ"
+      value {
+        file_id: "CAACAgEAAxUAAWMfBILwPqMNaamTBSy-rji2VyivAALyAQACrtyJRKBoXZFtfWzXHgQ"
+        doc_id: 4938721106270880242
+        emoticon: "\360\237\246\270\342\200\215\342\231\202"
+        extension: ".webm"
+        original_size: 221792
+        gif_size: 936314
+      }
+    }
+    update_timestamp: 1662948355.0
+  }
+}
+hash: 4462055486260738597
