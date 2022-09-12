@@ -1,0 +1,31 @@
+# Little Birb @IMG2D
+
+Last updated: 20220912 14:56
+
+https://t.me/addstickers/Little_Birb
+
+![CAACAgIAAxUAAWMfRj8081r2hHqRh_T7yGPIUpslAAKNFQAC6NbiEimG_QJgx5zhHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj8081r2hHqRh_T7yGPIUpslAAKNFQAC6NbiEimG_QJgx5zhHgQ.gif)
+![CAACAgIAAxUAAWMfRj-e0QABPEnxB38hYnoOXelJhQACiRUAAujW4hKWYdkRS1Lk8R4E](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-e0QABPEnxB38hYnoOXelJhQACiRUAAujW4hKWYdkRS1Lk8R4E.gif)
+![CAACAgIAAxUAAWMfRj9AoTYQyoL-voMa3anSB8H2AAKVFQAC6NbiEperhP8tqIvsHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj9AoTYQyoL-voMa3anSB8H2AAKVFQAC6NbiEperhP8tqIvsHgQ.gif)
+![CAACAgIAAxUAAWMfRj_Z54GitpH7xm4TQ1FZhiD-AAKUFQAC6NbiEkAT-WMJ05HcHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj_Z54GitpH7xm4TQ1FZhiD-AAKUFQAC6NbiEkAT-WMJ05HcHgQ.gif)
+![CAACAgIAAxUAAWMfRj9qQBOO5c4fD2qWX9od7iy3AAKDFQAC6NbiEmRf-HXZiL0VHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj9qQBOO5c4fD2qWX9od7iy3AAKDFQAC6NbiEmRf-HXZiL0VHgQ.gif)
+![CAACAgIAAxUAAWMfRj_U116bmXaiZQyLtSp-MSeUAAKMFQAC6NbiEjoDLIJrNrv6HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj_U116bmXaiZQyLtSp-MSeUAAKMFQAC6NbiEjoDLIJrNrv6HgQ.gif)
+![CAACAgIAAxUAAWMfRj-X9VQv5Y7PoXVxlhwfE5_rAAKLFQAC6NbiEsewCsekgwjdHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-X9VQv5Y7PoXVxlhwfE5_rAAKLFQAC6NbiEsewCsekgwjdHgQ.gif)
+![CAACAgIAAxUAAWMfRj_7WIF7OK259E7FAAF6bGfjuQACiBUAAujW4hLxVi7Y2tRo7x4E](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj_7WIF7OK259E7FAAF6bGfjuQACiBUAAujW4hLxVi7Y2tRo7x4E.gif)
+![CAACAgIAAxUAAWMfRj-sm1xHo9ig5RNtND7yjlUfAAKEFQAC6NbiEprCOhj0FOiYHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-sm1xHo9ig5RNtND7yjlUfAAKEFQAC6NbiEprCOhj0FOiYHgQ.gif)
+![CAACAgIAAxUAAWMfRj80Z5yGL1gPZM3NCenfG_qpAAKFFQAC6NbiEk_xBfTjtkqMHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj80Z5yGL1gPZM3NCenfG_qpAAKFFQAC6NbiEk_xBfTjtkqMHgQ.gif)
+![CAACAgIAAxUAAWMfRj-fvsgKLImD6x3rrw34isXSAAKQFQAC6NbiEm2gjNGPnxXUHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-fvsgKLImD6x3rrw34isXSAAKQFQAC6NbiEm2gjNGPnxXUHgQ.gif)
+![CAACAgIAAxUAAWMfRj_ORCb-3Nf98O1q3VLchwSUAAKPFQAC6NbiEs8NDTSV2k06HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj_ORCb-3Nf98O1q3VLchwSUAAKPFQAC6NbiEs8NDTSV2k06HgQ.gif)
+![CAACAgIAAxUAAWMfRj-mhyHAiNAFCsnYNQFSBglxAAKAFQAC6NbiEvi-xxEHz680HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-mhyHAiNAFCsnYNQFSBglxAAKAFQAC6NbiEvi-xxEHz680HgQ.gif)
+![CAACAgIAAxUAAWMfRj_ochqbGKIhOFZtEiJdG_lhAAKOFQAC6NbiEkZ71BrVt-CnHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj_ochqbGKIhOFZtEiJdG_lhAAKOFQAC6NbiEkZ71BrVt-CnHgQ.gif)
+![CAACAgIAAxUAAWMfRj-QIDVhPeQVgm_ySoJsvKufAAKSFQAC6NbiElifQBMN4iiyHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-QIDVhPeQVgm_ySoJsvKufAAKSFQAC6NbiElifQBMN4iiyHgQ.gif)
+![CAACAgIAAxUAAWMfRj8ytmyRCNlGxUS52RGLT-f2AAKKFQAC6NbiEjrhDaI_N6iMHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj8ytmyRCNlGxUS52RGLT-f2AAKKFQAC6NbiEjrhDaI_N6iMHgQ.gif)
+![CAACAgIAAxUAAWMfRj9mgNYcuoFjGmmmjC6sbHcHAAKHFQAC6NbiEpFJ7pg8ncehHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj9mgNYcuoFjGmmmjC6sbHcHAAKHFQAC6NbiEpFJ7pg8ncehHgQ.gif)
+![CAACAgIAAxUAAWMfRj9MGMB-z2KhVlzFLf8VQZJyAAKGFQAC6NbiEti35OtcrHWNHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj9MGMB-z2KhVlzFLf8VQZJyAAKGFQAC6NbiEti35OtcrHWNHgQ.gif)
+![CAACAgIAAxUAAWMfRj8-2YduQ1vX9LrJ66AQowyKAAKWFQAC6NbiEu04l2hGbuKeHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj8-2YduQ1vX9LrJ66AQowyKAAKWFQAC6NbiEu04l2hGbuKeHgQ.gif)
+![CAACAgIAAxUAAWMfRj-pXth0gnhtEwQEvg7I7JbqAAJ_FQAC6NbiEkZMfVP4vhn4HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-pXth0gnhtEwQEvg7I7JbqAAJ_FQAC6NbiEkZMfVP4vhn4HgQ.gif)
+![CAACAgIAAxUAAWMfRj-qMbOggY2xndpI-rC_baMIAAKTFQAC6NbiEgRzx-R5hw6WHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj-qMbOggY2xndpI-rC_baMIAAKTFQAC6NbiEgRzx-R5hw6WHgQ.gif)
+![CAACAgIAAxUAAWMfRj_-SxOJdf40UtN8ED0tiBw3AAKRFQAC6NbiEu-RQF3Ue_bKHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj_-SxOJdf40UtN8ED0tiBw3AAKRFQAC6NbiEu-RQF3Ue_bKHgQ.gif)
+![CAACAgIAAxUAAWMfRj8fqD1Pkkgk_ZQBFnG4-iDOAAKCFQAC6NbiEtHQul00DAjfHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj8fqD1Pkkgk_ZQBFnG4-iDOAAKCFQAC6NbiEtHQul00DAjfHgQ.gif)
+![CAACAgIAAxUAAWMfRj9mh7kDqVpi2RHD5TrCg0zeAAKBFQAC6NbiErn9VlXlmpEhHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj9mh7kDqVpi2RHD5TrCg0zeAAKBFQAC6NbiErn9VlXlmpEhHgQ.gif)
+
