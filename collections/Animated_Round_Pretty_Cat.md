@@ -1,0 +1,27 @@
+# Round Pretty Cat @IMG2D
+
+Last updated: 20220912 14:50
+
+https://t.me/addstickers/Animated_Round_Pretty_Cat
+
+![CAACAgIAAxUAAWMfRj3BQxwMm0q9zAAByrgwVfal4AACghIAAujW4hKfXD4kCDz80h4E](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj3BQxwMm0q9zAAByrgwVfal4AACghIAAujW4hKfXD4kCDz80h4E.gif)
+![CAACAgIAAxUAAWMfRj1gIrsusA2FaZBwu82PHVGDAAKFEgAC6NbiEo88YqjJ-UwEHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj1gIrsusA2FaZBwu82PHVGDAAKFEgAC6NbiEo88YqjJ-UwEHgQ.gif)
+![CAACAgIAAxUAAWMfRj2qSblgGEPPNVW3Uy5Uq9yfAAKKEgAC6NbiEgfXCpoFlg1QHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj2qSblgGEPPNVW3Uy5Uq9yfAAKKEgAC6NbiEgfXCpoFlg1QHgQ.gif)
+![CAACAgIAAxUAAWMfRj1pOtg8_7yjbtA-aqLzGdkOAAKOEgAC6NbiEgrNxh9Ud7EfHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj1pOtg8_7yjbtA-aqLzGdkOAAKOEgAC6NbiEgrNxh9Ud7EfHgQ.gif)
+![CAACAgIAAxUAAWMfRj2koGFennIloMjGht-g3SgUAAKPEgAC6NbiEnfvsghTDsv0HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj2koGFennIloMjGht-g3SgUAAKPEgAC6NbiEnfvsghTDsv0HgQ.gif)
+![CAACAgIAAxUAAWMfRj1p9ms-3up0U1vSsGHm0QRqAAKMEgAC6NbiEiyjhqLdURc2HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj1p9ms-3up0U1vSsGHm0QRqAAKMEgAC6NbiEiyjhqLdURc2HgQ.gif)
+![CAACAgIAAxUAAWMfRj0LovtRCf2kfubS8B763OmYAAJ9EgAC6NbiEs5VlH8VL84FHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj0LovtRCf2kfubS8B763OmYAAJ9EgAC6NbiEs5VlH8VL84FHgQ.gif)
+![CAACAgIAAxUAAWMfRj2rgm63JsKSTSGzSetKwY2uAAKLEgAC6NbiEonVGX9cRtXgHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj2rgm63JsKSTSGzSetKwY2uAAKLEgAC6NbiEonVGX9cRtXgHgQ.gif)
+![CAACAgIAAxUAAWMfRj2udbUNe9zKXOv0h5pQaTekAAJ-EgAC6NbiEjPMQXEhplYuHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj2udbUNe9zKXOv0h5pQaTekAAJ-EgAC6NbiEjPMQXEhplYuHgQ.gif)
+![CAACAgIAAxUAAWMfRj09Gln7F4y324UtAAGsORl5ZAACgRIAAujW4hK8qso_Y202qB4E](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj09Gln7F4y324UtAAGsORl5ZAACgRIAAujW4hK8qso_Y202qB4E.gif)
+![CAACAgIAAxUAAWMfRj0zwhZ9XtU--pr32pzrZzbbAAKIEgAC6NbiEn2RxD_oel6BHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj0zwhZ9XtU--pr32pzrZzbbAAKIEgAC6NbiEn2RxD_oel6BHgQ.gif)
+![CAACAgIAAxUAAWMfRj0inNBcxlbFIPsGLl9cjI7tAAKHEgAC6NbiEmCYcaKutND4HgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj0inNBcxlbFIPsGLl9cjI7tAAKHEgAC6NbiEmCYcaKutND4HgQ.gif)
+![CAACAgIAAxUAAWMfRj1kM0tWXUB8SaQZFfVO5DIkAAKNEgAC6NbiEiOLGubLllrRHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj1kM0tWXUB8SaQZFfVO5DIkAAKNEgAC6NbiEiOLGubLllrRHgQ.gif)
+![CAACAgIAAxUAAWMfRj3D-JWdAiwR0k7bUjoq9f9BAAKAEgAC6NbiEmkFbHXW_oiTHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj3D-JWdAiwR0k7bUjoq9f9BAAKAEgAC6NbiEmkFbHXW_oiTHgQ.gif)
+![CAACAgIAAxUAAWMfRj2a0d3HcYFCuZuChaU9X0DyAAJ8EgAC6NbiEmPsH5iQpKCrHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj2a0d3HcYFCuZuChaU9X0DyAAJ8EgAC6NbiEmPsH5iQpKCrHgQ.gif)
+![CAACAgIAAxUAAWMfRj2OjJFDIp0losSd5Q15J7V3AAJ_EgAC6NbiEk1axew9tbXpHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj2OjJFDIp0losSd5Q15J7V3AAJ_EgAC6NbiEk1axew9tbXpHgQ.gif)
+![CAACAgIAAxUAAWMfRj1zF9PPnm1bHoUJtcR4xgisAAKEEgAC6NbiEhElE9uGcQyyHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj1zF9PPnm1bHoUJtcR4xgisAAKEEgAC6NbiEhElE9uGcQyyHgQ.gif)
+![CAACAgIAAxUAAWMfRj1pOK4BDAzYeASd9qCkkaErAAKGEgAC6NbiEop3n9e0BlTQHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj1pOK4BDAzYeASd9qCkkaErAAKGEgAC6NbiEop3n9e0BlTQHgQ.gif)
+![CAACAgIAAxUAAWMfRj0rkoALEjmeHYg13LUDuMbRAAKJEgAC6NbiEv7RuTATn3pdHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj0rkoALEjmeHYg13LUDuMbRAAKJEgAC6NbiEv7RuTATn3pdHgQ.gif)
+![CAACAgIAAxUAAWMfRj0cIO2qYzpRrxu7Rde9Vic_AAKQEgAC6NbiEjbUiNRX3fteHgQ](https://cdn.jsdelivr.net/gh/RogerRordo/tg_stickers@master/gifs/CAACAgIAAxUAAWMfRj0cIO2qYzpRrxu7Rde9Vic_AAKQEgAC6NbiEjbUiNRX3fteHgQ.gif)
+
