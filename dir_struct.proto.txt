@@ -6,204 +6,204 @@ sticker_set {
     short_name: "capoo_sp_animated"
     title: "CAPOO #SP"
     sticker {
-      key: "CAACAgUAAxUAAWMelno9u6JNbNTti5j-z_9aEylxAAK6AANY6EcFmaj0GgW5DZUeBA"
+      key: "CAACAgUAAxUAAWMe68Q08tDddxdbRRwcQvyIgj8_AAKqAANY6EcF4c17NGVzofYeBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelno9u6JNbNTti5j-z_9aEylxAAK6AANY6EcFmaj0GgW5DZUeBA"
-        doc_id: 380528158190862522
-        emoticon: "\360\237\221\213"
-        extension: ".tgs"
-        original_size: 28806
-        gif_size: 761304
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnoW-oU1aZVeh6kgqqfSLb60AAK0AANY6EcFeEDpQbW5uvAeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnoW-oU1aZVeh6kgqqfSLb60AAK0AANY6EcFeEDpQbW5uvAeBA"
-        doc_id: 380528158190862516
-        emoticon: "\360\237\221\215"
-        extension: ".tgs"
-        original_size: 64155
-        gif_size: 645333
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelno_Wm2bNWVY-dsgOMqCZ-_DAAKwAANY6EcFEqsR8EKfsOweBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelno_Wm2bNWVY-dsgOMqCZ-_DAAKwAANY6EcFEqsR8EKfsOweBA"
-        doc_id: 380528158190862512
-        emoticon: "\360\237\222\273"
-        extension: ".tgs"
-        original_size: 39175
-        gif_size: 318990
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnoau0JdrUKXNOs2s5qHjZrGAAK4AANY6EcFb7pKx2Q2nIQeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnoau0JdrUKXNOs2s5qHjZrGAAK4AANY6EcFb7pKx2Q2nIQeBA"
-        doc_id: 380528158190862520
-        emoticon: "\342\217\260"
-        extension: ".tgs"
-        original_size: 65069
-        gif_size: 515983
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnooOhs1-b7u-BNX6mM65oUAA7YAA1joRwWr3RahEOZ8xh4E"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnooOhs1-b7u-BNX6mM65oUAA7YAA1joRwWr3RahEOZ8xh4E"
-        doc_id: 380528158190862518
-        emoticon: "\360\237\230\215"
-        extension: ".tgs"
-        original_size: 54663
-        gif_size: 662270
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnooZwJy-pZRHbz2ckbOSDISAAJuAQACWOhHBWTt61Bll-k1HgQ"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnooZwJy-pZRHbz2ckbOSDISAAJuAQACWOhHBWTt61Bll-k1HgQ"
-        doc_id: 380528158190862702
-        emoticon: "\360\237\230\265"
-        extension: ".tgs"
-        original_size: 38816
-        gif_size: 610936
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnoobhZ1hupwSb5Zn5lfv99FAAK1AANY6EcFjYilcMpp2nEeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnoobhZ1hupwSb5Zn5lfv99FAAK1AANY6EcFjYilcMpp2nEeBA"
-        doc_id: 380528158190862517
-        emoticon: "\360\237\244\252"
-        extension: ".tgs"
-        original_size: 59874
-        gif_size: 779759
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnp6OTW7Qh-SIulKyC6P0UCgAAKtAANY6EcFBTHFKlYOdjEeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnp6OTW7Qh-SIulKyC6P0UCgAAKtAANY6EcFBTHFKlYOdjEeBA"
-        doc_id: 380528158190862509
-        emoticon: "\360\237\214\210"
-        extension: ".tgs"
-        original_size: 29818
-        gif_size: 441764
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnq3ncdHwa2pwA6WUTaj-501AAKvAANY6EcFYkdhDTw-AwIeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnq3ncdHwa2pwA6WUTaj-501AAKvAANY6EcFYkdhDTw-AwIeBA"
-        doc_id: 380528158190862511
-        emoticon: "\360\237\221\273"
-        extension: ".tgs"
-        original_size: 42804
-        gif_size: 463935
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnqB3WB1JivF_s-U_HJlf699AAK3AANY6EcFvkjzO7I9wBceBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnqB3WB1JivF_s-U_HJlf699AAK3AANY6EcFvkjzO7I9wBceBA"
-        doc_id: 380528158190862519
-        emoticon: "\360\237\230\206"
-        extension: ".tgs"
-        original_size: 35439
-        gif_size: 651558
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnqEFPkMuN-wFr78NpV4TRuPAAKyAANY6EcFLHl_rUOOKGceBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnqEFPkMuN-wFr78NpV4TRuPAAKyAANY6EcFLHl_rUOOKGceBA"
-        doc_id: 380528158190862514
-        emoticon: "\360\237\230\235"
-        extension: ".tgs"
-        original_size: 64094
-        gif_size: 752237
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnqEINRStdPyYOfltgdpLNwKAAKqAANY6EcF4c17NGVzofYeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnqEINRStdPyYOfltgdpLNwKAAKqAANY6EcF4c17NGVzofYeBA"
+        file_id: "CAACAgUAAxUAAWMe68Q08tDddxdbRRwcQvyIgj8_AAKqAANY6EcF4c17NGVzofYeBA"
         doc_id: 380528158190862506
         emoticon: "\360\237\230\233"
         extension: ".tgs"
         original_size: 56047
-        gif_size: 435988
+        gif_size: 211305
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnqP9vOn72CoKmkS-qUgT7VdAAKzAANY6EcFnmLiz7ez8uweBA"
+      key: "CAACAgUAAxUAAWMe68Q2a-OwZPPdXLhGpgAB-O2xYgACuAADWOhHBW-6SsdkNpyEHgQ"
       value {
-        file_id: "CAACAgUAAxUAAWMelnqP9vOn72CoKmkS-qUgT7VdAAKzAANY6EcFnmLiz7ez8uweBA"
-        doc_id: 380528158190862515
-        emoticon: "\360\237\244\254"
+        file_id: "CAACAgUAAxUAAWMe68Q2a-OwZPPdXLhGpgAB-O2xYgACuAADWOhHBW-6SsdkNpyEHgQ"
+        doc_id: 380528158190862520
+        emoticon: "\342\217\260"
         extension: ".tgs"
-        original_size: 47113
-        gif_size: 667245
+        original_size: 65069
+        gif_size: 418150
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnr8_nJhq7HB5JoXWjVntVPmAAKsAANY6EcFaPbnsoECW_YeBA"
+      key: "CAACAgUAAxUAAWMe68QURpgzNNIL0s0Qyq0slv0uAAK3AANY6EcFvkjzO7I9wBceBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnr8_nJhq7HB5JoXWjVntVPmAAKsAANY6EcFaPbnsoECW_YeBA"
+        file_id: "CAACAgUAAxUAAWMe68QURpgzNNIL0s0Qyq0slv0uAAK3AANY6EcFvkjzO7I9wBceBA"
+        doc_id: 380528158190862519
+        emoticon: "\360\237\230\206"
+        extension: ".tgs"
+        original_size: 35439
+        gif_size: 507511
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68QUyveW4_DFqexcCEtNJ2ZYAAKsAANY6EcFaPbnsoECW_YeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68QUyveW4_DFqexcCEtNJ2ZYAAKsAANY6EcFaPbnsoECW_YeBA"
         doc_id: 380528158190862508
         emoticon: "\360\237\221\217"
         extension: ".tgs"
         original_size: 32849
-        gif_size: 451907
+        gif_size: 263375
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnrGojiZWe_9Q3pihYcKHqRlAAK5AANY6EcF6pgZ-T4gbHYeBA"
+      key: "CAACAgUAAxUAAWMe68Qb2N2gKDVZo8N9FqZtzatYAAK1AANY6EcFjYilcMpp2nEeBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnrGojiZWe_9Q3pihYcKHqRlAAK5AANY6EcF6pgZ-T4gbHYeBA"
-        doc_id: 380528158190862521
-        emoticon: "\360\237\230\207"
+        file_id: "CAACAgUAAxUAAWMe68Qb2N2gKDVZo8N9FqZtzatYAAK1AANY6EcFjYilcMpp2nEeBA"
+        doc_id: 380528158190862517
+        emoticon: "\360\237\244\252"
         extension: ".tgs"
-        original_size: 50935
-        gif_size: 578629
+        original_size: 59874
+        gif_size: 209685
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnrPVBH3YrTyAAHOvc1QGSOKnwACqwADWOhHBQeu4VuWVZkcHgQ"
+      key: "CAACAgUAAxUAAWMe68Qz40XEmCp3-SJqk7QQyklBAAKrAANY6EcFB67hW5ZVmRweBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnrPVBH3YrTyAAHOvc1QGSOKnwACqwADWOhHBQeu4VuWVZkcHgQ"
+        file_id: "CAACAgUAAxUAAWMe68Qz40XEmCp3-SJqk7QQyklBAAKrAANY6EcFB67hW5ZVmRweBA"
         doc_id: 380528158190862507
         emoticon: "\360\237\230\206"
         extension: ".tgs"
         original_size: 61858
-        gif_size: 658800
+        gif_size: 218589
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnrXyVR64TcXi_LV216uyXOGAAKuAANY6EcFUkSQayfgXhEeBA"
+      key: "CAACAgUAAxUAAWMe68RRzZICb6clC3FM0-NXbSEcAAKwAANY6EcFEqsR8EKfsOweBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnrXyVR64TcXi_LV216uyXOGAAKuAANY6EcFUkSQayfgXhEeBA"
-        doc_id: 380528158190862510
-        emoticon: "\360\237\222\223"
+        file_id: "CAACAgUAAxUAAWMe68RRzZICb6clC3FM0-NXbSEcAAKwAANY6EcFEqsR8EKfsOweBA"
+        doc_id: 380528158190862512
+        emoticon: "\360\237\222\273"
         extension: ".tgs"
-        original_size: 54872
-        gif_size: 383304
+        original_size: 39175
+        gif_size: 100340
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnrZqtkr20Tnli7LAvlwvGGIAAKxAANY6EcFpisOjNj10sIeBA"
+      key: "CAACAgUAAxUAAWMe68RZtVBKsfornQWTntUI_cjuAAK0AANY6EcFeEDpQbW5uvAeBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnrZqtkr20Tnli7LAvlwvGGIAAKxAANY6EcFpisOjNj10sIeBA"
+        file_id: "CAACAgUAAxUAAWMe68RZtVBKsfornQWTntUI_cjuAAK0AANY6EcFeEDpQbW5uvAeBA"
+        doc_id: 380528158190862516
+        emoticon: "\360\237\221\215"
+        extension: ".tgs"
+        original_size: 64155
+        gif_size: 222114
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68Rdv7PcPbAt59i47KlHa0yOAAKzAANY6EcFnmLiz7ez8uweBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68Rdv7PcPbAt59i47KlHa0yOAAKzAANY6EcFnmLiz7ez8uweBA"
+        doc_id: 380528158190862515
+        emoticon: "\360\237\244\254"
+        extension: ".tgs"
+        original_size: 47113
+        gif_size: 413847
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68S2OS9kBZznl8sYUzElVf4vAAK6AANY6EcFmaj0GgW5DZUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68S2OS9kBZznl8sYUzElVf4vAAK6AANY6EcFmaj0GgW5DZUeBA"
+        doc_id: 380528158190862522
+        emoticon: "\360\237\221\213"
+        extension: ".tgs"
+        original_size: 28806
+        gif_size: 221574
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68SRAWfahzGJB1wJIZoQGEroAAKvAANY6EcFYkdhDTw-AwIeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68SRAWfahzGJB1wJIZoQGEroAAKvAANY6EcFYkdhDTw-AwIeBA"
+        doc_id: 380528158190862511
+        emoticon: "\360\237\221\273"
+        extension: ".tgs"
+        original_size: 42804
+        gif_size: 729955
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68T3BHR14jE8Q-V4qwh4A_4xAAK5AANY6EcF6pgZ-T4gbHYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68T3BHR14jE8Q-V4qwh4A_4xAAK5AANY6EcF6pgZ-T4gbHYeBA"
+        doc_id: 380528158190862521
+        emoticon: "\360\237\230\207"
+        extension: ".tgs"
+        original_size: 50935
+        gif_size: 256470
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68TDL80EiC0AAXhWktKuCKLa0gACsQADWOhHBaYrDozY9dLCHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68TDL80EiC0AAXhWktKuCKLa0gACsQADWOhHBaYrDozY9dLCHgQ"
         doc_id: 380528158190862513
         emoticon: "\360\237\244\252"
         extension: ".tgs"
         original_size: 47603
-        gif_size: 606795
+        gif_size: 275114
       }
     }
-    update_timestamp: 1662920186.0
+    sticker {
+      key: "CAACAgUAAxUAAWMe68TNS08G3jQFRpxH-qwciTsAA60AA1joRwUFMcUqVg52MR4E"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68TNS08G3jQFRpxH-qwciTsAA60AA1joRwUFMcUqVg52MR4E"
+        doc_id: 380528158190862509
+        emoticon: "\360\237\214\210"
+        extension: ".tgs"
+        original_size: 29818
+        gif_size: 116654
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68TP_VQNs93ScfOaGEAzN6ZXAAKyAANY6EcFLHl_rUOOKGceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68TP_VQNs93ScfOaGEAzN6ZXAAKyAANY6EcFLHl_rUOOKGceBA"
+        doc_id: 380528158190862514
+        emoticon: "\360\237\230\235"
+        extension: ".tgs"
+        original_size: 64094
+        gif_size: 455578
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68To_ZqIiMcgNJ3K7kaXpC4mAAKuAANY6EcFUkSQayfgXhEeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68To_ZqIiMcgNJ3K7kaXpC4mAAKuAANY6EcFUkSQayfgXhEeBA"
+        doc_id: 380528158190862510
+        emoticon: "\360\237\222\223"
+        extension: ".tgs"
+        original_size: 54872
+        gif_size: 86422
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68TtYi-SeoKKWFDkILTIHVO2AAJuAQACWOhHBWTt61Bll-k1HgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68TtYi-SeoKKWFDkILTIHVO2AAJuAQACWOhHBWTt61Bll-k1HgQ"
+        doc_id: 380528158190862702
+        emoticon: "\360\237\230\265"
+        extension: ".tgs"
+        original_size: 38816
+        gif_size: 253837
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68TutX7GogSnx4Bu90_VkMfKAAK2AANY6EcFq90WoRDmfMYeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68TutX7GogSnx4Bu90_VkMfKAAK2AANY6EcFq90WoRDmfMYeBA"
+        doc_id: 380528158190862518
+        emoticon: "\360\237\230\215"
+        extension: ".tgs"
+        original_size: 54663
+        gif_size: 294660
+      }
+    }
+    update_timestamp: 1662942020.0
   }
 }
 sticker_set {
@@ -214,42 +214,9 @@ sticker_set {
     short_name: "JieGeBuYao"
     title: "\346\235\260\345\255\246"
     sticker {
-      key: "CAACAgUAAxUAAWMelnoGTK1pm7ldd-mb_emWAAGawAACYAAD177NDwAByLy8TFm0ZB4E"
+      key: "CAACAgUAAxUAAWMe68QAAbStrKIjKq5zuI-ytlx7yQACXgAD177ND9cIVrKhznTRHgQ"
       value {
-        file_id: "CAACAgUAAxUAAWMelnoGTK1pm7ldd-mb_emWAAGawAACYAAD177NDwAByLy8TFm0ZB4E"
-        doc_id: 1138776111421849696
-        emoticon: "\360\237\230\240"
-        extension: ".webp"
-        original_size: 21874
-        gif_size: 145892
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnojRs-sBKUjaYWrgwGVCZ63AAJZAAPXvs0PAAEzju3eif15HgQ"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnojRs-sBKUjaYWrgwGVCZ63AAJZAAPXvs0PAAEzju3eif15HgQ"
-        doc_id: 1138776111421849689
-        emoticon: "\360\237\230\241"
-        extension: ".webp"
-        original_size: 17990
-        gif_size: 128653
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnp6EgRz-bsjiq36DMRFjouNAAJbAAPXvs0PGIvvozDNHPceBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnp6EgRz-bsjiq36DMRFjouNAAJbAAPXvs0PGIvvozDNHPceBA"
-        doc_id: 1138776111421849691
-        emoticon: "\360\237\230\217"
-        extension: ".webp"
-        original_size: 18568
-        gif_size: 107352
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnpIJFlPkLZVktHmHHixd072AAJeAAPXvs0P1whWsqHOdNEeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnpIJFlPkLZVktHmHHixd072AAJeAAPXvs0P1whWsqHOdNEeBA"
+        file_id: "CAACAgUAAxUAAWMe68QAAbStrKIjKq5zuI-ytlx7yQACXgAD177ND9cIVrKhznTRHgQ"
         doc_id: 1138776111421849694
         emoticon: "\360\237\230\261"
         extension: ".webp"
@@ -258,31 +225,9 @@ sticker_set {
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnpy3aeQBPbrg4otdHc_gXOLAAJfAAPXvs0PaFc4kligYC4eBA"
+      key: "CAACAgUAAxUAAWMe68QFJk4SDcCB8d3_fZ0j2LzmAAJYAAPXvs0PW2afQ_9DdDMeBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnpy3aeQBPbrg4otdHc_gXOLAAJfAAPXvs0PaFc4kligYC4eBA"
-        doc_id: 1138776111421849695
-        emoticon: "\360\237\230\241"
-        extension: ".webp"
-        original_size: 29566
-        gif_size: 155522
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnq0R22jqZLUHN0c-Ab_4mcOAAJaAAPXvs0P6kRqCyVVTn4eBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnq0R22jqZLUHN0c-Ab_4mcOAAJaAAPXvs0P6kRqCyVVTn4eBA"
-        doc_id: 1138776111421849690
-        emoticon: "\360\237\244\224"
-        extension: ".webp"
-        original_size: 44188
-        gif_size: 149263
-      }
-    }
-    sticker {
-      key: "CAACAgUAAxUAAWMelnrW6rhq1fCXBk6rx7gHr8dhAAJYAAPXvs0PW2afQ_9DdDMeBA"
-      value {
-        file_id: "CAACAgUAAxUAAWMelnrW6rhq1fCXBk6rx7gHr8dhAAJYAAPXvs0PW2afQ_9DdDMeBA"
+        file_id: "CAACAgUAAxUAAWMe68QFJk4SDcCB8d3_fZ0j2LzmAAJYAAPXvs0PW2afQ_9DdDMeBA"
         doc_id: 1138776111421849688
         emoticon: "\360\237\230\200"
         extension: ".webp"
@@ -291,9 +236,9 @@ sticker_set {
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnrtd50nioSFGrF-P0NOnG2AAAJcAAPXvs0PjloS1JUea0weBA"
+      key: "CAACAgUAAxUAAWMe68QXlc0W6U3nJ_WfBsc-pJLgAAJcAAPXvs0PjloS1JUea0weBA"
       value {
-        file_id: "CAACAgUAAxUAAWMelnrtd50nioSFGrF-P0NOnG2AAAJcAAPXvs0PjloS1JUea0weBA"
+        file_id: "CAACAgUAAxUAAWMe68QXlc0W6U3nJ_WfBsc-pJLgAAJcAAPXvs0PjloS1JUea0weBA"
         doc_id: 1138776111421849692
         emoticon: "\360\237\230\250"
         extension: ".webp"
@@ -302,9 +247,20 @@ sticker_set {
       }
     }
     sticker {
-      key: "CAACAgUAAxUAAWMelnrty4rYoFp12oCzscCByue7AAJdAAPXvs0PgpkneoBiGjUeBA"
+      key: "CAACAgUAAxUAAWMe68QgnmLVsRWl0_V5QJr7WXxWAAJZAAPXvs0PAAEzju3eif15HgQ"
       value {
-        file_id: "CAACAgUAAxUAAWMelnrty4rYoFp12oCzscCByue7AAJdAAPXvs0PgpkneoBiGjUeBA"
+        file_id: "CAACAgUAAxUAAWMe68QgnmLVsRWl0_V5QJr7WXxWAAJZAAPXvs0PAAEzju3eif15HgQ"
+        doc_id: 1138776111421849689
+        emoticon: "\360\237\230\241"
+        extension: ".webp"
+        original_size: 17990
+        gif_size: 128653
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68S-51VdW41yrsGGVi1_vtbYAAJdAAPXvs0PgpkneoBiGjUeBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68S-51VdW41yrsGGVi1_vtbYAAJdAAPXvs0PgpkneoBiGjUeBA"
         doc_id: 1138776111421849693
         emoticon: "\360\237\230\216"
         extension: ".webp"
@@ -312,7 +268,51 @@ sticker_set {
         gif_size: 129881
       }
     }
-    update_timestamp: 1662920456.0
+    sticker {
+      key: "CAACAgUAAxUAAWMe68SE_tViC4dgukNs1EWDK1zFAAJfAAPXvs0PaFc4kligYC4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68SE_tViC4dgukNs1EWDK1zFAAJfAAPXvs0PaFc4kligYC4eBA"
+        doc_id: 1138776111421849695
+        emoticon: "\360\237\230\241"
+        extension: ".webp"
+        original_size: 29566
+        gif_size: 155522
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68Sn6lmKjoz4r6WfgWYlz6IvAAJbAAPXvs0PGIvvozDNHPceBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68Sn6lmKjoz4r6WfgWYlz6IvAAJbAAPXvs0PGIvvozDNHPceBA"
+        doc_id: 1138776111421849691
+        emoticon: "\360\237\230\217"
+        extension: ".webp"
+        original_size: 18568
+        gif_size: 107352
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68T4f4zlaMQrj1yMrjBS8r2wAAJgAAPXvs0PAAHIvLxMWbRkHgQ"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68T4f4zlaMQrj1yMrjBS8r2wAAJgAAPXvs0PAAHIvLxMWbRkHgQ"
+        doc_id: 1138776111421849696
+        emoticon: "\360\237\230\240"
+        extension: ".webp"
+        original_size: 21874
+        gif_size: 145892
+      }
+    }
+    sticker {
+      key: "CAACAgUAAxUAAWMe68Te8mIHQC2_dtQDcZFWY83yAAJaAAPXvs0P6kRqCyVVTn4eBA"
+      value {
+        file_id: "CAACAgUAAxUAAWMe68Te8mIHQC2_dtQDcZFWY83yAAJaAAPXvs0P6kRqCyVVTn4eBA"
+        doc_id: 1138776111421849690
+        emoticon: "\360\237\244\224"
+        extension: ".webp"
+        original_size: 44188
+        gif_size: 149263
+      }
+    }
+    update_timestamp: 1662942084.0
   }
 }
 hash: -3068716478439221321
