@@ -591,6 +591,71 @@ sticker_set {
   }
 }
 sticker_set {
+  key: 468428452064657410
+  value {
+    id: 468428452064657410
+    hash: -607655434
+    short_name: "wbclstickers"
+    title: "die Sticker-Paket des WBCL"
+    sticker {
+      key: "CAACAgEAAxUAAWMvDdp8d_1NFwXVqTPm93bLDIVbAAJ_AAMyMYAGx8QMJHkiB3geBA"
+      value {
+        file_id: "CAACAgEAAxUAAWMvDdp8d_1NFwXVqTPm93bLDIVbAAJ_AAMyMYAGx8QMJHkiB3geBA"
+        doc_id: 468428452064657535
+        emoticon: "\360\237\230\230"
+        extension: ".webp"
+        original_size: 13054
+        gif_size: 113943
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMvDdqAlNEpZkvzd5Nk4ErZQmjmAAKBAAMyMYAG3XpsUQ-atioeBA"
+      value {
+        file_id: "CAACAgEAAxUAAWMvDdqAlNEpZkvzd5Nk4ErZQmjmAAKBAAMyMYAG3XpsUQ-atioeBA"
+        doc_id: 468428452064657537
+        emoticon: "\360\237\214\235"
+        extension: ".webp"
+        original_size: 15622
+        gif_size: 103404
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMvDdqcBHIxjm2DRLHR_JsUzbVHAAKAAAMyMYAGr0SIVIDku3seBA"
+      value {
+        file_id: "CAACAgEAAxUAAWMvDdqcBHIxjm2DRLHR_JsUzbVHAAKAAAMyMYAGr0SIVIDku3seBA"
+        doc_id: 468428452064657536
+        emoticon: "\360\237\221\213"
+        extension: ".webp"
+        original_size: 15728
+        gif_size: 115844
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMvDdrh_BLNH174oZ_SDNYNUBxmAAKCAAMyMYAG2NQD5JbStuseBA"
+      value {
+        file_id: "CAACAgEAAxUAAWMvDdrh_BLNH174oZ_SDNYNUBxmAAKCAAMyMYAG2NQD5JbStuseBA"
+        doc_id: 468428452064657538
+        emoticon: "\360\237\230\205"
+        extension: ".webp"
+        original_size: 15664
+        gif_size: 103688
+      }
+    }
+    sticker {
+      key: "CAACAgEAAxUAAWMvDdrqLMlH1HC5T-7GNC1bQAc_AAKDAAMyMYAGHjTB-Z6LduAeBA"
+      value {
+        file_id: "CAACAgEAAxUAAWMvDdrqLMlH1HC5T-7GNC1bQAc_AAKDAAMyMYAGHjTB-Z6LduAeBA"
+        doc_id: 468428452064657539
+        emoticon: "\360\237\231\210"
+        extension: ".webp"
+        original_size: 15458
+        gif_size: 102887
+      }
+    }
+    update_timestamp: 1663999327.0
+  }
+}
+sticker_set {
   key: 513939725124370439
   value {
     id: 513939725124370439
@@ -6444,4 +6509,4 @@ sticker_set {
     update_timestamp: 1662966308.0
   }
 }
-hash: 3195742649201865486
+hash: 2409105104956718232
